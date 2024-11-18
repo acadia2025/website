@@ -10,7 +10,7 @@ header_pages:
 
 style: dark
 
-footer: 'follow us on <a https://www.instagram.com/acadiaorg/">Instagram</a>'
+footer: 'follow us on <a href="https://www.instagram.com/acadiaorg/">Instagram</a>'
 
 # Build settings
 markdown: kramdown
