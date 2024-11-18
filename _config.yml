@@ -1,15 +1,19 @@
-# Example Site settings
+title: 'ACADIA 2025'
+description: "2025 ACADIA CONFERENCE"
+baseurl: ""
+url: ""
 
-#google_analytics: UA-NNNNNNNN-N
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
 
-#header_pages:
-#  - index.md
-#  - about.md
+style: dark
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'follow us on <a https://www.instagram.com/acadiaorg/">Instagram</a>'
 
-#style: light # dark (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
-
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-seo-tag
