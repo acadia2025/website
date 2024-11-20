@@ -6,7 +6,13 @@ url: "https://acadia2025.github.io"
 header_pages:
   - index.md
   - about.md
-  - contact.md
+  - calls.md
+  - workshops.md
+  - keynotes.md
+  - schedule.md
+  - awards.md
+  - registration.md
+  - miami.md
 
 style: light
 

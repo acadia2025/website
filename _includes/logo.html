@@ -1,0 +1,17 @@
+<canvas id="logo"></canvas>
+<script type="module">
+    import { run } from "./assets/js/ascii/run.js";
+    import * as prog0 from "./assets/js/script/logo.js";
+
+    // Select the canvas element
+    const canvas = document.getElementById('logo');
+
+    // Run the program, targeting the canvas element
+    run(prog0, { element: canvas }).catch(errorHandler);
+
+    // Error handling
+    function errorHandler(e) {
+        console.warn(e.message);
+        console.log(e.error);
+    }
+</script>

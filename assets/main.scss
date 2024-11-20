@@ -8,3 +8,17 @@
 @media (prefers-color-scheme: dark) {
 	@import "dark";
 }
+
+$font-family_1: 'Simple Console', monospace;
+$background-color_1: white;
+
+canvas {
+	margin: 1em;
+	width: 40em;
+	height: 22em;
+	display: inline-block;
+	font-size: 5em;
+	line-height: 1.2;
+	font-family: $font-family_1;
+	background-color: $background-color_1;
+}

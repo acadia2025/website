@@ -1,9 +1,15 @@
 ---
-title: /
+title: /2025
 layout: home
 permalink: /
 ---
+{%- include logo.html -%}
 
-# Coming soon!
+# ACADIA 2025 : Computing Resilence
 
-ACADIA 2025 CONFERENCE IN MIAMI 
+Florida International Universty /  University  of Miami
+
+Miami, Florida
+
+
+Coming Soon!

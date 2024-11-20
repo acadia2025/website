@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Test multi</title>
+	<style type="text/css" media="screen">
+		body {
+			background-color: rgb(250, 250, 250);
+			margin: 2em;
+		}
+		pre {
+			margin: 1em;
+			width: 40em;
+			height: 22em;
+			display: inline-block;
+			font-size: 1em;
+			line-height: 1.2;
+			font-family: 'Simple Console', monospace;
+			background-color: white;
+		}
+	</style>
+    <script src="path-to-ascii-library.js"></script>
+    <script src="assets/js/ascii/run.js"></script>
+</head>
+<body>
+	<pre></pre>
+	<script type="module">
+		import { run } from "{{ '/assets/js/ascii/run.js' | relative_url }}";
+		import * as prog0 from "{{ '/assets/js/script/logo.js' | relative_url }}";
+
+		const pre = document.querySelectorAll('pre');
+		run(prog0, { element: pre[0] }).catch(errorHandler);
+
+		function errorHandler(e) {
+			console.warn(e.message);
+			console.log(e.error);
+		}
+	</script>
+</body>
+</html>
