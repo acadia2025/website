@@ -28,7 +28,7 @@ export const settings = {
 }
 
 
-const pattern = 'ACADIA 2025 MIAMI '
+const pattern = ' ACADIA  2025  MIAMI  '
 
 const { sin, round, abs } = Math
 
