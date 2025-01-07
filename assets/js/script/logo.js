@@ -15,15 +15,15 @@ export const settings = {
 		y : 20
 	},
 	canvasSize : {
-		width : 800,
-		height : 200
+		width : 600,
+		height : 600
 		
 	},
 	// Universal settings
-	cols : 70,
-	rows : 30,
-	backgroundColor : 'magenta',
-	color : 'cyan',
+	cols : 80,
+	rows : 70,
+	backgroundColor : 'white',
+	color : 'black',
 	fps: 60
 }
 
