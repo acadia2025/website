@@ -1,7 +1,7 @@
 title: 'ACADIA 2025'
 description: "2025 ACADIA CONFERENCE"
-baseurl: "/website"
-url: "https://acadia2025.github.io"
+baseurl: ""
+url: "https://2025.acadia.org"
 
 header_pages:
   - index.md
