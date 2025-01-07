@@ -15,8 +15,8 @@ export const settings = {
 		y : 20
 	},
 	canvasSize : {
-		width : 600,
-		height : 600
+		width : 800,
+		height : 200
 		
 	},
 	// Universal settings

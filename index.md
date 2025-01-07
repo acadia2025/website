@@ -5,7 +5,7 @@ permalink: /
 ---
 {%- include logo.html -%}
 
-# ACADIA 2025 : Computing Resilience
+# ACADIA 2025 : COMPUTING FOR RESILIENCE
 
 Florida International Universty /  University  of Miami
 
