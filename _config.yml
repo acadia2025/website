@@ -5,9 +5,10 @@ url: "https://2025.acadia.org"
 
 header_pages:
   - index.md
-  - about.md
+  # - about.md
   - calls.md
-  - workshops.md
+  - organizers.md
+  # - workshops.md
   - keynotes.md
   - schedule.md
   - awards.md

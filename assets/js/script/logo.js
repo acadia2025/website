@@ -21,9 +21,9 @@ export const settings = {
 	},
 	// Universal settings
 	cols : 80,
-	rows : 70,
-	backgroundColor : 'white',
-	color : 'black',
+	rows : 30,
+	backgroundColor : 'MAGENTA',
+	color : 'CYAN',
 	fps: 60
 }
 

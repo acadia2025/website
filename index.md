@@ -3,13 +3,8 @@ title: /2025
 layout: home
 permalink: /
 ---
+# COMPUTING for RESILIENCE
 {%- include logo.html -%}
-
-# ACADIA 2025 : COMPUTING FOR RESILIENCE
+## Workshops Nov 3-5 + Conference Nov 6-8 | Miami, Florida
 
 Florida International Universty /  University  of Miami
-
-Miami, Florida
-
-
-Coming Soon!
