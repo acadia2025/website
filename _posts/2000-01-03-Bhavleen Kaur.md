@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bhavleen Kaur "
-date:   2014-06-04
+date:   2014-06-06
 caption: Bhavleen Kaur
 permalink: /Bhavleen Kaur 
 category: technical
