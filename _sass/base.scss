@@ -20,7 +20,9 @@ p, ul, ol { margin: 0px;  color: var(--text-color); }
 a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--background-color); background-color: var(--base-color); }
 @media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
-
+a.title {
+    text-align: left; margin: 0px;  color: var(--text-color);
+  }
 /**
  * Layout
  */
@@ -44,14 +46,46 @@ footer { margin-bottom: 20px; }
 :not(.menu) > ul { list-style-type: none; }
 :not(.menu) > ul > li:before { content: "-";  margin-right: 9px; }
 
-/**
- * Header/Navigation
- */
-.menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; }
-.menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
-.menu ul li { display: inline;  margin-left: 10px; }
-.menu ul li a { text-decoration: none;  color: var(--text-color); }
-.menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
+/* Header/Navigation */
+.menu {
+    border-top: var(--border);
+    border-bottom: var(--border);
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: space-between; /* Ensure left and right alignment */
+    align-items: center;
+  
+    > a {
+      flex: 0 1 auto; /* Keep the title on the left */
+      text-align: left;
+      text-decoration: none;
+      color: var(--text-color);
+    }
+  
+    ul {
+      margin: 12px 0;
+      padding-left: 0;
+      list-style-type: none;
+      text-align: right;
+      display: flex; /* Align items in a row */
+      gap: 10px; /* Spacing between menu items */
+    }
+  
+    ul li {
+      display: inline; /* Keep inline items */
+    }
+  
+    ul li a {
+      text-decoration: none;
+      color: var(--text-color);
+  
+      &:hover {
+        text-decoration: none;
+        color: var(--background-color);
+        background-color: var(--base-color);
+      }
+    }
+  }
 
 /**
  * Form

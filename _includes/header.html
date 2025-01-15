@@ -1,12 +1,15 @@
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 <header>
   <div class="menu">
+    <!-- Left-aligned title -->
+    <a href="http://www.acadia.org">{{ site.title }}</a>
+    
+    <!-- Right-aligned menu items -->
     <ul>
-      <li><a href="http://www.acadia.org"> ACADIA </ahref></a>
       {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
         {%- if my_page.title -%}
-        <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+          <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
         {%- endif -%}
       {%- endfor -%}
     </ul>
