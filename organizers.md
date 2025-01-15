@@ -6,6 +6,7 @@ permalink: /organizers
 
 #  ORGANIZERS
 
+---------------
 ## SITE CHAIRS
 ---------------
 
@@ -13,8 +14,9 @@ permalink: /organizers
 
 {% include image-gallery.html folder="/assets/images/organizers/chairs" %}
 
+---------------
 ## CO-CHAIRS
--------------
+---------------
 
 
 
