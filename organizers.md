@@ -11,13 +11,10 @@ permalink: /organizers
 ---------------
 
 
-
-{% include image-gallery.html folder="/assets/images/organizers/chairs" %}
-
+{% include post-gallery.html category="chair" %}
 ---------------
 ## CO-CHAIRS
 ---------------
 
 
-
-{% include image-gallery.html folder="/assets/images/organizers/cochairs" %}
+{% include post-gallery.html category="cochair" %}
