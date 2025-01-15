@@ -2,9 +2,9 @@
 layout: post
 title:  "John Stuart "
 date:   2014-06-04
-caption: John Stuart   - Industry and Practice
+caption: John Stuart
 permalink: /John Stuart
-category: cochair
+category: industry
 thumbnail: assets/images/organizers/cochairs/js.jpg
 
 ---

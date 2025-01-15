@@ -2,7 +2,7 @@
 layout: post
 title:  "Maxwell Jarosz"
 date:   2014-06-03
-caption: Maxwell Jarosz  - Site
+caption: Maxwell Jarosz
 permalink: /Maxwell-Jarosz 
 category: chair
 thumbnail: assets/images/organizers/chairs/mj.png

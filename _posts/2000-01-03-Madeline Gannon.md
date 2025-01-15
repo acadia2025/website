@@ -2,9 +2,9 @@
 layout: post
 title:  "Madeline Gannon"
 date:   2014-06-04
-caption: Madeline Gannon - Industry and Practice
+caption: Madeline Gannon
 permalink: /Madeline Gannon
-category: cochair
+category: industry
 thumbnail: assets/images/organizers/cochairs/mg.jpg
 
 ---

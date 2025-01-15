@@ -2,9 +2,9 @@
 layout: post
 title:  "Bhavleen Kaur "
 date:   2014-06-04
-caption: Bhavleen Kaur   - Technical
+caption: Bhavleen Kaur
 permalink: /Bhavleen Kaur 
-category: cochair
+category: technical
 thumbnail: assets/images/organizers/cochairs/bk.jpg
 
 ---

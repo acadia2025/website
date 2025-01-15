@@ -32,7 +32,8 @@
 </style>
 
 <ul class="image-gallery">
-  {% for post in site.posts %}
+  {% assign sorted_posts = site.posts | sort: "date" %}
+  {% for post in sorted_posts %}
     {% if include.category %}
       {% if post.categories contains include.category %}
         <li>

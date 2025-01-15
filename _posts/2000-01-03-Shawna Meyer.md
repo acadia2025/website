@@ -2,9 +2,9 @@
 layout: post
 title:  "Shawna Meyer "
 date:   2014-06-04
-caption: Shawna Meyer  - Technical
+caption: Shawna Meyer
 permalink: /Shawna Meyer 
-category: cochair
+category: technical
 thumbnail: assets/images/organizers/cochairs/sm.jfif
 
 ---

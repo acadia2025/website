@@ -2,10 +2,10 @@
 layout: post
 title:  "Luis Pacheco"
 date:   2014-06-01
-caption: Luis Pacheco - Workshops
+caption: Luis Pacheco
 permalink: /luis-pacheco
 project: true
-category: cochair
+category: workshop
 thumbnail: assets/images/organizers/cochairs/lp.jpg
 
 ---

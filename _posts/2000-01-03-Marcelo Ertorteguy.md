@@ -2,9 +2,9 @@
 layout: post
 title:  "Marcelo Ertorteguy "
 date:   2014-06-04
-caption: Marcelo Ertorteguy - Industry and Practice
+caption: Marcelo Ertorteguy
 permalink: /Marcelo Ertorteguy
-category: cochair
+category: exhibition
 thumbnail: assets/images/organizers/cochairs/me.jpg
 
 ---

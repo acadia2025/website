@@ -2,9 +2,9 @@
 layout: post
 title:  "Sara Pezeshk "
 date:   2014-06-04
-caption: Sara Pezeshk  - Project
+caption: Sara Pezeshk
 permalink: /Sara Pezeshk
-category: cochair
+category: project
 thumbnail: assets/images/organizers/cochairs/sp.jpg
 
 ---

@@ -2,9 +2,9 @@
 layout: post
 title:  "Chris Meyer"
 date:   2014-06-04
-caption: Chris Meyer - Project
+caption: Chris Meyer
 permalink: /Chris Meyer
-category: cochair
+category: project
 thumbnail: assets/images/organizers/cochairs/cm.jfif
 
 ---

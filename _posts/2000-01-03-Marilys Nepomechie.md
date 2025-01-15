@@ -2,9 +2,9 @@
 layout: post
 title:  "Marilys Nepomechie "
 date:   2014-06-04
-caption: Marilys Nepomechie - Industry and Practice
+caption: Marilys Nepomechie
 permalink: /Marilys Nepomechie
-category: cochair
+category: industry
 thumbnail: assets/images/organizers/cochairs/mn.jpg
 
 ---

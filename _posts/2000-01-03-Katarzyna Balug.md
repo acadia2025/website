@@ -2,9 +2,9 @@
 layout: post
 title:  "Katarzyna Balug"
 date:   2014-06-03
-caption: Katarzyna Balug  - Technical
+caption: Katarzyna Balug
 permalink: /Katarzyna Balug
-category: cochair
+category: technical
 thumbnail: assets/images/organizers/cochairs/kb.jpg
 
 ---

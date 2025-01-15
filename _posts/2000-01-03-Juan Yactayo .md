@@ -2,9 +2,9 @@
 layout: post
 title:  "Juan Yactayo "
 date:   2014-06-04
-caption: Juan Yactayo  - Industry and Practice
+caption: Juan Yactayo
 permalink: /Juan Yactayo 
-category: cochair
+category: industry
 thumbnail: assets/images/organizers/cochairs/jy.jpg
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Shahin Vassigh"
 date:   2014-06-01
-caption: Shahin Vassigh - Site
+caption: Shahin Vassigh
 permalink: /shahin-vassigh
 project: true
 category: chair

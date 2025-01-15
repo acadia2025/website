@@ -13,8 +13,29 @@ permalink: /organizers
 
 {% include post-gallery.html category="chair" %}
 ---------------
-## CO-CHAIRS
+## TECHNICAL CHAIRS
 ---------------
 
+{% include post-gallery.html category="technical" %}
 
-{% include post-gallery.html category="cochair" %}
+---------------
+## PROJECT CHAIRS
+---------------
+
+{% include post-gallery.html category="project" %}
+
+---------------
+## EXHIBITION CHAIRS
+---------------
+
+{% include post-gallery.html category="exhibition" %}
+---------------
+## WORKSHOP CHAIRS
+---------------
+
+{% include post-gallery.html category="workshop" %}
+---------------
+## INDUSTRY AND PRACTICE CHAIRS
+---------------
+
+{% include post-gallery.html category="industry" %}

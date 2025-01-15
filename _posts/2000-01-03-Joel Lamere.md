@@ -2,9 +2,9 @@
 layout: post
 title:  "Joel Lamere "
 date:   2014-06-04
-caption: Joel Lamere   - Technical
+caption: Joel Lamere
 permalink: /Vyta Pivo 
-category: cochair
+category: project
 thumbnail: assets/images/organizers/cochairs/jl.jpg
 
 ---
