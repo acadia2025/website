@@ -3,7 +3,7 @@ layout: post
 title:  "Joel Lamere "
 date:   2014-06-04
 caption: Joel Lamere
-permalink: /Vyta Pivo 
+permalink: /Joel Lamere
 category: project
 thumbnail: assets/images/organizers/cochairs/jl.jpg
 

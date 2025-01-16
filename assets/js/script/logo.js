@@ -1,5 +1,5 @@
 /**
-@author lp
+@author luispacheco
 @title  Canvas renderer
 @desc   Rendering to a canvas element
 */

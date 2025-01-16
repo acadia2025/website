@@ -6,5 +6,4 @@ permalink: /miami
 
 #  Miami
 
-
 Coming Soon!

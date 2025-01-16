@@ -7,13 +7,12 @@ permalink: /organizers
 #  ORGANIZERS
 
 ---------------
-## SITE CHAIRS
+#### SITE CHAIRS
 ---------------
-
 
 {% include post-gallery.html category="chair" %}
 ---------------
-## TECHNICAL CHAIRS
+#### TECHNICAL CHAIRS
 ---------------
 
 {% include post-gallery.html category="technical" %}

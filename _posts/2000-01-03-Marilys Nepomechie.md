@@ -5,7 +5,7 @@ date:   2014-06-04
 caption: Marilys Nepomechie
 permalink: /Marilys Nepomechie
 category: industry
-thumbnail: assets/images/organizers/cochairs/mn.jpg
+thumbnail: assets/images/organizers/cochairs/mn.png
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
