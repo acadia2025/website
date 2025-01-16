@@ -25,15 +25,17 @@ permalink: /organizers
 {% include post-gallery.html category="project" %}
 
 ---------------
-## EXHIBITION CHAIRS
----------------
-
-{% include post-gallery.html category="exhibition" %}
----------------
 ## WORKSHOP CHAIRS
 ---------------
 
 {% include post-gallery.html category="workshop" %}
+
+---------------
+## EXHIBITION CHAIRS
+---------------
+
+{% include post-gallery.html category="exhibition" %}
+
 ---------------
 ## INDUSTRY AND PRACTICE CHAIRS
 ---------------
