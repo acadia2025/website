@@ -100,7 +100,7 @@ Miami, FL 33133
 - **Fly's Eye Dome**  by Buckminster Fuller
 - **Miami Museum Garage**  by Workac
 - **Miami Art Deco District**  
-- **One Thousand Museum**  by ZHA
+- **One Thousand Museum**  by ZHAgit
 
 ---
 ## Additional Sights
