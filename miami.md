@@ -28,6 +28,14 @@ The conference workshops will take place at FIU's Robotics and Digital Fabricati
 -----
 # Accommodations  
 -----
+---
+## Miami Beach
+---
+- **Betsy Hotel**
+
+- **Standard Hotel**
+
+---
 ## Downtown Miami   
 ---
 
@@ -58,6 +66,11 @@ Coral Gables, FL 33134
 - **The Ritz-Carlton Coconut Grove**
 3300 SW 27th Ave
 Miami, FL 33133  
+
+---
+### Doral
+---
+- **Double Tree Hotel**
 
 ---
 ## Nearby Restaurants
