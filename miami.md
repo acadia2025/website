@@ -68,8 +68,9 @@ Coral Gables, FL 33134
 Miami, FL 33133  
 
 ---
-### Doral
+### Doral  
 ---
+
 - **Double Tree Hotel**
 
 ---
@@ -80,7 +81,6 @@ Miami, FL 33133
 
 - **Zuma**
   270 Biscayne Blvd Way  
-
 
 - **Versailles Restaurant (Cuban Cuisine)**
   3555 SW 8th St  
