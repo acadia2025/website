@@ -101,7 +101,6 @@ Miami, FL 33133
 - **Miami Museum Garage**  by Workac
 - **Miami Art Deco District**  
 - **One Thousand Museum**  by ZHA
-- **1111 Lincoln Road**  
 
 ---
 ## Additional Sights
