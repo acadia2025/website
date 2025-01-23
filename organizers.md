@@ -6,6 +6,7 @@ permalink: /organizers
 
 #  ORGANIZERS
 
+{% include post-gallery.html category="host" %}
 ---------------
 #### SITE CHAIRS
 ---------------
