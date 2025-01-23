@@ -91,16 +91,26 @@ Miami, FL 33133
 - **Cvi.Che 105 (Peruvian Cuisine)**
   105 NE 3rd Ave  
 
+
+---
+## Miami Architecture
+---
+- **Perez Art Museum Miami (PAMM)**  by Herzog & de Meuron
+- **1111 Lincoln Road**  by Herzog & de Meuron
+- **Fly's Eye Dome**  by Buckminster Fuller
+- **Miami Museum Garage**  by Workac
+- **Miami Art Deco District**  
+- **One Thousand Museum**  by ZHA
+- **1111 Lincoln Road**  
+
 ---
 ## Additional Sights
 ---
-- **Perez Art Museum Miami (PAMM)**  
 - **Vizcaya Museum and Gardens**  
 - **Little Havana**  
 - **Wynwood Walls**  
 - **Everglades National Park**  
 - **Miami Design District**  
-- **1111 Lincoln Road**  
 
 ---
 ## Transportation
