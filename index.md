@@ -5,8 +5,9 @@ permalink: /
 ---
 # COMPUTING for RESILIENCE : Expanding Community Knowledge & Impact
 
+## Workshops Nov 3-5 + Conference Nov 6-8 // Miami, Florida
+
+### Florida International University  // University of Miami
+
+
 {%- include logo.html -%}
-
-## Workshops Nov 3-5 + Conference Nov 6-8 | Miami, Florida
-
-Florida International Universty /  University  of Miami

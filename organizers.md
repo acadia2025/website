@@ -5,6 +5,9 @@ permalink: /organizers
 ---
 
 #  ORGANIZERS
+Hosts: Florida International University (FIU) and University of Miami (UM)
+
+The conference workshops will take place at FIU's Robotics and Digital Fabrication Lab and UM's cutting-edge facilities. These state-of-the-art environments are ideal for hands-on exploration and collaboration, pushing the boundaries of design and technology.
 
 {% include post-gallery.html category="host" %}
 ---------------
