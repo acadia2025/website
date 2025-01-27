@@ -7,7 +7,7 @@ permalink: /
 
 ## Workshops Nov 3-5 + Conference Nov 6-8 // Miami, Florida
 
-### Florida International University  // University of Miami
+### Florida International University  // University of Miami  
 
 
 {%- include logo.html -%}

@@ -1,55 +1,54 @@
 <style>
-.image-gallery {
-  overflow: auto;
-  margin-left: -2% !important;
-}
-.image-gallery li {
-  float: left;
-  display: block;
-  margin: 2% 0 0 2%;
-  width: 22%;
-}
-.image-gallery li a {
-  text-align: center;
-  text-decoration: none !important;
-  color: #777;
-}
-.image-gallery li a span {
-  display: block;
-  text-overflow: ellipsis;
-  overflow: hidden;
-  white-space: nowrap;
-  padding: 3px 0;
-}
-.image-gallery li a img {
-  width: 100%;
-  height: auto; /* Ensures images scale proportionally */
-  display: block;
-  object-fit: cover;
-  aspect-ratio: 1 / 1; /* Maintains a square aspect ratio */
-  max-width: 100%; /* Prevents images from exceeding their container size */
-}
-</style>
-
-<ul class="image-gallery">
-  {% assign sorted_posts = site.posts | sort: "date" %}
-  {% for post in sorted_posts %}
-    {% if include.category %}
-      {% if post.categories contains include.category %}
-        <li>
+  .image-gallery {
+    overflow: auto;
+    margin-left: -2% !important;
+  }
+  .image-gallery li {
+    float: left;
+    display: block;
+    margin: 2% 0 0 2%;
+  }
+  .image-gallery li a {
+    text-align: center;
+    text-decoration: none !important;
+    color: #777;
+  }
+  .image-gallery li a span {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 3px 0;
+  }
+  .image-gallery li a img {
+    width: 100%;
+    height: auto; /* Ensures images scale proportionally */
+    display: block;
+    object-fit: cover;
+    aspect-ratio: 1 / 1; /* Maintains a square aspect ratio */
+    max-width: 100%; /* Prevents images from exceeding their container size */
+  }
+  </style>
+  
+  <ul class="image-gallery" style="--gallery-item-width: {{ include.gallery_item_width | default: '22%' }};">
+    {% assign sorted_posts = site.posts | sort: "date" %}
+    {% for post in sorted_posts %}
+      {% if include.category %}
+        {% if post.categories contains include.category %}
+          <li style="width: var(--gallery-item-width);">
+            <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+              <img src="{{ post.thumbnail }}" alt="{{ post.title }}" title="{{ post.title }}" />
+              <span>{{ post.caption }}</span>
+            </a>
+          </li>
+        {% endif %}
+      {% else %}
+        <li style="width: var(--gallery-item-width);">
           <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
             <img src="{{ post.thumbnail }}" alt="{{ post.title }}" title="{{ post.title }}" />
             <span>{{ post.caption }}</span>
           </a>
         </li>
       {% endif %}
-    {% else %}
-      <li>
-        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
-          <img src="{{ post.thumbnail }}" alt="{{ post.title }}" title="{{ post.title }}" />
-          <span>{{ post.caption }}</span>
-        </a>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+    {% endfor %}
+  </ul>
