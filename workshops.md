@@ -1,0 +1,111 @@
+---
+title: /workshops
+layout: page
+permalink: /workshops
+---
+
+# Call for Workshops: ACADIA 2025 Miami  
+**Conference Theme: Building Resilience in an Uncertain World**  
+
+Miami, a city at the forefront of physical, economic, and climatic challenges, serves as a microcosm of global issues and a hub for innovative solutions. The 2025 ACADIA conference, in collaboration with **Florida International University (FIU)** and the **University of Miami (UM)**, invites proposals for workshops that explore how computational design and digital fabrication can address these challenges. From climate adaptation and socio-political resilience to the integration of robotics and AI, we seek to harness the collective creativity of architects, designers, and technologists to redefine the future of the built environment.  
+
+Workshops will take place in-person in Miami, leveraging state-of-the-art facilities and equipment at FIU and UM. We encourage proposals that engage with the conference theme and utilize the available resources to push the boundaries of digital design and fabrication.  
+
+---
+
+## Workshop Themes  
+Workshops should align with one or more of the following sub-themes:  
+
+1. **Computational Strategies for Climate Adaptation**  
+   Explore how computational tools, modeling, and simulation can inform climate-responsive architecture, adaptive building systems, and sustainable urban planning.  
+
+2. **Integrating Robotics and AI in Architecture and Construction**  
+   Investigate the role of robotics, artificial intelligence, and machine learning in optimizing construction processes, enhancing precision, and enabling innovative design solutions.  
+
+3. **Sociopolitical and Economic Resilience through Digital Design**  
+   Examine how digital design practices can address socio-political challenges, such as economic inequality, social justice, and policy constraints, through community-based design and participatory platforms.  
+
+4. **Space Innovations for a Sustainable and Resilient Earth**  
+   Leverage technologies developed for space exploration, such as closed-loop systems and sensor networks, to inform sustainable architectural practices and enhance resilience on Earth.  
+
+---
+
+## Available Spaces and Equipment  
+Workshop leaders will have access to cutting-edge facilities and equipment at **FIU** and **UM**, including:  
+
+### FIU Facilities  
+- **Industrial Robots**:  
+  - KUKA KR-10 R1100 Sixx  
+  - KUKA KR 30 – HA  
+- **Collaborative Robots**:  
+  - Universal Robots UR16e, UR10e (with 4m external axis)  
+  - uFactory Xarm 6, uFactory 850  
+- **Large-Scale 3D Printing**:  
+  - WASP LDM XXL Extruder (concrete/clay)  
+  - StoneFlower Ceramic 3D Printing KIT BIG  
+  - (2) MDPE-EX2, MDPE-EX6 (plastic)  
+- **3D Printers**:  
+  - (4) Prusas (FDM), Mark Two Markforged (Carbon Fiber FDM)  
+  - (6) Form 2 FormLabs (SLA), (6) Makerbot Z18  
+  - (2) RatRig V-Core 50x50x50 cm (FDM)  
+  - BioBots BIO printer, PotterBot  
+- **Laser Cutters**:  
+  - (2) Universal 60w CO2, (1) Trotec 120w CO2  
+- **Model Shop**:  
+  - Standard woodworking tools, light metalworking tools  
+  - 4’ x 8’ CNC Router  
+- **AR/VR/MR**:  
+  - (4) HTC Vive Pro, (3) Hololens 2, (3) Magic Leap  
+  - ZED2, Azure Kinect, Intel Realsense Depth Cameras  
+  - (2) RTX 3090 eGPU  
+- **Recycling Setup**:  
+  - Filabot EX6, pelletizer, reclaimer  
+  - Precious Plastics shredder, sheet press  
+
+### UM Facilities  
+- **Industrial Robots**:  
+  - KUKA R2700 (with rotary external axis)  
+- **Large-Scale 3D Printing**:  
+  - COBOD 2 (31’ x 30’ x 12’h)  
+- **3D Printers**:  
+  - (5) Ultimaker (FDM), (5) Sindoh (SLA)  
+  - (3) FormLabs (SLA), (1) ZCorp (Binderjet)  
+- **Laser Cutters**:  
+  - (2) Universal 60w CO2 (36”x24”)  
+  - (2) Universal 60w CO2 (32”x18”)  
+- **Model Shop**:  
+  - Standard woodworking tools  
+  - 4’ x 8’ CNC Router with tool changer, 2’ x 4’ CNC Router  
+- **Ceramics**:  
+  - StoneFlower 4.0 Clay Printer, Vcella B-15 Kiln  
+- **AR/VR/MR**:  
+  - (10) Magic Leap Headsets  
+
+---
+
+## Submission Requirements  
+Workshop proposals should include the following:  
+1. **Instructor Information**: Names, affiliations, bios, CVs, and links to previous teaching examples.  
+2. **Workshop Title and Type**: Technical, seminar, or other.  
+3. **Statement of Intent**: A paragraph outlining the workshop’s goals, research significance, and alignment with the conference theme.  
+4. **Workshop Description**: Methods, required software, outcomes, and technical constraints. Include 5 keywords.  
+5. **Workshop Schedule**: Duration (1-3 days), daily breakdown, and hours per day (3-8 recommended).  
+6. **Participant Information**: Optimal size, intended audience, and prerequisites.  
+7. **Equipment and Materials**: List of required software, hardware, and materials.  
+8. **Proposed Budget**: Itemized budget with anticipated costs and potential funding sources.  
+
+---
+
+## Important Dates  
+- **Submission Deadline**: June 1, 2025, 11:59 PM EST  
+- **Notification of Acceptance**: Late July 2025  
+- **Revised Papers Due**: Late August 2025  
+
+---
+
+## Submission Process  
+Please download the submission form and email it to **[insert email]** by the deadline. Proposals will undergo a juried review process, and successful applicants will receive funding to cover travel, materials, and an honorarium.  
+
+---
+
+We look forward to receiving proposals that push the boundaries of digital design and fabrication, leveraging Miami’s unique challenges and opportunities to create resilient and innovative solutions for the built environment.  
