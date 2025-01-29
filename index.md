@@ -1,5 +1,5 @@
 ---
-title: /2025
+title: /home
 layout: home
 permalink: /
 ---
