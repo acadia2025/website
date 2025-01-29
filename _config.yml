@@ -2,6 +2,7 @@ title: 'ACADIA'
 description: "2025 ACADIA CONFERENCE"
 baseurl: ""
 url: "https://2025.acadia.org"
+logo: "/assets/images/acadia_logo.png"
 
 header_pages:
   - index.md
