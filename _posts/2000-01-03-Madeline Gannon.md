@@ -10,7 +10,7 @@ thumbnail: assets/images/organizers/cochairs/mg.jpg
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-## Madeline Gannon
+## [Madeline Gannon](https://www.atonaton.com)
 Founder ATONATON; Research Associate, FIU
 Madeline.gannon@gmail.com
 

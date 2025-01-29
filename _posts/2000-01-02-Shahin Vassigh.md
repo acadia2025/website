@@ -11,7 +11,7 @@ thumbnail: assets/images/organizers/chairs/sv.jpg
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-## Shahin Vassigh, Ph.D.
+## [Shahin Vassigh, Ph.D.](https://case.fiu.edu/about/directory/affiliated-profiles/vassigh-shahin.html)
 Professor of Architecture, FIU
 svassigh@FIU.edu
 

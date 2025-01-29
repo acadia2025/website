@@ -10,7 +10,7 @@ thumbnail: assets/images/organizers/cochairs/cm.jfif
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-## Chris Meyer
+## [Chris Meyer](https://people.miami.edu/profile/e4ee4492af1cef2921fc39f77a95768d)
 Assistant Professor, UM 
 cmeyer@miami.edu
 
