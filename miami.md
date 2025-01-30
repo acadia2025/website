@@ -8,12 +8,13 @@ permalink: /miami
 # Conference City: Miami  
 
 The 2025 ACADIA conference will take place in **Miami, Florida**. Miami is a vibrant, diverse, and rapidly growing city, often referred to as the "Gateway to the Americas." Known for its iconic Art Deco architecture, stunning beaches, and thriving arts and cultural scene, Miami is also a hub for innovation in technology and design. The conference will highlight Miami's unique position as a crossroads of cultures and a center for cutting-edge architectural research and practice.  
+![Miami](/assets/images/miami/Photo-16.png)
 
 The academic hosts for ACADIA 2025 are **Florida International University** and the **University of Miami**. Both institutions provide an inspiring environment for innovation and collaboration in the fields of architecture, design, and technology.
 
 ---
 
-# Accommodations  
+# Suggested Accommodations  
 
 ## Miami Beach  
 
@@ -76,6 +77,9 @@ The academic hosts for ACADIA 2025 are **Florida International University** and 
 - **[Miami Museum Garage](https://www.miamidesigndistrict.com/listing/739/museum-garage/)** by Workac  
 - **[Miami Art Deco District](https://www.mdpl.org/)**  
 - **[One Thousand Museum](https://www.archdaily.com/934407/one-thousand-museum-zaha-hadid-architects)** by Zaha Hadid  
+
+
+{% include image-gallery.html folder="/assets/images/miami/arch" %}
 
 ---
 
