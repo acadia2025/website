@@ -1,17 +1,17 @@
 <footer style="display: flex; width: 100%; background-color: #ffffff; padding: 20px; box-sizing: border-box;">
   <!-- First Column (split into three columns) -->
   <div style="width: 50%; display: flex;">
-    <div style="width: 33.33%; padding: 10px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
+    <div class="logo-container" style="width: 33.33%; padding: 10px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
       <a href="http://acadia.org" target="_blank" rel="noopener noreferrer">
         <img src="/assets/images/acadia_logo.png" alt="acadia" style="max-width: 100%; height: auto;">
       </a>
     </div>
-    <div style="width: 33.33%; padding: 10px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
+    <div class="logo-container" style="width: 33.33%; padding: 10px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
       <a href="https://carta.fiu.edu/architecture/" target="_blank" rel="noopener noreferrer">
         <img src="/assets/images/fiu_logo.png" alt="FIU" style="max-width: 100%; height: auto;">
       </a>
     </div>
-    <div style="width: 33.33%; padding: 10px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
+    <div class="logo-container" style="width: 33.33%; padding: 10px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
       <a href="https://www.arc.miami.edu/" target="_blank" rel="noopener noreferrer">
         <img src="/assets/images/um_logo.png" alt="UM" style="max-width: 100%; height: auto;">
       </a>
@@ -23,3 +23,15 @@
     <p style="text-align: center; margin: 0;">{{ site.footer }}</p>
   </div>
 </footer>
+
+<style>
+  /* Ensure the background color doesn't change on hover */
+  .logo-container:hover {
+    background-color: #ffffff; /* Same as the original background color */
+  }
+
+  .logo-container a:hover {
+    background-color: transparent; /* Ensure the link background doesn't change */
+  }
+</style>
+
