@@ -15,16 +15,36 @@ In the context of computation and fabrication in architecture, this theme invite
 ## We anticipate several subthemes for paper calls, including the following:
 
 ### Computational Strategies for Climate Adaptation
-This sub-theme focuses on the role of computational tools and digital technologies in developing strategies for sustainability and climate resilience. It invites papers that explore how advanced modeling, simulation, and data analysis can predict environmental impacts and inform design decisions that mitigate climate risks. Topics may include climate-responsive architecture, adaptive building systems, and sustainable urban planning driven by computational methods.
+This sub-theme focuses on the role of computational tools and digital technologies in developing strategies for sustainability and climate resilience. It invites papers that explore how advanced modeling, simulation, and data analysis can predict environmental impacts and inform design decisions that mitigate climate risks. Topics may include:
+- Climate Responsive Architecture
+- Adaptive Building Systems, Building Performance Optimisation
+- Material Computation
+
 
 ### Integrating Robotics and AI in Architecture and Construction
-This subtheme examines the integration of robotics, artificial intelligence, and machine learning in architecture and construction. It seeks contributions that investigate how these technologies can optimize construction processes, enhance precision and efficiency, and facilitate innovative design solutions. Papers might address automation in construction, collaborative robots in fabrication, and AI-driven design generation and optimization.
+This subtheme examines the integration of robotics, artificial intelligence, and machine learning in architecture and construction. It seeks contributions that investigate how these technologies can optimize construction processes, enhance precision and efficiency, and facilitate innovative design solutions. Papers might address:
+Automation in Construction
+- Robotics, Digital Fabrication, Biodesign and Construction
+- AI-driven Design, Predictive Modelling, and Optimization
+- Human-Computer Interaction (HCI), Human-Robot Interaction (HRI)
+- Spatial Computing and Extended Reality (VR/AR/MR)
+
 
 ### Sociopolitical and Economic Resilience through Digital Design
-This subtheme explores the intersection of digital design practices with socio-political and economic resilience. It invites papers that consider how computational tools can help design environments that respond to socio-political challenges, such as economic inequality, social justice, and policy constraints. Topics may include community-based design, participatory digital platforms, and resilience planning that leverages digital fabrication and computational design.
+This subtheme explores the intersection of digital design practices with socio-political and economic resilience. It invites papers that consider how computational tools can help design environments that respond to socio-political challenges, such as economic inequality, social justice, and policy constraints. Topics may include:
+- Community-based Design
+- Participatory Digital Platforms
+- Resilience Planning & Strategies 
+- Theories, Pedagogies, Philosophies, and Methodologies
+
 
 ### Space Innovations for a Sustainable and Resilient Earth
 Innovations from the space race, particularly closed-loop systems designed for resource-constrained environments, offer valuable solutions for enhancing Earth’s sustainability in the face of climate change. This theme invites ideas on how closed-loop technologies developed for space inform architectural innovation. Examples of this include the use of sensor technologies developed for monitoring space habitats which can be integrated into building design to provide real-time data on environmental conditions, energy usage, and structural health, enabling proactive management of resources and enhancing resilience against climate impacts.
+- Closed-Loop Systems in Architecture
+- Sensor-Driven Smart Environments
+- Innovations from Space Research
+- Extreme Environment Design and Resilience Strategies
+
 
 ---
 
