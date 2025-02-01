@@ -7,7 +7,7 @@ permalink: /workshops
 # Call for Workshops: ACADIA 2025 Miami  
 **Conference Theme: Building Resilience in an Uncertain World**  
 
-Miami, a city at the forefront of physical, economic, and climatic challenges, serves as a microcosm of global issues and a hub for innovative solutions. The 2025 ACADIA conference, in collaboration with **Florida International University (FIU)** and the **University of Miami (UM)**, invites proposals for workshops that explore how computational design and digital fabrication can address these challenges. From climate adaptation and socio-political resilience to the integration of robotics and AI, we seek to harness the collective creativity of architects, designers, and technologists to redefine the future of the built environment.  
+Miami, a city at the forefront of physical, economic, and climatic challenges, serves as a microcosm of global issues and a hub for innovative solutions. The 2025 ACADIA conference, in collaboration with [Florida International University](/fiu) and the [University of Miami](/um), invites proposals for workshops that explore how computational design and digital fabrication can address these challenges. From climate adaptation and socio-political resilience to the integration of robotics and AI, we seek to harness the collective creativity of architects, designers, and technologists to redefine the future of the built environment.  
 
 Workshops will take place in-person in Miami, leveraging state-of-the-art facilities and equipment at FIU and UM. We encourage proposals that engage with the conference theme and utilize the available resources to push the boundaries of digital design and fabrication.  
 
