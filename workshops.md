@@ -62,6 +62,8 @@ Workshop leaders will have access to cutting-edge facilities and equipment at **
   - Filabot EX6, pelletizer, reclaimer  
   - Precious Plastics shredder, sheet press  
 
+{% include image-gallery.html folder="/assets/images/miami/fiu" %}
+
 ### UM Facilities  
 - **Industrial Robots**:  
   - KUKA R2700 (with rotary external axis, 3D pellet printer, gripper, wire cutter, ceramic printer, and spindle)  
@@ -83,7 +85,7 @@ Workshop leaders will have access to cutting-edge facilities and equipment at **
 - **AR/VR/MR**:  
   - (10) Magic Leap 1 Headsets
   - (1) Magic Leap 2 Headset  
-
+{% include image-gallery.html folder="/assets/images/miami/um" %}
 ---
 
 ## Submission Requirements  
