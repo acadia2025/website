@@ -64,22 +64,25 @@ Workshop leaders will have access to cutting-edge facilities and equipment at **
 
 ### UM Facilities  
 - **Industrial Robots**:  
-  - KUKA R2700 (with rotary external axis)  
+  - KUKA R2700 (with rotary external axis, 3D pellet printer, gripper, wire cutter, ceramic printer, and spindle)  
+  - KUKA KR4 R600 (Ready 2 Educate Package)  
 - **Large-Scale 3D Printing**:  
-  - COBOD 2 (31’ x 30’ x 12’h)  
+  - COBOD BOD2 (roughly 30’ x 30’ x 12’h)  
 - **3D Printers**:  
-  - (5) Ultimaker (FDM), (5) Sindoh (SLA)  
-  - (3) FormLabs (SLA), (1) ZCorp (Binderjet)  
+  - (6) Ultimaker (FDM), (6) Bambu (SLA)  
+  - (3) FormLabs (SLA, 3B, 4, 4L)  
 - **Laser Cutters**:  
+  - (4) Boss HP2440 (40"x24")  
   - (2) Universal 60w CO2 (36”x24”)  
   - (2) Universal 60w CO2 (32”x18”)  
 - **Model Shop**:  
   - Standard woodworking tools  
   - 4’ x 8’ CNC Router with tool changer, 2’ x 4’ CNC Router  
 - **Ceramics**:  
-  - StoneFlower 4.0 Clay Printer, Vcella B-15 Kiln  
+  - Access to ceramic firing kilns  
 - **AR/VR/MR**:  
-  - (10) Magic Leap Headsets  
+  - (10) Magic Leap 1 Headsets
+  - (1) Magic Leap 2 Headset  
 
 ---
 

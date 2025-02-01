@@ -112,5 +112,5 @@ It is generally recommended to use ride-sharing services or taxis when traveling
 
 # Suggested Reading  
 
-- **[Miami Modern Metropolis: Paradise and Paradox in Midcentury Architecture and Planning](https://www.amazon.com/Miami-Modern-Metropolis-Architecture-Midcentury/dp/0978607707)** by Allan T. Shulman  
-- **[The New Miami: How a Tropical Frontier City Became an International Crossroads](https://www.amazon.com/New-Miami-Tropical-Frontier-International/dp/1888376964)** by Arva Moore Parks 
+- **[Miami Modern Metropolis: Paradise and Paradox in Midcentury Architecture and Planning](https://www.amazon.com/Miami-Modern-Metropolis-Midcentury-Architecture/dp/1890449512)** by Allan T. Shulman  
+- **[Miami Then and Now](hhttps://www.amazon.com/Miami-Then-Now%C2%AE-Moore-Parks/dp/1909815071)** by Arva Moore Parks 
