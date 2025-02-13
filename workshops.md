@@ -31,7 +31,7 @@ Workshops should align with one or more of the following sub-themes:
 5. **Expanding Architectural Knowledge: Tools Bridging Architecture and Other Disciplines**  
    Investigate interdisciplinary methodologies that connect architecture with fields such as biology, material science, urban policy, and interactive media to foster innovation in design and fabrication.  
 
-**Demystifying Technology: 101 Workshops for "Enough to Be Dangerous" Knowledge**  
+6.  **Demystifying Technology: 101 Workshops for "Enough to Be Dangerous" Knowledge**  
    Offer beginner-friendly, hands-on workshops that break down complex computational tools, digital fabrication techniques, and coding principles into accessible, bite-sized learning experiences. These workshops aim to empower participants with foundational skills—just enough to confidently explore and experiment in these fields.  
 
 --- 
