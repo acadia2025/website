@@ -5,7 +5,7 @@ permalink: /workshops
 ---
 
 # Call for Workshops: ACADIA 2025 Miami  
-**Conference Theme: Building Resilience in an Uncertain World**  
+**Conference Theme: COMPUTING for RESILIENCE: Expanding Community Knowledge & Impact**  
 
 Miami, a city at the forefront of physical, economic, and climatic challenges, serves as a microcosm of global issues and a hub for innovative solutions. The 2025 ACADIA conference, in collaboration with [Florida International University](/fiu) and the [University of Miami](/um), invites proposals for workshops that explore how computational design and digital fabrication can address these challenges. From climate adaptation and socio-political resilience to the integration of robotics and AI, we seek to harness the collective creativity of architects, designers, and technologists to redefine the future of the built environment.  
 
@@ -26,9 +26,12 @@ Workshops should align with one or more of the following sub-themes:
    Examine how digital design practices can address socio-political challenges, such as economic inequality, social justice, and policy constraints, through community-based design and participatory platforms.  
 
 4. **Space Innovations for a Sustainable and Resilient Earth**  
-   Leverage technologies developed for space exploration, such as closed-loop systems and sensor networks, to inform sustainable architectural practices and enhance resilience on Earth.  
+   Explore how space technologies—such as closed-loop systems, sensor networks, and extraterrestrial construction methods—can inform sustainable architectural practices and enhance resilience on Earth.  
 
----
+5. **Expanding Architectural Knowledge: Tools Bridging Architecture and Other Disciplines**  
+   Investigate interdisciplinary methodologies that connect architecture with fields such as biology, material science, urban policy, and interactive media to foster innovation in design and fabrication.  
+
+--- 
 
 ## Available Spaces and Equipment  
 Workshop leaders will have access to cutting-edge facilities and equipment at **FIU** and **UM**, including:  
