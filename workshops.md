@@ -107,7 +107,6 @@ Workshop proposals should include the following:
 ## Important Dates  
 - **Submission Deadline**: June 1, 2025, 11:59 PM EST  
 - **Notification of Acceptance**: Late July 2025  
-- **Revised Papers Due**: Late August 2025  
 
 ---
 
