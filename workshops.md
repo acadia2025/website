@@ -7,7 +7,7 @@ permalink: /workshops
 # Call for Workshops: ACADIA 2025 Miami  
 **Conference Theme: COMPUTING for RESILIENCE: Expanding Community Knowledge & Impact**  
 
-Miami, a city at the forefront of physical, economic, and climatic challenges, serves as a microcosm of global issues and a hub for innovative solutions. The 2025 ACADIA conference, in collaboration with [Florida International University](/fiu) and the [University of Miami](/um), invites proposals for workshops that explore how computational design and digital fabrication can address these challenges. From climate adaptation and socio-political resilience to the integration of robotics and AI, we seek to harness the collective creativity of architects, designers, and technologists to redefine the future of the built environment.  
+Miami, a city at the forefront of physical, economic, and climatic challenges, serves as a microcosm of global issues and a hub for innovative solutions. The 2025 ACADIA conference, in collaboration with [Florida International University](/fiu) and the [University of Miami](/um), invites proposals for workshops that explore how computational design and digital fabrication can address these challenges. From climate adaptation and socio-political resilience to the integration of robotics and AI, we seek to harness the collective creativity of architects, designers, and technologists to redefine the future of the built environment. To enable broader access and a wider range of participants to the conference and workshops , proposals at all skill levels are encouraged to submit.   
 
 Workshops will take place in-person in Miami, leveraging state-of-the-art facilities and equipment at FIU and UM. We encourage proposals that engage with the conference theme and utilize the available resources to push the boundaries of digital design and fabrication.  
 
@@ -20,19 +20,17 @@ Workshops should align with one or more of the following sub-themes:
    Explore how computational tools, modeling, and simulation can inform climate-responsive architecture, adaptive building systems, and sustainable urban planning.  
 
 2. **Integrating Robotics and AI in Architecture and Construction**  
-   Investigate the role of robotics, artificial intelligence, and machine learning in optimizing construction processes, enhancing precision, and enabling innovative design solutions.  
+   Investigate the role of robotics, artificial intelligence, and machine learning in optimizing construction processes, enhancing precision, and enabling innovative and resilient design solutions. 
 
 3. **Sociopolitical and Economic Resilience through Digital Design**  
    Examine how digital design practices can address socio-political challenges, such as economic inequality, social justice, and policy constraints, through community-based design and participatory platforms.  
 
-4. **Space Innovations for a Sustainable and Resilient Earth**  
-   Explore how space technologies—such as closed-loop systems, sensor networks, and extraterrestrial construction methods—can inform sustainable architectural practices and enhance resilience on Earth.  
+4. **Material Innovations for a Sustainable and Resilient Earth**  
+   Explore how material technologies—such as closed-loop systems, sensor networks, and extraterrestrial construction methods—can inform sustainable architectural practices and enhance resilience on Earth.  
 
 5. **Expanding Architectural Knowledge: Tools Bridging Architecture and Other Disciplines**  
-   Investigate interdisciplinary methodologies that connect architecture with fields such as biology, material science, urban policy, and interactive media to foster innovation in design and fabrication.  
+   Investigate interdisciplinary methodologies that connect architecture with fields such as biology, material science, urban policy, and interactive media to foster innovation in design and fabrication. We encourage these workshops to be accessible to those without architectural knowledge and breakdown complex computational tools and techniques into accessible bite-sized learning experiments. These workshops aim to empower participants with foundational skills—just enough to confidently explore and experiment in these fields.  
 
-6.  **Demystifying Technology: 101 Tutorials for "Enough to Be Dangerous" Knowledge**  
-   Offer beginner-friendly, hands-on workshops that break down complex computational tools, digital fabrication techniques, and coding principles into accessible, bite-sized learning experiences. These workshops aim to empower participants with foundational skills—just enough to confidently explore and experiment in these fields.  
 
 --- 
 
