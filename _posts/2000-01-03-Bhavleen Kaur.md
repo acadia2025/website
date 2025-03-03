@@ -10,8 +10,9 @@ thumbnail: assets/images/organizers/cochairs/bk.jpg
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-## Bhavleen Kaur DDES
-Adj. Prof, FIU 
+## Bhavleen Kaur, DDes
+Visiting Assist. Prof., SoA, CARTA-FIU
+Research Group Lead - Robotics & Digital Fab. (RDF) Lab
 bkaur@fiu.edu
 
-Bhavleen Kaur is an architect, interdisciplinary researcher, and educator focused on computational design and robotics in architectural education. Her work explores the future of autodidactic learning to address technical and socioeconomic barriers. Currently pursuing a Doctor of Design at FIU, she serves as a senior research assistant for the NSF’s Research on Innovative Technologies for Enhanced Learning (RITEL) program at the RDF Lab. Bhavleen is an AAUW International Fellow and recipient of the AUTODESK ACADIA 2023 BIPOC scholarship. She is also a steering member of DigitalFUTURES, a volunteer-led platform for architectural education. She holds a postgraduate degree in Scientific Communication from ISEC-Lisbon and a master’s in advanced architecture from ELISAVA-Barcelona. From 2015 to 2022, she was an assistant professor of computational design at BSSA, Mumbai.
+Bhavleen Kaur is an architect, researcher, and educator exploring multiplicities of computational design and robotics in architectural education. She is a Visiting Assistant Professor at SoA-FIU and leads the Research Group for NSF’s RITEL and ALERT programs at the Robotics & Digital Fabrication (RDF) Lab. She holds a Doctor of Design (DDes) from FIU, a postgraduate in Scientific Communication from ISEC-Lisbon, and a Master’s in Adv. Digital Architecture from ELISAVA-Barcelona. She is a recipient of the 2023-24 AAUW International Fellowship, ROB//ARCH 2024, and the Autodesk ACADIA 2023 BIPOC scholarships. She is also a steering member of DigitalFUTURES, a volunteer-led platform for architectural education. From 2015 to 2022, she was an Assistant Prof. of computational design at BSSA, Mumbai.
