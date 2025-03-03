@@ -9,7 +9,7 @@ header_pages:
   # - about.md
   - calls.md
   - hosts.md
-  # - workshops.md
+  - workshops.md
   - keynotes.md
   - schedule.md
   - awards.md
