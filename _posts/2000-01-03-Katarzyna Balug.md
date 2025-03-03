@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Katarzyna Balug"
-date:   2014-06-03
+date:   2014-06-01
 caption: Katarzyna Balug
 permalink: /Katarzyna Balug
 category: technical
