@@ -52,14 +52,17 @@ Workshop leaders will have access to cutting-edge facilities and equipment at **
   - (2) MDPE-EX2, MDPE-EX6 (plastic)  
 - **3D Printers**:  
   - (4) Prusas (FDM), Mark Two Markforged (Carbon Fiber FDM)  
-  - (6) Form 2 FormLabs (SLA), (6) Makerbot Z18  
+  - (6) Form 2 FormLabs (SLA),
+  - (3) Bambu Labs X1C
   - (2) RatRig V-Core 50x50x50 cm (FDM)  
-  - BioBots BIO printer, PotterBot  
+  - BioBots BIO printer, 
+  - PotterBot  10 PRO
 - **Laser Cutters**:  
   - (2) Universal 60w CO2, (1) Trotec 120w CO2  
 - **Model Shop**:  
   - Standard woodworking tools, light metalworking tools  
   - 4’ x 8’ CNC Router  
+  - Open Builds Lead CNC (40x40)
 - **AR/VR/MR**:  
   - (4) HTC Vive Pro, (3) Hololens 2, (3) Magic Leap , (2) Meta Quest PRO
   - ZED2, Azure Kinect, Intel Realsense Depth Cameras  
