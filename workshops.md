@@ -6,7 +6,6 @@ permalink: /workshops
 
 # Call for Workshops: ACADIA 2025 Miami  
 
-![Miami](/assets/images/miami/Photo-16.png)
 
 **Conference Theme: COMPUTING for RESILIENCE: Expanding Community Knowledge & Impact**  
 
@@ -62,7 +61,7 @@ Workshop leaders will have access to cutting-edge facilities and equipment at **
   - Standard woodworking tools, light metalworking tools  
   - 4’ x 8’ CNC Router  
 - **AR/VR/MR**:  
-  - (4) HTC Vive Pro, (3) Hololens 2, (3) Magic Leap  
+  - (4) HTC Vive Pro, (3) Hololens 2, (3) Magic Leap , (2) Meta Quest PRO
   - ZED2, Azure Kinect, Intel Realsense Depth Cameras  
   - (2) RTX 3090 eGPU  
 - **Recycling Setup**:  
@@ -109,7 +108,7 @@ Workshop proposals should include the following:
 ---
 
 ## Important Dates  
-- **Submission Deadline**: June 1, 2025, 11:59 PM EST  
+- **Submission Deadline**: May 4th, 2025, 11:59 PM EST  
 - **Notification of Acceptance**: Late July 2025  
 
 ---
