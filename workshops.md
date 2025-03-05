@@ -117,7 +117,7 @@ Workshop proposals should include the following:
 ---
 
 ## Submission Process  
-Please fill up and submit your submissionform  by May 4th. Proposals will undergo a juried review process, and successful applicants will receive funding to cover travel, materials, and an honorarium.
+Please fill up and submit your submission form by May 4th. Proposals will undergo a juried review process, and successful applicants will receive funding to cover travel, materials, and an honorarium.
 
 [Submission form](https://forms.gle/4ABebzhwSYdBQCAJ6)
 
