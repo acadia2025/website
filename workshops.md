@@ -3,7 +3,7 @@ title: /workshops
 layout: page
 permalink: /workshops
 ---
-
+![Miami](/assets/images/workshops.png){: width="100%" }
 # Call for Workshops: ACADIA 2025 Miami  
 
 
