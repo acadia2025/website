@@ -20,19 +20,14 @@ Workshops should align with one or more of the following sub-themes:
 
 1. **Computational Strategies for Climate Adaptation**  
    Explore how computational tools, modeling, and simulation can inform climate-responsive architecture, adaptive building systems, and sustainable urban planning.  
-
 2. **Integrating Robotics and AI in Architecture and Construction**  
    Investigate the role of robotics, artificial intelligence, and machine learning in optimizing construction processes, enhancing precision, and enabling innovative and resilient design solutions. 
-
 3. **Sociopolitical and Economic Resilience through Digital Design**  
    Examine how digital design practices can address socio-political challenges, such as economic inequality, social justice, and policy constraints, through community-based design and participatory platforms.  
-
 4. **Material Innovations for a Sustainable and Resilient Earth**  
    Explore how material technologies—such as closed-loop systems, sensor networks, and extraterrestrial construction methods—can inform sustainable architectural practices and enhance resilience on Earth.  
-
 5. **Expanding Architectural Knowledge: Tools Bridging Architecture and Other Disciplines**  
    Investigate interdisciplinary methodologies that connect architecture with fields such as biology, material science, urban policy, and interactive media to foster innovation in design and fabrication. We encourage these workshops to be accessible to those without architectural knowledge and breakdown complex computational tools and techniques into accessible bite-sized learning experiments. These workshops aim to empower participants with foundational skills—just enough to confidently explore and experiment in these fields.  
-
 
 --- 
 
