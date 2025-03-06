@@ -3,7 +3,7 @@ title: /calls
 layout: page
 permalink: /calls
 ---
-
+{% include animation.html pattern="  papers projects field notes   " overlay_text="  CALLS " %}
 # CALLS
 
 ## Conference Theme

@@ -4,6 +4,7 @@ layout: page
 permalink: /miami
 ---
 ---
+{% include animation.html pattern="  MIAMI  " overlay_text="MIAMI" %}
 
 # Conference City: Miami  
 

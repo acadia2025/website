@@ -3,7 +3,7 @@ title: /workshops
 layout: page
 permalink: /workshops
 ---
-{% include_relative _includes/workshopbanner.html %}
+{% include animation.html pattern="   Workshops   " overlay_text="  CALL FOR WORKSHOPS  " %}
 # Call for Workshops: ACADIA 2025 Miami  
 
 

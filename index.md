@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-{% include_relative _includes/animation.html %}
+{% include animation.html %}
 
 ---
 

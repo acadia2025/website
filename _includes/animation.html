@@ -1,21 +1,40 @@
+{% assign pattern = include.pattern | default: '  ACADIA 2025 MIAMI  ' %}
+{% assign overlay_text = include.overlay_text | default: 'COMPUTING FOR RESILIENCE' %}
+
 <div id="p5-container"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.8.0/p5.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.8.0/addons/p5.sound.min.js"></script>
-<script src="/assets/js/animation.js"></script>
+<script>
+    // Define global parameters for the banner
+    window.bannerConfig = {
+        pattern: '{{ pattern }}',
+        overlayText: '{{ overlay_text }}'
+    };
+    
+    // Wait for p5.js to load
+    window.addEventListener('load', function() {
+        const script = document.createElement('script');
+        script.type = 'module';
+        script.src = '{{ site.baseurl }}/assets/js/banner.js';
+        document.body.appendChild(script);
+    });
+</script>
 
 <style>
     #p5-container {
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 600px;
+        width: 100%;
+        max-width: 600px;
         height: 300px;
         margin: auto;
+        margin-bottom: 2rem;
     }
     canvas {
         display: block;
-        width: 600px !important;
+        width: 100% !important;
         height: 300px !important;
     }
 </style>
