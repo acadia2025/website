@@ -1,4 +1,4 @@
-let pattern = ' ACADIA  2025  MIAMI  ';
+let pattern = '  ACADIA 2025 MIAMI  ';
 
 function setup() {
     let container = document.getElementById('p5-container');
@@ -7,7 +7,7 @@ function setup() {
         return;
     }
 
-    let canvas = createCanvas(600, 600);
+    let canvas = createCanvas(600, 300);
     canvas.parent(container); // Attach the canvas properly
 
     frameRate(60);
@@ -17,28 +17,37 @@ function setup() {
 }
 
 function draw() {
-    background(255); // White background
+  background(255); // White background
 
-    const cols = 80;
-    const rows = 30; // Adjust for better visibility
-    const cellWidth = width / cols;
-    const cellHeight = height / rows;
+  const cols = 80;
+  const rows = 30;
+  const cellWidth = width / cols;
+  const cellHeight = height / rows;
 
-    const loopDuration = 10000; // 10 seconds
-    const t = (millis()) / loopDuration;
+  // Continuous time progression
+  const loopDuration = 10000; // 10 seconds
+  const t = millis()/loopDuration; // Normalized time [0,1]
 
-    for (let y = 0; y < rows; y++) {
-        for (let x = 0; x < cols; x++) {
-            const o = sin(y * x * sin(t) * 0.003 + y * 0.01 + t) * 20;
-            const i = round(abs(x + y + o)) % pattern.length;
-
-            let posX = x * cellWidth + cellWidth / 2;
-            let posY = y * cellHeight + cellHeight / 2;
-
-            fill(getGradientColor(posY)); // Apply gradient color
-            text(pattern[i], posX, posY);
-        }
+  for (let y = 0; y < rows; y++) {
+    for (let x = 0; x < cols; x++) {
+      const o = sin(y * x * sin(t) * 0.003 + y * 0.01 + t) * 20;
+      const i = round(abs(x + y + o)) % pattern.length;
+      
+      // Calculate exact position
+      let posX = x * cellWidth + cellWidth / 2;
+      let posY = y * cellHeight + cellHeight / 2;
+      
+      // Apply per-letter gradient based on exact position
+      textSize(10)
+      fill(getGradientColor(posY));
+      text(pattern[i], posX, posY);
     }
+  }
+  fill(0,0,0,125);
+  textSize(30)
+  rect(0, 120, width,60);
+  fill(255);
+  text("COMPUTING FOR RESILIENCE", width/2, height/2);
 }
 
 function getGradientColor(y) {

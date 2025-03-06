@@ -1,4 +1,4 @@
-let pattern = ' CALL FOR WORKSHOPS  ';
+let pattern = '  CALL FOR WORKSHOPS  ';
 
 function setup() {
     let container = document.getElementById('p5-container');
@@ -43,11 +43,11 @@ function draw() {
       text(pattern[i], posX, posY);
     }
   }
-  fill(0,0,0,200);
+  fill(0,0,0,125);
   textSize(30)
   rect(0, 120, width,60);
   fill(255);
-  text("CALL FOR WORKSHOPS", width/2, height/2);
+  text(pattern, width/2, height/2);
 }
 
 function getGradientColor(y) {
