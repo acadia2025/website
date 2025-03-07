@@ -16,18 +16,19 @@ Workshops will take place in-person in Miami, leveraging state-of-the-art facili
 ---
 
 ## Workshop Themes  
-Workshops should align with one or more of the following sub-themes:  
 
-1. **Computational Strategies for Climate Adaptation**  
-   Explore how computational tools, modeling, and simulation can inform climate-responsive architecture, adaptive building systems, and sustainable urban planning.  
-2. **Integrating Robotics and AI in Architecture and Construction**  
-   Investigate the role of robotics, artificial intelligence, and machine learning in optimizing construction processes, enhancing precision, and enabling innovative and resilient design solutions. 
-3. **Sociopolitical and Economic Resilience through Digital Design**  
-   Examine how digital design practices can address socio-political challenges, such as economic inequality, social justice, and policy constraints, through community-based design and participatory platforms.  
-4. **Material Innovations for a Sustainable and Resilient Earth**  
-   Explore how material technologies—such as closed-loop systems, sensor networks, and extraterrestrial construction methods—can inform sustainable architectural practices and enhance resilience on Earth.  
-5. **Expanding Architectural Knowledge: Tools Bridging Architecture and Other Disciplines**  
-   Investigate interdisciplinary methodologies that connect architecture with fields such as biology, material science, urban policy, and interactive media to foster innovation in design and fabrication. We encourage these workshops to be accessible to those without architectural knowledge and breakdown complex computational tools and techniques into accessible bite-sized learning experiments. These workshops aim to empower participants with foundational skills—just enough to confidently explore and experiment in these fields.  
+
+We invite workshop proposals that explore the emerging intersections between technology and architecture, fostering innovation in design, fabrication, and interdisciplinary collaboration. Workshops should provide hands-on, exploratory, and experimental learning experiences for participants. We welcome submissions in the following thematic areas:
+
+1. Robotics, AI, and Architecture: Investigating how robotic automation, machine learning, and AI-driven generative design reshape architectural processes and built environments.
+
+2. Material Innovation and Digital Fabrication: Exploring advanced computational design methods, innovative materials, and novel fabrication techniques for sustainable and responsive architecture.
+
+3. Digital Tools for Cross-Disciplinary Design: Examining digital workflows, collaborative platforms, and computational strategies that bridge architecture, engineering, and other disciplines.
+
+4. Extended Reality (XR) for Generative Design and Virtual Prototyping
+Utilizing Augmented Reality (AR), Virtual Reality (VR), and Mixed Reality (MR) to enhance generative design processes, immersive visualization, and digital-physical prototyping.
+
 
 ---
 
