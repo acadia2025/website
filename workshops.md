@@ -63,35 +63,29 @@ We look forward to receiving proposals that push the boundaries of digital desig
 Workshop leaders will have access to cutting-edge facilities and equipment at **FIU** and **UM**, including:  
 
 --- 
+
 ### FIU available Equipment  
 
-- Industrial Robots:  
-  -  KUKA KR-10 R1100 Sixx  
+
+  - KUKA KR-10 R1100 Sixx  
   - KUKA KR 30 – HA  
-- Collaborative Robots:  
   - Universal Robots UR16e, UR10e (with 4m external axis)  
   - uFactory Xarm 6, uFactory 850  
-- Large-Scale 3D Printing:  
   - WASP LDM XXL Extruder (concrete/clay)  
   - StoneFlower Ceramic 3D Printing KIT
   - (2) MDPE-EX2, MDPE-EX6 (plastic)  
-- 3D Printers:  
   - (4) Prusas (FDM), Mark Two Markforged (Carbon Fiber FDM)  
   - (6) Form 2 FormLabs (SLA),
   - (3) Bambu Labs X1C
   - (2) RatRig V-Core 50x50x50 cm (FDM)  
   - BioBots BIO printer, 
   - PotterBot  10 PRO
-- Laser Cutters:  
   - (2) Universal 60w CO2, (1) Trotec 120w CO2  
-- AR/VR/MR:  
   - (4) HTC Vive Pro, (3) HoloLens 2, (3) Magic Leap , (2) Meta Quest PRO
   - ZED2, Azure Kinect, Intel Realsense Depth Cameras  
   - (2) RTX 3090 eGPU  
-- Recycling Setup:  
   - Filabot EX6, pelletizer, reclaimer  
   - Precious Plastics shredder, sheet press 
-- Model Shop:  
   - Standard woodworking tools, light metalworking tools  
   - 4’ x 8’ CNC Router  
   - Open Builds Lead CNC (40x40) 
@@ -99,24 +93,19 @@ Workshop leaders will have access to cutting-edge facilities and equipment at **
 {% include image-gallery.html folder="/assets/images/miami/fiu" %}
 
 ### UM available equipment  
-- Industrial Robots:  
+
+
   - KUKA R2700 (with rotary external axis, 3D pellet printer, gripper, wire cutter, ceramic printer, and spindle)  
   - KUKA KR4 R600 (Ready 2 Educate Package)  
-- Large-Scale 3D Printing:  
   - COBOD BOD2 (roughly 30’ x 30’ x 12’h)  
-- 3D Printers:  
   - (6) Ultimaker (FDM), (6) Bambu (SLA)  
   - (3) FormLabs (SLA, 3B, 4, 4L)  
-- Laser Cutters:  
   - (4) Boss HP2440 (40"x24")  
   - (2) Universal 60w CO2 (36”x24”)  
   - (2) Universal 60w CO2 (32”x18”)  
-- Model Shop:  
   - Standard woodworking tools  
   - 4’ x 8’ CNC Router with tool changer, 2’ x 4’ CNC Router  
-- Ceramics:  
   - Access to ceramic firing kilns  
-- AR/VR/MR:  
   - (10) Magic Leap 1 Headsets
   - (1) Magic Leap 2 Headset  
 {% include image-gallery.html folder="/assets/images/miami/um" %}
