@@ -36,8 +36,7 @@ Utilizing Augmented Reality (AR), Virtual Reality (VR), and Mixed Reality (MR) t
 Workshop proposals should include the following:  
 1. **Instructor Information**: Names, affiliations, bios, CVs, and links to previous teaching examples.  
 2. **Workshop Title and Type**: Technical, seminar, or other.  
-3. **Statement of Intent**: A paragraph outlining the workshop’s goals, research significance, and alignment with the conference theme.  
-4. **Workshop Description**: Methods, required software, outcomes, and technical constraints. Include 5 keywords.  
+4. **Workshop Description**:Topics,  learning objectives, required software, outcomes, and technical constraints.  
 5. **Workshop Schedule**: Duration (1-3 days), daily breakdown, and hours per day (3-8 recommended).  
 6. **Participant Information**: Optimal size, intended audience, and prerequisites.  
 7. **Equipment and Materials**: List of required software, hardware, and materials.  
@@ -46,7 +45,7 @@ Workshop proposals should include the following:
 ---
 
 ## Important Dates  
-- **Submission Deadline**: May 4th, 2025, 11:59 PM EST  
+- **Submission Deadline**: May 4th, 2025, 11:59 PM AoE
 - **Notification of Acceptance**: Late July 2025  
 
 ---
@@ -56,9 +55,15 @@ Please fill up and submit your submission form by May 4th. Proposals will underg
 
 [Submission form](https://forms.gle/4ABebzhwSYdBQCAJ6)
 
+Contact workshop chairs for aditional information: 2025@acadia.org
+
 ---
 
 We look forward to receiving proposals that push the boundaries of digital design and fabrication, leveraging Miami’s unique challenges and opportunities to create resilient and innovative solutions for the built environment.  
+
+Workshop outcomes will be pushlished as part of the 2025 ACADIA proceedings. 
+
+
 ## Available Spaces and Equipment  
 Workshop leaders will have access to cutting-edge facilities and equipment at **FIU** and **UM**, including:  
 
