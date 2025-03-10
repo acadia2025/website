@@ -44,7 +44,7 @@ Workshop proposals should include the following:
 ## Important Dates  
 
 - **Submission Deadline**: May 4th, 2025, 11:59 PM AoE  
-- **Notification of Acceptance**: Late July 2025  
+- **Notification of Acceptance**: June 2025  
 
 ---
 
