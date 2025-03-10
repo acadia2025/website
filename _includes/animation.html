@@ -1,5 +1,6 @@
 {% assign pattern = include.pattern | default: '  ACADIA 2025 MIAMI  ' %}
 {% assign overlay_text = include.overlay_text | default: 'COMPUTING FOR RESILIENCE' %}
+{% assign textsize = include.textsize | default: 30 %}
 
 <div id="p5-container"></div>
 
@@ -9,7 +10,8 @@
     // Define global parameters for the banner
     window.bannerConfig = {
         pattern: '{{ pattern }}',
-        overlayText: '{{ overlay_text }}'
+        overlayText: '{{ overlay_text }}',
+        textsize: {{ textsize }}
     };
     
     // Wait for p5.js to load

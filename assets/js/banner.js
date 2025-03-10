@@ -4,6 +4,7 @@ import { createBanner } from './animation.js';
 const config = window.bannerConfig || {};
 const pattern = config.pattern || '  ACADIA 2025 MIAMI  ';
 const overlayText = config.overlayText || 'COMPUTING FOR RESILIENCE';
+const textsize = Number(config.textsize) || 30;  // Convert to number
 
 // Create the banner instance with custom settings
 const banner = createBanner('p5-container', {
@@ -25,7 +26,7 @@ const banner = createBanner('p5-container', {
     },
     overlayText: {
         text: overlayText,
-        size: 30,
+        size: textsize,
         y: 150
     }
 });
