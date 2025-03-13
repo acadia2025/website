@@ -41,13 +41,13 @@ Workshop proposals should include the following:
 
 ---
 
-## Important Information  
+## Important Information
 
-- **Submission Deadline**: May 4, 2025, at 11:59 PM AoE.  
-- **Notification of Acceptance**: June 2025.  
-
-- Each workshop receives **$2,000** for travel and accommodations. Additionally, one full conference ticket will be covered after the workshop has been completed.  
+- Each workshop receives **$2,000** for travel and accommodations.  
+- One full conference ticket is covered for the workshop lead. 
+- Workshop payments are made after the workshop has been completed.  
 - Pending sponsorships, additional material funds may be available.  
+
 
 ---
 
