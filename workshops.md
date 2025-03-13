@@ -32,19 +32,22 @@ We invite workshop proposals that explore the emerging intersections between tec
 Workshop proposals should include the following:  
 
 1. **Instructor Information**: Names, affiliations, bios, CVs, and links to previous teaching examples.  
-2. **Workshop Title and Type**: Technical, seminar, or other.  
-3. **Workshop Description**: Topics, learning objectives, required software, outcomes, and technical constraints.  
-4. **Workshop Schedule**: Duration (1-3 days), daily breakdown, and hours per day (3-8 recommended).  
-5. **Participant Information**: Optimal size, intended audience, and prerequisites.  
-6. **Equipment and Materials**: List of required software, hardware, and materials.  
-7. **Proposed Budget**: Itemized budget with anticipated costs and potential funding sources.  
+2. **Workshop Title and Type**: Specify whether the workshop is technical, seminar-based, or another format.  
+3. **Workshop Description**: Provide an overview of topics covered, learning objectives, expected outcomes, required software, and any technical constraints.  
+4. **Workshop Schedule**: Indicate the duration (1–3 days), a daily breakdown, and recommended hours per day (3–8).  
+5. **Participant Information**: Define the optimal number of participants, target audience, and any prerequisites.  
+6. **Equipment and Materials**: List the required software, hardware, and other necessary materials.  
+7. **Proposed Budget**: Include an itemized budget detailing anticipated costs and potential funding sources.  
 
 ---
 
-## Important Dates  
+## Important Information  
 
-- **Submission Deadline**: May 4th, 2025, 11:59 PM AoE  
-- **Notification of Acceptance**: June 2025  
+- **Submission Deadline**: May 4, 2025, at 11:59 PM AoE.  
+- **Notification of Acceptance**: June 2025.  
+
+- Each workshop receives **$2,000** for travel and accommodations. Additionally, one full conference ticket will be covered after the workshop has been completed.  
+- Pending sponsorships, additional material funds may be available.  
 
 ---
 
