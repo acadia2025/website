@@ -4,7 +4,7 @@ title:  "Chris Meyer"
 date:   2014-06-04
 caption: Chris Meyer
 permalink: /Chris Meyer
-category: project
+category: technical
 thumbnail: assets/images/organizers/cochairs/cm.jfif
 
 ---

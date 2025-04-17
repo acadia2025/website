@@ -23,12 +23,6 @@ ACADIA 2025 will be jointly hosted by [Florida International University](/fiu) a
 {% include post-gallery.html category="technical" %}
 
 ---------------
-## PROJECT CHAIRS
-
-
-{% include post-gallery.html category="project" %}
-
----------------
 ## WORKSHOP CHAIRS
 
 

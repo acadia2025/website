@@ -4,7 +4,7 @@ title:  "Sara Pezeshk "
 date:   2014-06-05
 caption: Sara Pezeshk
 permalink: /Sara Pezeshk
-category: project
+category: technical
 thumbnail: assets/images/organizers/cochairs/sp.jpg
 
 ---

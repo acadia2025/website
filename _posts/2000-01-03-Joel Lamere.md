@@ -4,7 +4,7 @@ title:  "Joel Lamere "
 date:   2014-06-04
 caption: Joel Lamere
 permalink: /Joel Lamere
-category: project
+category: technical
 thumbnail: assets/images/organizers/cochairs/jl.jpg
 
 ---
@@ -12,6 +12,6 @@ thumbnail: assets/images/organizers/cochairs/jl.jpg
 
 ## Joel Lamere 
 Principal GLD, Previous Director of the Graduate Program,UM 
-jlamere@gmail.com
+joel@objectsjl.com
 
-Joel Lamere’s research addresses the future of building practice through innovation in emerging means and methods. More specifically, he explores the building forms facilitated by an expanding palette of materials available to architecture, proliferating digital fabrication techniques, and evolving simulative design environments. He previously directed the Graduate Program as well as the Future Objects at the University of Miami School of Architecture, a laboratory dedicated to experimentation and innovation in the field of construction technology. Prior to joining the University of Miami, he was an Assistant Professor at the Massachusetts Institute of Technology (MIT). 
+Joel Lamere has dedicated his professional life to the deep comprehension of digital design and fabrication instruments, to the fundamental shifts they enable, and to the set of possible futures they engender. Objects_JL is the current platform for such commitments. Prior to establishing Objects_JL, Joel was the Director of Graduate Programs and an Assistant Professor at the University of Miami School of Architecture (U-SoA). There, he also formed and directed Future Objects at U-SoA, a laboratory for design that speculates on the near and distant future of our built world. Before his detour through Miami, Joel spent over a decade as a core faculty member of MIT’s School of Architecture + Planning. Joel has received numerous awards and been exhibited internationally, both for his independent practice and for the work of GLD Architecture, which he co-founded in 2010 with partner Cynthia Gunadi. Formerly through GLD, and now through Objects_JL, Joel translates experimental methods into conventional architectural practice, and tests research at proto-architectural scales in the realm of public art.
