@@ -180,3 +180,7 @@ hr {
     margin: 0 auto 20px; /* Center the image and add spacing below */
     object-fit: cover; /* Maintain aspect ratio and crop if necessary */
   }
+
+a{
+  color: var(--accent-color);
+}
