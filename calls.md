@@ -39,11 +39,12 @@ This subtheme explores the intersection of digital design practices with socio-p
 
 
 ### Space Innovations for a Sustainable and Resilient Earth
-Innovations from the space race, particularly closed-loop systems designed for resource-constrained environments, offer valuable solutions for enhancing Earth’s sustainability in the face of climate change. This theme invites ideas on how closed-loop technologies developed for space inform architectural innovation. Examples of this include the use of sensor technologies developed for monitoring space habitats which can be integrated into building design to provide real-time data on environmental conditions, energy usage, and structural health, enabling proactive management of resources and enhancing resilience against climate impacts.
-    - Closed-Loop Systems in Architecture
+This sub-theme explores how systems designed for space exploration translate to enhancing Earth’s sustainability in the face of climate change. It invites papers that consider how technologies and social structures developed for resource-constrained, remote space environments inform architectural innovation on Earth. Papers may investigate: 
+
+    - Closed-Loop Systems in Architecture 
     - Sensor-Driven Smart Environments
-    - Innovations from Space Research
     - Extreme Environment Design and Resilience Strategies
+    - Designing space societies: from habitability to governance
 
 
 ---
