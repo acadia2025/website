@@ -1,6 +1,7 @@
 {% assign pattern = include.pattern | default: '  ACADIA 2025 MIAMI  ' %}
 {% assign overlay_text = include.overlay_text | default: 'COMPUTING FOR RESILIENCE' %}
 {% assign textsize = include.textsize | default: 30 %}
+{% assign height = include.height | default: 300 %}
 
 <div id="p5-container"></div>
 
@@ -11,7 +12,8 @@
     window.bannerConfig = {
         pattern: '{{ pattern }}',
         overlayText: '{{ overlay_text }}',
-        textsize: {{ textsize }}
+        textsize: {{ textsize }},
+        height: {{ height }}
     };
     
     // Wait for p5.js to load
@@ -30,13 +32,13 @@
         align-items: center;
         width: 100%;
         max-width: 600px;
-        height: 300px;
+        height: {{ height }}px;
         margin: auto;
         margin-bottom: 2rem;
     }
     canvas {
         display: block;
         width: 100% !important;
-        height: 300px !important;
+        height: {{ height }}px !important;
     }
 </style>

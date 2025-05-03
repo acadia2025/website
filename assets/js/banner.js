@@ -5,14 +5,15 @@ const config = window.bannerConfig || {};
 const pattern = config.pattern || '  ACADIA 2025 MIAMI  ';
 const overlayText = config.overlayText || 'COMPUTING FOR RESILIENCE';
 const textsize = Number(config.textsize) || 30;  // Convert to number
+const height = Number(config.height) || 300;  // Convert to number
 
 // Create the banner instance with custom settings
 const banner = createBanner('p5-container', {
     pattern: pattern,
     width: 600,
-    height: 300,
+    height: height,
     cols: 80,
-    rows: 30,
+    rows: Math.floor(height / 10), // Adjust rows based on height
     textSize: 10,
     frameRate: 60,
     loopDuration: 10000,
@@ -27,7 +28,7 @@ const banner = createBanner('p5-container', {
     overlayText: {
         text: overlayText,
         size: textsize,
-        y: 150
+        y: height / 2
     }
 });
 

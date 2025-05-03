@@ -3,7 +3,7 @@ title: /workshops
 layout: page
 permalink: /workshops
 ---
-{% include animation.html pattern="   Workshops   " overlay_text="  CALL FOR WORKSHOPS  " %}
+{% include animation.html pattern="  WORKSHOPS  " overlay_text="WORKSHOP CALL EXTENDED MAY 19th" height=300 %}
 
 **COMPUTING for RESILIENCE: Expanding Community Knowledge & Impact**  
 
@@ -53,7 +53,7 @@ Workshop proposals should include the following:
 
 ## Submission Process  
 
-Please fill out and submit your submission form by ~~May 4th~~ May 19. Proposals will undergo a juried review process, and successful applicants will receive funding to cover travel, materials, and an honorarium.  
+Please fill out and submit your submission form by ~~May 4th~~ May 19th. Proposals will undergo a juried review process, and successful applicants will receive funding to cover travel, materials, and an honorarium.  
 
 [Submission form](https://forms.gle/4ABebzhwSYdBQCAJ6)  
 
@@ -61,7 +61,7 @@ Contact workshop chairs for additional information: **2025@acadia.org**
 
 ---
 
-We look forward to receiving proposals that push the boundaries of digital design and fabrication, leveraging Miami’s unique challenges and opportunities to create resilient and innovative solutions for the built environment.  
+We look forward to receiving proposals that push the boundaries of digital design and fabrication, leveraging Miami's unique challenges and opportunities to create resilient and innovative solutions for the built environment.  
 
 Workshop outcomes will be **published** as part of the 2025 ACADIA proceedings.  
 
@@ -95,7 +95,7 @@ Workshop leaders will have access to cutting-edge facilities and equipment at **
 - Filabot EX6, pelletizer, reclaimer  
 - Precious Plastics shredder, sheet press  
 - Standard woodworking tools, light metalworking tools  
-- 4’ x 8’ CNC Router  
+- 4' x 8' CNC Router  
 - Open Builds Lead CNC (40x40)  
 
 {% include image-gallery.html folder="/assets/images/miami/fiu" %}  
@@ -104,14 +104,14 @@ Workshop leaders will have access to cutting-edge facilities and equipment at **
 
 - KUKA R2700 (with rotary external axis, 3D pellet printer, gripper, wire cutter, ceramic printer, and spindle)  
 - KUKA KR4 R600 (Ready 2 Educate Package)  
-- COBOD BOD2 (roughly 30’ x 30’ x 12’h)  
+- COBOD BOD2 (roughly 30' x 30' x 12'h)  
 - (6) Ultimaker (FDM), (6) Bambu (SLA)  
 - (3) FormLabs (SLA, 3B, 4, 4L)  
 - (4) Boss HP2440 (40"x24")  
-- (2) Universal 60w CO2 (36”x24”)  
-- (2) Universal 60w CO2 (32”x18”)  
+- (2) Universal 60w CO2 (36"x24")  
+- (2) Universal 60w CO2 (32"x18")  
 - Standard woodworking tools  
-- 4’ x 8’ CNC Router with tool changer, 2’ x 4’ CNC Router  
+- 4' x 8' CNC Router with tool changer, 2' x 4' CNC Router  
 - Access to ceramic firing kilns  
 - (10) Magic Leap 1 Headsets  
 - (1) Magic Leap 2 Headset  
