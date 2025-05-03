@@ -3,8 +3,8 @@ title: /home
 layout: home
 permalink: /
 ---
-
-{% include animation.html textsize=17 overlay_text="  COMPUTING for RESILIENCE: Expanding Community Knowledge & Impact  " %}
+ 
+{% include animation.html textsize=17 overlay_text="  COMPUTING for RESILIENCE: Expanding Community Knowledge & Impact  " width=600 height=300 %}
 
 ---
 

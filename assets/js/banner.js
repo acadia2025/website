@@ -15,10 +15,10 @@ const banner = createBanner('p5-container', {
     height: height,
     cols: Math.floor(width / 13.5), // Adjust columns based on width (13.5px per column)
     rows: Math.floor(height / 10), // Adjust rows based on height
-    textSize: 10,
+    textSize: Math.floor(height / 30), // Scale text size based on height
     frameRate: 60,
     loopDuration: 10000,
-    waveAmplitude: 20,
+    waveAmplitude: Math.floor(height / 15), // Scale wave amplitude based on height
     waveFrequency: 0.003,
     waveSpeed: 0.01,
     gradientColors: {

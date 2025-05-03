@@ -2,7 +2,7 @@
 {% assign overlay_text = include.overlay_text | default: 'COMPUTING FOR RESILIENCE' %}
 {% assign textsize = include.textsize | default: 30 %}
 {% assign height = include.height | default: 300 %}
-{% assign width = include.width | default: 1080 %}
+{% assign width = include.width | default: 600 %}
 
 <div id="p5-container"></div>
 
@@ -22,7 +22,7 @@
     window.addEventListener('load', function() {
         const script = document.createElement('script');
         script.type = 'module';
-        script.src = '{{ site.baseurl }}/assets/js/banner.js';
+        script.src = '/assets/js/banner.js';
         document.body.appendChild(script);
     });
 </script>

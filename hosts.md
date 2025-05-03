@@ -4,7 +4,7 @@ layout: page
 permalink: /hosts
 ---
 
-{% include animation.html pattern=" FIU Florida International University University of Miami UM   " overlay_text=" HOSTING INSTITUTIONS " %}
+{% include animation.html pattern="  FIU & UM  " overlay_text="HOSTING INSTITUTIONS" width=600 height=300 %}
 
 ---------------
 #### HOSTS 

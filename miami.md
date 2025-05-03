@@ -3,8 +3,7 @@ title: /miami
 layout: page
 permalink: /miami
 ---
----
-{% include animation.html pattern="  MIAMI  " overlay_text="MIAMI" %}
+{% include animation.html pattern="  MIAMI 2025  " overlay_text="MIAMI" width=600 height=300 %}
 
 # Conference City: Miami  
 
@@ -53,7 +52,7 @@ The academic hosts for ACADIA 2025 are **Florida International University** and 
 
 # Nearby Restaurants  
 
-- **[Joe’s Stone Crab](https://www.joesstonecrab.com/)**
+- **[Joe's Stone Crab](https://www.joesstonecrab.com/)**
   11 Washington Ave, Miami Beach, FL 33139  
 
 - **[Zuma Miami](https://www.zumarestaurant.com/)**

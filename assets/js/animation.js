@@ -1,7 +1,7 @@
 // Default settings for the banner
 const defaultSettings = {
     pattern: '  ACADIA 2025 MIAMI  ',
-    width: 1080,
+    width: 600,
     height: 300,
     cols: 80,
     rows: 30,
