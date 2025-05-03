@@ -3,7 +3,7 @@ title: /workshops
 layout: page
 permalink: /workshops
 ---
-{% include animation.html pattern="  WORKSHOPS  " overlay_text="WORKSHOP CALL EXTENDED MAY 19th" height=300 %}
+{% include animation.html pattern="  WORKSHOP CALL EXTENDED  " overlay_text="Call for Workshops Extended to May 19" width=600 height=300 %}
 
 **COMPUTING for RESILIENCE: Expanding Community Knowledge & Impact**  
 

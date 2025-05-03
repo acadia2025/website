@@ -2,6 +2,7 @@
 {% assign overlay_text = include.overlay_text | default: 'COMPUTING FOR RESILIENCE' %}
 {% assign textsize = include.textsize | default: 30 %}
 {% assign height = include.height | default: 300 %}
+{% assign width = include.width | default: 1080 %}
 
 <div id="p5-container"></div>
 
@@ -13,7 +14,8 @@
         pattern: '{{ pattern }}',
         overlayText: '{{ overlay_text }}',
         textsize: {{ textsize }},
-        height: {{ height }}
+        height: {{ height }},
+        width: {{ width }}
     };
     
     // Wait for p5.js to load
@@ -31,7 +33,7 @@
         justify-content: center;
         align-items: center;
         width: 100%;
-        max-width: 600px;
+        max-width: {{ width }}px;
         height: {{ height }}px;
         margin: auto;
         margin-bottom: 2rem;
