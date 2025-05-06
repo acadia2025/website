@@ -47,7 +47,7 @@ This sub-theme explores how systems designed for space exploration translate to 
 
 ---
 
-# Important Dates
+# Submission Information and Deadlines
 
 ### 1. Technical Papers
 - **Submission Requirements:** Full papers (4,000 words) are invited for submission. All paper submissions are subject to blind peer review. Accepted papers will be published in the conference proceedings and authors will be invited to present at the conference. Published papers will be included in the CumInCad database and assigned a DOI. All ACADIA papers are searchable through Web of Science Platform and Scopus.  
