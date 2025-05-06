@@ -56,7 +56,7 @@ This sub-theme explores how systems designed for space exploration translate to 
 - **Notification of Acceptance:** Late July, 2025  
 - **Revised Papers Due:** Late August, 2025    
 
-Please use the **[ACADIA 2025 Papers Style Guide](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** for formatting your submission, and review the  **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
+Please use the **[ACADIA 2025 Papers Style Guide](https://drive.google.com/file/d/1B277AYj8Y3dzS7C-DLrLJjvBGj56W_EX/view?usp=sharing)** for formatting your submission, and review the  **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
 
 
 ### 2. Projects  
@@ -66,7 +66,7 @@ Please use the **[ACADIA 2025 Papers Style Guide](https://drive.google.com/file/
 - **Notification of Acceptance:** Late July, 2025  
 - **Revised Papers Due:** Late August, 2025    
 
-Please use the **[ACADIA 2025 Projects Style Guide](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** for formatting your submission, and review the **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
+Please use the **[ACADIA 2025 Projects Style Guide](https://drive.google.com/file/d/1B277AYj8Y3dzS7C-DLrLJjvBGj56W_EX/view?usp=sharing)** for formatting your submission, and review the **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
 
 ### 3. Field Notes
 - **Submission Requirements:** 800–1,000 word texts max; images are permitted, and image-based essays are also welcome.  
