@@ -49,8 +49,6 @@ This sub-theme explores how systems designed for space exploration translate to 
 
 # Important Dates
 
-## Full Paper Submission
-
 ### 1. Technical Papers
 - **Submission Requirements:** Full papers (4,000 words) are invited for submission. All paper submissions are subject to blind peer review. Accepted papers will be published in the conference proceedings and authors will be invited to present at the conference. Published papers will be included in the CumInCad database and assigned a DOI. All ACADIA papers are searchable through Web of Science Platform and Scopus.  
 
@@ -58,7 +56,8 @@ This sub-theme explores how systems designed for space exploration translate to 
 - **Notification of Acceptance:** Late July, 2025  
 - **Revised Papers Due:** Late August, 2025    
 
-Paper template and submission portal information will be available soon
+Please use the **[ACADIA 2025 Papers Style Guide](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** for formatting your submission, and review the  **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
+
 
 ### 2. Projects  
 - **Submission Requirements:** 600-word text (excluding citations and captions) plus a maximum of 10 images.  
@@ -67,7 +66,7 @@ Paper template and submission portal information will be available soon
 - **Notification of Acceptance:** Late July, 2025  
 - **Revised Papers Due:** Late August, 2025    
 
-Project template and submission portal information will be available soon
+Please use the **[ACADIA 2025 Projects Style Guide](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** for formatting your submission, and review the **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
 
 ### 3. Field Notes
 - **Submission Requirements:** 800–1,000 word texts max; images are permitted, and image-based essays are also welcome.  
@@ -76,4 +75,4 @@ Project template and submission portal information will be available soon
 - **Notification of Acceptance:** Late July, 2025  
 - **Revised Papers Due:** Late August, 2025   
 
-Field Notes template and submission portal information will be available soon
+Please use the **[ACADIA 2025 Field Notes Style Guide](https://drive.google.com/file/d/1B277AYj8Y3dzS7C-DLrLJjvBGj56W_EX/view?usp=sharing)** for formatting your submission, and review the  **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
