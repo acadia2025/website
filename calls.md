@@ -3,7 +3,7 @@ title: /calls
 layout: page
 permalink: /calls
 ---
-{% include animation.html pattern="  PAPERS PROJECTS FIELD NOTES  " overlay_text="CALLS FOR SUBMISSION" width=600 height=300 %}
+{% include animation.html pattern="  PAPERS PROJECTS FIELD NOTES  " overlay_text="Calls For Submissions" width=600 height=300 %}
 # Calls for Submissions
 
 ## Conference Theme

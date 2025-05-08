@@ -4,7 +4,7 @@ layout: page
 permalink: /hosts
 ---
 
-{% include animation.html pattern="  FIU & UM  " overlay_text="HOSTING INSTITUTIONS" width=600 height=300 %}
+{% include animation.html pattern="  FIU & UM  " overlay_text="Hosting Institutions" width=600 height=300 %}
 
 ---------------
 #### HOSTS 

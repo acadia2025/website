@@ -3,7 +3,7 @@ title: /miami
 layout: page
 permalink: /miami
 ---
-{% include animation.html pattern="  MIAMI 2025  " overlay_text="MIAMI" width=600 height=300 %}
+{% include animation.html pattern="  MIAMI 2025  " overlay_text="Miami" width=600 height=300 %}
 
 # Conference City: Miami  
 
