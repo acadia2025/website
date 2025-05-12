@@ -60,7 +60,7 @@ This sub-theme explores how systems designed for space exploration translate to 
 Please use the **[ACADIA 2025 Papers Style Guide](https://drive.google.com/file/d/1B277AYj8Y3dzS7C-DLrLJjvBGj56W_EX/view?usp=sharing)** for formatting your submission, and review the  **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
   
 Submit your paper: [EasyChair Submission portal](https://easychair.org/cfp/acadia2025)
-2023 & 2024 best paper samples:  [samples](/samplepublications)  
+2023 & 2024 best paper [samples](/samplepublications)  
   
 ### 2. Projects  
 - **Submission Requirements:** 600-word text (excluding citations and captions) plus a maximum of 10 images.  
@@ -71,7 +71,7 @@ Submit your paper: [EasyChair Submission portal](https://easychair.org/cfp/acadi
 Please use the **[ACADIA 2025 Projects Style Guide](https://drive.google.com/file/d/1B277AYj8Y3dzS7C-DLrLJjvBGj56W_EX/view?usp=sharing)** for formatting your submission, and review the **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.  
 <br>
 Submit your project: [EasyChair Submission portal](https://easychair.org/cfp/acadia2025)  
-2023 & 2024 best project samples:  [samples](/samplepublications)  
+2023 & 2024 best project [samples](/samplepublications)  
   
 ### 3. Field Notes
 - **Submission Requirements:** 800–1,000 word texts max; images are permitted, and image-based essays are also welcome.  
