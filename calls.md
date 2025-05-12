@@ -54,25 +54,32 @@ This sub-theme explores how systems designed for space exploration translate to 
 
 - **Deadline:** June 1st, 2025, 11:59 pm EST  
 - **Notification of Acceptance:** Late July, 2025  
-- **Revised Papers Due:** Late August, 2025    
+- **Revised Papers Due:** Late August, 2025.  
+
 
 Please use the **[ACADIA 2025 Papers Style Guide](https://drive.google.com/file/d/1B277AYj8Y3dzS7C-DLrLJjvBGj56W_EX/view?usp=sharing)** for formatting your submission, and review the  **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
-
-
+  
+Submit your paper: [EasyChair Submission portal](https://easychair.org/cfp/acadia2025)  
+2023 & 2024 best paper samples:  [samples](/samplepublications)  
+  
 ### 2. Projects  
 - **Submission Requirements:** 600-word text (excluding citations and captions) plus a maximum of 10 images.  
-- **Details:** Project submissions will be blind peer-reviewed. Projects will be published in the conference proceedings and exhibited as posters in the Exhibition. Select submissions may be invited to present in the plenary sessions and/or participate in a discussion panel during the conference. Published projects will be included in the CumInCad database and assigned a DOI. All ACADIA projects are searchable through Web of Science Platform and Scopus.    
+- **Details:** Project submissions will be blind peer-reviewed. Projects will be published in the conference proceedings and exhibited as posters in the Exhibition. Select submissions may be invited to present in the plenary sessions and/or participate in a discussion panel during the conference. Published projects will be included in the CumInCad database and assigned a DOI. All ACADIA projects are searchable through Web of Science Platform and Scopus.  
 - **Deadline:** June 1st, 2025, 11:59 pm EST  
 - **Notification of Acceptance:** Late July, 2025  
-- **Revised Papers Due:** Late August, 2025    
-
-Please use the **[ACADIA 2025 Projects Style Guide](https://drive.google.com/file/d/1B277AYj8Y3dzS7C-DLrLJjvBGj56W_EX/view?usp=sharing)** for formatting your submission, and review the **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
-
+- **Revised Papers Due:** Late August, 2025.  
+Please use the **[ACADIA 2025 Projects Style Guide](https://drive.google.com/file/d/1B277AYj8Y3dzS7C-DLrLJjvBGj56W_EX/view?usp=sharing)** for formatting your submission, and review the **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.  
+<br>
+Submit your paper: [EasyChair Submission portal](https://easychair.org/cfp/acadia2025)  
+  
 ### 3. Field Notes
 - **Submission Requirements:** 800–1,000 word texts max; images are permitted, and image-based essays are also welcome.  
 - **Details:** Field Notes are an invitation for shorter pieces that may include provocative artifacts regarding the culture and practice of computational design: experimental ideas, behind-the-scenes observations, brief narratives, provocations, and manifestos. Submissions will be jury-selected and published in the proceedings. Select submissions may be invited to present and/or participate in a discussion panel during the conference.    
 - **Deadline:** June 1st, 2025, 11:59 pm EST  
 - **Notification of Acceptance:** Late July, 2025  
-- **Revised Papers Due:** Late August, 2025   
-
+- **Revised Papers Due:** Late August, 2025  
+  
 Please use the **[ACADIA 2025 Field Notes Style Guide](https://drive.google.com/file/d/1B277AYj8Y3dzS7C-DLrLJjvBGj56W_EX/view?usp=sharing)** for formatting your submission, and review the  **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
+  
+Submit your paper: [EasyChair Submission portal](https://easychair.org/cfp/acadia2025)  
+  
