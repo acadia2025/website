@@ -43,7 +43,7 @@ Workshop proposals should include the following:
 
 ## Important Information
 
-- Each workshop receives **$2,000** for travel and accommodations.  
+- Each workshop receives up to **$2,000** for travel and accommodations.  
 - One full conference ticket is covered for the workshop lead. 
 - Workshop payments are made after the workshop has been completed.  
 - Pending sponsorships, additional material funds may be available.  
