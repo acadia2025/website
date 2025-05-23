@@ -57,7 +57,7 @@ This sub-theme explores how systems designed for space exploration translate to 
 - **Revised Papers Due:** Late August, 2025.  
 
 
-Please use the **[ACADIA 2025 Papers Style Guide](https://drive.google.com/file/d/1B277AYj8Y3dzS7C-DLrLJjvBGj56W_EX/view?usp=sharing)** for formatting your submission, and review the  **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
+Please use the **[ACADIA 2025 Papers Style Guide](https://drive.google.com/file/d/1XBJPofsNKLPYm2m9BayFZ1BvyyuMp4tG/view?usp=sharing)** for formatting your submission, and review the  **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
   
 Submit your paper: [EasyChair Submission portal](https://easychair.org/cfp/acadia2025)
 2023 & 2024 best paper [samples](/samplepublications)  
@@ -70,7 +70,7 @@ Submit your paper: [EasyChair Submission portal](https://easychair.org/cfp/acadi
 - **Revised Papers Due:** Late August, 2025.  
 Please use the **[ACADIA 2025 Projects Style Guide](https://drive.google.com/file/d/1B277AYj8Y3dzS7C-DLrLJjvBGj56W_EX/view?usp=sharing)** for formatting your submission, and review the **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.  
 <br>
-Submit your project: [EasyChair Submission portal](https://easychair.org/cfp/acadia2025)  
+Submit your project: [EasyChair Submission portal](https://easychair.org/cfp/acadia2025)
 2023 & 2024 best project [samples](/samplepublications)  
   
 ### 3. Field Notes
@@ -83,4 +83,4 @@ Submit your project: [EasyChair Submission portal](https://easychair.org/cfp/aca
 Please use the **[ACADIA 2025 Field Notes Style Guide](https://drive.google.com/file/d/1B277AYj8Y3dzS7C-DLrLJjvBGj56W_EX/view?usp=sharing)** for formatting your submission, and review the  **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
   
 Submit your field notes: [EasyChair Submission portal](https://easychair.org/cfp/acadia2025)  
-  
+2023 & 2024 best field notes [samples](/samplepublications)  
