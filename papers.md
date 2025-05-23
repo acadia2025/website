@@ -55,3 +55,30 @@ Scelsa, J., Sheward, G., Birkeland, J., Liu, J., & Lin, Y. J. (2023). *Centripet
 **2023 Runner-Up for Best Project Award**  
 Huang, A. (2023). *Enhancing Therapeutic Experiences: The Role of Geometry, Color, and Texture.* Presented at *ACADIA 2023: Habits of the Anthropocene Conference.*  
 [Link to the publication](https://drive.google.com/file/d/1yCmROF4FgE3D3vWcC4GOGwrHJCLZDEhK/view?usp=sharing)
+
+## FIELD NOTES
+
+
+**2023 Field Note**  
+Bakomichali, V., Marengo, M., Thomas, J., Ganatra, H., & Neri, I. (2023). *Fostering Symbiosis for Ecosystem Revival.* Presented at *ACADIA 2023: Habits of the Anthropocene Conference.*  
+[Link to the publication](https://drive.google.com/file/d/1hwBmEbSCjEJG2DXF69eB-bZ0ICqZhuLu/view?usp=sharing)
+
+**2023 Field Note**  
+Estrina, T. (2023). *The Yamal Conspiracy: A Geo-Engineered Fabulation.* Presented at *ACADIA 2023: Habits of the Anthropocene Conference.*  
+[Link to the publication](https://drive.google.com/file/d/1uobRTmOuQ6vVrhbuv5bournquWYM_3f-/view?usp=sharing)
+
+**2023 Field Note**  
+Vassigh, S., & Bogosian, B. (2023). *Envisioning an Open Knowledge Network (OKN) for AEC Roboticists.* Presented at *ACADIA 2023: Habits of the Anthropocene Conference.*  
+[Link to the publication](https://drive.google.com/file/d/1qCPwQ0RfVH0AlXRwAKPiFzwSYNC1hMcV/view?usp=sharing)
+
+**2022 Field Note**  
+Cano, J. (2022). *Straddling the Boundary.* Presented at *ACADIA 2022: Hybrids & Haecceities Conference.*  
+[Link to the publication](https://drive.google.com/file/d/1Gji0Ioh8Kdeewx7w3nwd6Cipt6y5xzSD/view?usp=sharing)
+
+**2022 Field Note**  
+Patel, M. (2022). *Collateral Computation.* Presented at *ACADIA 2022: Hybrids & Haecceities Conference.*  
+[Link to the publication](https://drive.google.com/file/d/1GM6_4oVVtJtwCXNiWCnRcwj9_1RbNDgt/view?usp=sharing)
+
+**2022 Field Note**  
+Bruscia, N., Kanaoka, D., Asaoka, H., & Iwaoka, K. (2022). *Nemagari-no-Takumi Workshop.* Presented at *ACADIA 2022: Hybrids & Haecceities Conference.*  
+[Link to the publication](https://drive.google.com/file/d/1c2OvZT89DxArNjoR1v_MWPmB6IvVv2bO/view?usp=sharing)
