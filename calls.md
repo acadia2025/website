@@ -52,7 +52,7 @@ This sub-theme explores how systems designed for space exploration translate to 
 ### 1. Technical Papers
 - **Submission Requirements:** Full papers (4,000 words) are invited for submission. All paper submissions are subject to blind peer review. Accepted papers will be published in the conference proceedings and authors will be invited to present at the conference. Published papers will be included in the CumInCad database and assigned a DOI. All ACADIA papers are searchable through Web of Science Platform and Scopus.  
 
-- **Deadline:** June 1st, 2025, 11:59 pm EST  
+- **Deadline:** ~~June 1st~~ [June 15](#), 2025, 11:59 pm EST  
 - **Notification of Acceptance:** Late July, 2025  
 - **Revised Papers Due:** Late August, 2025.  
 
@@ -65,7 +65,7 @@ Submit your paper: [EasyChair Submission portal](https://easychair.org/cfp/acadi
 ### 2. Projects  
 - **Submission Requirements:** 600-word text (excluding citations and captions) plus a maximum of 10 images.  
 - **Details:** Project submissions will be blind peer-reviewed. Projects will be published in the conference proceedings and exhibited as posters in the Exhibition. Select submissions may be invited to present in the plenary sessions and/or participate in a discussion panel during the conference. Published projects will be included in the CumInCad database and assigned a DOI. All ACADIA projects are searchable through Web of Science Platform and Scopus.  
-- **Deadline:** June 1st, 2025, 11:59 pm EST  
+- **Deadline:** ~~June 1st~~ [June 15](#), 2025, 11:59 pm EST  
 - **Notification of Acceptance:** Late July, 2025  
 - **Revised Papers Due:** Late August, 2025.  
 Please use the **[ACADIA 2025 Projects Style Guide](https://drive.google.com/file/d/1XBJPofsNKLPYm2m9BayFZ1BvyyuMp4tG/view?usp=sharing)** for formatting your submission, and review the **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.  
@@ -76,7 +76,7 @@ Submit your project: [EasyChair Submission portal](https://easychair.org/cfp/aca
 ### 3. Field Notes
 - **Submission Requirements:** 800–1,000 word texts max; images are permitted, and image-based essays are also welcome.  
 - **Details:** Field Notes are an invitation for shorter pieces that may include provocative artifacts regarding the culture and practice of computational design: experimental ideas, behind-the-scenes observations, brief narratives, provocations, and manifestos. Submissions will be jury-selected and published in the proceedings. Select submissions may be invited to present and/or participate in a discussion panel during the conference.    
-- **Deadline:** June 1st, 2025, 11:59 pm EST  
+- **Deadline:** ~~June 1st~~ [June 15](#), 2025, 11:59 pm EST  
 - **Notification of Acceptance:** Late July, 2025  
 - **Revised Papers Due:** Late August, 2025  
   
