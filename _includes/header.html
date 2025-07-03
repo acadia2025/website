@@ -1,8 +1,16 @@
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 <header>
   <div class="menu">
-    <!-- Left-aligned title -->
-    <ul><li>  <a href="http://www.acadia.org">{{ site.title }}</a></li></ul>
+    <!-- Left-aligned title/logo -->
+    <ul><li>
+      {%- if site.logo -%}
+        <a href="http://www.acadia.org">
+          <img src="{{ site.2025logo | relative_url }}" alt="{{ site.title }}" style="height: 40px; max-width: 200px; vertical-align: middle;">
+        </a>
+      {%- else -%}
+        <a href="http://www.acadia.org">{{ site.title }}</a>
+      {%- endif -%}
+    </li></ul>
     
     <!-- Right-aligned menu items -->
     <ul>
