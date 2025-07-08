@@ -2,15 +2,17 @@
 <header>
   <div class="menu">
     <!-- Left-aligned title/logo -->
-    <ul><li>
+   
       {%- if site.logo -%}
-        <a href="http://www.acadia.org">
-          <img src="{{ site.2025logo | relative_url }}" alt="{{ site.title }}" style="height: 40px; max-width: 200px; vertical-align: middle;">
-        </a>
+      <div class="logo-container" style="width: 33.33%; padding: 10px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
+      <a href="http://acadia.org" target="_blank" rel="noopener noreferrer">
+        <img src="{{ site.2025logo | relative_url }}" alt="acadia" style="max-width: 100%; height: auto;">
+      </a>
+    </div>
       {%- else -%}
         <a href="http://www.acadia.org">{{ site.title }}</a>
       {%- endif -%}
-    </li></ul>
+
     
     <!-- Right-aligned menu items -->
     <ul>

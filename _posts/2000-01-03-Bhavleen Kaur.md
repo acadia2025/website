@@ -5,7 +5,7 @@ date:   2014-06-02
 caption: Bhavleen Kaur
 permalink: /Bhavleen Kaur 
 category: technical
-thumbnail: assets/images/organizers/cochairs/bk.jpg
+thumbnail: assets/images/organizers/cochairs/bk.png
 
 ---
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
