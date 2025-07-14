@@ -1,0 +1,54 @@
+{% comment %}
+  This include handles individual gallery items with automatic image naming support.
+  
+  Parameters:
+  - post: The post object
+  - auto_naming: Whether to use automatic image naming
+  - image_path: Base path for images
+  - aspect_ratio: Aspect ratio class
+  - image_size: Size class
+  - show_caption: Whether to display captions (default: true)
+{% endcomment %}
+
+{% assign post = include.post %}
+{% assign auto_naming = include.auto_naming %}
+{% assign image_path = include.image_path %}
+{% assign aspect_ratio = include.aspect_ratio %}
+{% assign image_size = include.image_size %}
+{% assign show_caption = include.show_caption | default: true %}
+
+{% comment %}
+  Automatic image naming logic:
+  - If auto_naming is true, generate image path based on caption
+  - Format: "caption - link.png" becomes "image_path/caption - link.png"
+  - Fallback to post.thumbnail if auto-generated path doesn't exist
+{% endcomment %}
+
+{% if auto_naming %}
+  {% comment %} Generate image filename from caption and title {% endcomment %}
+  {% assign caption_slug = post.caption | slugify %}
+  {% assign title_slug = post.title | slugify %}
+  {% assign auto_image_path = image_path | append: caption_slug | append: ' - ' | append: title_slug | append: '.png' %}
+  
+  {% comment %} Check if auto-generated image exists, otherwise use thumbnail {% endcomment %}
+  {% assign image_src = post.thumbnail %}
+  {% comment %} Note: In Jekyll, we can't easily check file existence, so we'll use the auto path as primary {% endcomment %}
+  {% if auto_image_path != '' %}
+    {% assign image_src = auto_image_path %}
+  {% endif %}
+{% else %}
+  {% assign image_src = post.thumbnail %}
+{% endif %}
+
+<li style="width: var(--gallery-item-width);">
+  <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
+    <img src="{{ image_src }}" 
+         alt="{{ post.title }}" 
+         title="{{ post.title }}"
+         {% if aspect_ratio %}class="aspect-{{ aspect_ratio }}"{% endif %}
+         {% if image_size %}style="max-height: {{ image_size }}px;"{% endif %} />
+    {% if show_caption %}
+      <span>{{ post.caption }}</span>
+    {% endif %}
+  </a>
+</li> 

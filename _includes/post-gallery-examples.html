@@ -1,0 +1,73 @@
+{% comment %}
+  Examples of how to use the enhanced post-gallery.html include
+  
+  This file demonstrates various ways to use the post gallery with different
+  parameters for size, aspect ratio, and automatic image naming.
+{% endcomment %}
+
+<h2>Basic Gallery (Default Settings)</h2>
+{% include post-gallery.html category="workshop" %}
+
+<h2>Large Square Images</h2>
+{% include post-gallery.html 
+   category="workshop" 
+   gallery_item_width="30%" 
+   image_size="large" 
+   aspect_ratio="square" %}
+
+<h2>Medium Portrait Images</h2>
+{% include post-gallery.html 
+   category="workshop" 
+   gallery_item_width="25%" 
+   image_size="medium" 
+   aspect_ratio="portrait" %}
+
+<h2>Small Landscape Images</h2>
+{% include post-gallery.html 
+   category="workshop" 
+   gallery_item_width="20%" 
+   image_size="small" 
+   aspect_ratio="landscape" %}
+
+<h2>Wide Images with Custom Width</h2>
+{% include post-gallery.html 
+   category="workshop" 
+   gallery_item_width="45%" 
+   aspect_ratio="wide" %}
+
+<h2>Automatic Image Naming Example</h2>
+{% comment %}
+  For this to work, you would need images named like:
+  - "Luis Pacheco - luis-pacheco.png"
+  - "Shahin Vassigh - shahin-vassigh.png"
+  etc.
+{% endcomment %}
+{% include post-gallery.html 
+   category="workshop" 
+   auto_naming="true" 
+   image_path="assets/images/organizers/cochairs/" 
+   image_size="medium" 
+   aspect_ratio="square" %}
+
+<h2>Custom Size with Pixels</h2>
+{% include post-gallery.html 
+   category="workshop" 
+   gallery_item_width="28%" 
+   image_size="200" 
+   aspect_ratio="square" %}
+
+<h2>Gallery Without Captions</h2>
+{% include post-gallery.html 
+   category="workshop" 
+   gallery_item_width="25%" 
+   image_size="medium" 
+   aspect_ratio="square" 
+   show_caption="false" %}
+
+<h2>Large Images Without Captions</h2>
+{% include post-gallery.html 
+   category="workshop" 
+   gallery_item_width="30%" 
+   image_size="large" 
+   aspect_ratio="portrait" 
+   show_caption="false" %} 

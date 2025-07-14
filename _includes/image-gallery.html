@@ -1,20 +1,83 @@
 <style>
     .image-gallery {overflow: auto; margin-left: -2%!important;}
-    .image-gallery li {float: left; display: block; margin: 2% 0% 0% 2%; width:20%;}
+    .image-gallery li {float: left; display: block; margin: 2% 0% 0% 2%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery li a img {width: 100%; display: block; object-fit: cover; aspect-ratio: 1/1;} /* Added object-fit: cover; here */
+    .image-gallery li a img {width: 100%; display: block; object-fit: cover; aspect-ratio: 1/1;}
+    
+    /* Custom size support */
+    .image-gallery--small img {
+      max-height: 100px;
+    }
+    
+    .image-gallery--medium img {
+      max-height: 150px;
+    }
+    
+    .image-gallery--large img {
+      max-height: 200px;
+    }
+    
+    .image-gallery--xlarge img {
+      max-height: 300px;
+    }
   </style>
   
-  <ul class="image-gallery">
+  {% comment %}
+    Enhanced image gallery with support for:
+    - folder: Directory to scan for images
+    - item_width: Width of each gallery item (default: 20%)
+    - image_size: Size class (small, medium, large, xlarge) or custom height
+    - show_caption: Display captions below images (default: true)
+    - detect_links: Check filenames for link patterns (default: false)
+  {% endcomment %}
+  
+  {% assign item_width = include.item_width | default: '20%' %}
+  {% assign image_size = include.image_size | default: '' %}
+  {% assign show_caption = include.show_caption | default: true %}
+  {% assign detect_links = include.detect_links | default: false %}
+  
+  <ul class="image-gallery {% if image_size %}image-gallery--{{ image_size }}{% endif %}">
     {% for file in site.static_files %}
       {% if file.path contains include.folder and (file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.JPG' or file.extname == '.JPEG' or file.extname == '.PNG' or file.extname == '.gif' or file.extname == '.GIF' or file.extname == '.jfif') %}
         {% assign filenameparts = file.path | split: "/" %}
         {% assign filename = filenameparts | last | replace: file.extname, "" %}
-        <li>
-          <a href="{{ site.url }}{{ file.path | relative_url }}" title="{{ filename }}">
-            <img src="{{ site.url }}{{ file.path | relative_url }}" alt="{{ filename }}" title="{{ filename }}" />
-            <span>{{ filename }}</span>
+        
+        {% comment %} Extract link from filename if detect_links is enabled {% endcomment %}
+        {% assign link_url = file.path | relative_url %}
+        {% assign is_external_link = false %}
+        {% if detect_links %}
+          {% comment %} Look for common link patterns in filename {% endcomment %}
+          {% if filename contains ' - ' %}
+            {% assign name_parts = filename | split: ' - ' %}
+            {% assign company_name = name_parts[0] %}
+            {% assign potential_link = name_parts[1] %}
+            
+            {% comment %} Check if the second part looks like a URL or domain {% endcomment %}
+            {% if potential_link contains '.' or potential_link contains 'www' or potential_link contains 'http' %}
+              {% assign link_url = potential_link %}
+              {% assign is_external_link = true %}
+              {% if link_url contains 'http' == false %}
+                {% assign link_url = 'https://' | append: link_url %}
+              {% endif %}
+            {% endif %}
+          {% endif %}
+        {% endif %}
+        
+        <li style="width: {{ item_width }};">
+          <a href="{{ link_url }}" title="{{ filename }}" {% if is_external_link %}target="_blank" rel="noopener"{% endif %}>
+            <img src="{{ site.url }}{{ file.path | relative_url }}" 
+                 alt="{{ filename }}" 
+                 title="{{ filename }}"
+                 {% if image_size and image_size contains 'px' %}style="max-height: {{ image_size }};"{% endif %} />
+            {% unless show_caption == false or show_caption == 'false' %}
+              {% if filename contains ' - ' %}
+                {% assign name_parts = filename | split: ' - ' %}
+                <span>{{ name_parts[0] }}</span>
+              {% else %}
+                <span>{{ filename }}</span>
+              {% endif %}
+            {% endunless %}
           </a>
         </li>
       {% endif %}

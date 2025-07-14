@@ -25,30 +25,80 @@
     height: auto; /* Ensures images scale proportionally */
     display: block;
     object-fit: cover;
-    aspect-ratio: 1 / 1; /* Maintains a square aspect ratio */
     max-width: 100%; /* Prevents images from exceeding their container size */
+  }
+  
+  /* Custom aspect ratio support */
+  .image-gallery--square img {
+    aspect-ratio: 1 / 1;
+  }
+  
+  .image-gallery--portrait img {
+    aspect-ratio: 3 / 4;
+  }
+  
+  .image-gallery--landscape img {
+    aspect-ratio: 4 / 3;
+  }
+  
+  .image-gallery--wide img {
+    aspect-ratio: 16 / 9;
+  }
+  
+  /* Custom size support */
+  .image-gallery--small img {
+    max-height: 150px;
+  }
+  
+  .image-gallery--medium img {
+    max-height: 250px;
+  }
+  
+  .image-gallery--large img {
+    max-height: 350px;
   }
   </style>
   
-  <ul class="image-gallery" style="--gallery-item-width: {{ include.gallery_item_width | default: '22%' }};">
+  {% comment %}
+    Parameters:
+    - category: Filter posts by category
+    - gallery_item_width: Width of each gallery item (default: 22%)
+    - image_size: Size class (small, medium, large) or custom height
+    - aspect_ratio: Aspect ratio class (square, portrait, landscape, wide)
+    - auto_naming: Enable automatic image naming based on caption (default: false)
+    - image_path: Base path for images when using auto_naming
+    - show_caption: Display captions below images (default: true)
+  {% endcomment %}
+  
+  {% assign gallery_item_width = include.gallery_item_width | default: '22%' %}
+  {% assign image_size = include.image_size | default: '' %}
+  {% assign aspect_ratio = include.aspect_ratio | default: 'square' %}
+  {% assign auto_naming = include.auto_naming | default: false %}
+  {% assign image_path = include.image_path | default: 'assets/images/' %}
+  {% assign show_caption = include.show_caption | default: true %}
+  
+  <ul class="image-gallery image-gallery--{{ aspect_ratio }} {% if image_size %}image-gallery--{{ image_size }}{% endif %}" 
+      style="--gallery-item-width: {{ gallery_item_width }};">
     {% assign sorted_posts = site.posts | sort: "date" %}
     {% for post in sorted_posts %}
       {% if include.category %}
         {% if post.categories contains include.category %}
-          <li style="width: var(--gallery-item-width);">
-            <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
-              <img src="{{ post.thumbnail }}" alt="{{ post.title }}" title="{{ post.title }}" />
-              <span>{{ post.caption }}</span>
-            </a>
-          </li>
+                   {% include post-gallery-item.html 
+            post=post 
+            auto_naming=auto_naming 
+            image_path=image_path 
+            aspect_ratio=aspect_ratio 
+            image_size=image_size 
+            show_caption=show_caption %}
         {% endif %}
       {% else %}
-        <li style="width: var(--gallery-item-width);">
-          <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
-            <img src="{{ post.thumbnail }}" alt="{{ post.title }}" title="{{ post.title }}" />
-            <span>{{ post.caption }}</span>
-          </a>
-        </li>
+        {% include post-gallery-item.html 
+           post=post 
+           auto_naming=auto_naming 
+           image_path=image_path 
+           aspect_ratio=aspect_ratio 
+           image_size=image_size 
+           show_caption=show_caption %}
       {% endif %}
     {% endfor %}
   </ul>
