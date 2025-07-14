@@ -55,10 +55,11 @@
             
             {% comment %} Check if the second part looks like a URL or domain {% endcomment %}
             {% if potential_link contains '.' or potential_link contains 'www' or potential_link contains 'http' %}
-              {% assign link_url = potential_link %}
               {% assign is_external_link = true %}
-              {% if link_url contains 'http' == false %}
-                {% assign link_url = 'https://' | append: link_url %}
+              {% if potential_link contains 'http://' or potential_link contains 'https://' %}
+                {% assign link_url = potential_link %}
+              {% else %}
+                {% assign link_url = 'https://' | append: potential_link %}
               {% endif %}
             {% endif %}
           {% endif %}

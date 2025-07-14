@@ -41,6 +41,7 @@ Images should be named using the format: `"Company Name - website.com.png"`
 - `"HKS Line - hksline.com.png"` → Links to https://hksline.com
 - `"Alpha Additive - alphaadditive.com.png"` → Links to https://alphaadditive.com
 - `"Routledge - routledge.com.png"` → Links to https://routledge.com
+- `"Company - https://example.com.png"` → Links to https://example.com (with full URL)
 
 ### Automatic URL Handling
 - If the link doesn't start with `http://` or `https://`, it automatically adds `https://`
