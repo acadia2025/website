@@ -53,8 +53,8 @@ This sub-theme explores how systems designed for space exploration translate to 
 - **Submission Requirements:** Full papers (4,000 words) are invited for submission. All paper submissions are subject to blind peer review. Accepted papers will be published in the conference proceedings and authors will be invited to present at the conference. Published papers will be included in the CumInCad database and assigned a DOI. All ACADIA papers are searchable through Web of Science Platform and Scopus.  
 
 - **Deadline:** ~~June 1st~~ [June 17](#), 2025, 11:59 pm EST  
-- **Notification of Acceptance:** Late July, 2025  
-- **Revised Papers Due:** Late August, 2025.  
+- **Notification of Acceptance:** ~~Late July~~ [Mid August](#), 2025  
+- **Revised Papers Due:** Late August, 2025  
 
 
 Please use the **[ACADIA 2025 Papers Style Guide](https://drive.google.com/file/d/1XBJPofsNKLPYm2m9BayFZ1BvyyuMp4tG/view?usp=sharing)** for formatting your submission, and review the  **[ACADIA Artificial Intelligence and Collaborative Authorship Policies](https://drive.google.com/file/d/15t4pV47Uwx6neLycOhrzjoSYA8n3URZD/view?usp=sharing)** prior to submitting your work.
