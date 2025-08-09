@@ -24,8 +24,13 @@ permalink: /sponsors
    show_caption="false" 
    detect_links="true" %}  
 
-<!-- **Bronze Sponsors**  
-{% include image-gallery.html folder="/assets/images/sponsors/bronze" %}   -->
+**Bronze Sponsors**  
+{% include image-gallery.html 
+   folder="/assets/images/sponsors/bronze" 
+   item_width="30%" 
+   image_size="medium" 
+   show_caption="false" 
+   detect_links="true" %}  
 
 **Conference Sponsors**  
 {% include image-gallery.html 
