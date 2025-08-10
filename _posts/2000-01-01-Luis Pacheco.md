@@ -12,7 +12,7 @@ thumbnail: assets/images/organizers/cochairs/lp.jpg
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
 ## [Luis Pacheco](https://www.luigipacheco.com)
-Assistant Professor and Director of the Interactive Mahines Lab, FAU
+Assistant Professor and Director of the Interactive Machines Lab, FAU
 lpachecoalcala@fau.edu
 
  Luis Arturo Pacheco is an Assistant Professor of Architecture at Florida Atlantic University and Director of the [Interactive Machines Lab](https://www.fau.edu/artsandletters/architecture/research-labs/interactive-machines-lab/), where his research explores the intersection of computational design, robotics, and digital fabrication. His work focuses on developing intuitive robot control interfaces for creative professionals and advancing innovative workflows for digital manufacturing in construction. He is also a Doctor of Design candidate (2025), with research centered on procedural robot control and integration interfaces in architectural robotics.
