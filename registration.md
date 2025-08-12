@@ -8,7 +8,7 @@ permalink: /registration/
 
 The Eventbrite registration page for the 2025 ACADIA Conference is available at the following link: **[REGISTER](https://acadia2025conference.eventbrite.com)**
 
-**Note:** Registration will go live on August 13, 2025. No ticket purchases will be available before this date. Early registration rates are available through September 26.
+**Note:** Registration will go live on August 15, 2025. No ticket purchases will be available before this date. Early registration rates are available through September 26.
 
 ## Full Conference Access Ticket Options
 
