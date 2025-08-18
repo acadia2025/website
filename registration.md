@@ -6,35 +6,37 @@ permalink: /registration/
 
 # ACADIA 2025 Conference Registration: Nov 6-8
 
-The Eventbrite registration page for the 2025 ACADIA Conference is available at the following link: **[REGISTER](https://acadia2025conference.eventbrite.com)**
+**[Register on Eventbrite!](https://acadia2025conference.eventbrite.com)**
 
-**Note:** Registration will go live on August 15, 2025. No ticket purchases will be available before this date. Early registration rates are available through September 26.
+**Note:** Early registration rates are available through September 26.
 
 ## Full Conference Access Ticket Options
 
-Includes ACADIA 2026 Membership, full access to all conference events, Gala Dinner, and conference swag
+Includes ACADIA 2026 membership, full access to all conference events, the Gala Dinner, and conference swag.
 
-- **Early Full Conference Registration:** $755.00
-- **Early Student Full Conference Registration:** $355.00
-- **Regular Full Conference Registration:** $825.00
-- **Student Full Conference Registration:** $410.00
+- **Early Full Conference:** $755.00 (ends Sept 26)
+- **Early Student Full Conference:** $355.00 (ends Sept 26)
+- **Regular Full Conference:** $825.00 (Sept 27–Oct 31)
+- **Student Full Conference:** $410.00 (Sept 27–Oct 31)
+- **Late Full Conference:** (Nov 1–Nov 8)
+- **Late Student Full Conference:** (Nov 1–Nov 8)
 
-## Day Pass
+## Day Passes (Not valid for presenting authors)
 
-**Price:** $300.00
+Go live on October 1. **Price:** $300.00
 
-Includes single-day access to sessions, keynotes, and exhibitions, plus conference swag. Does not include ACADIA 2026 membership or Gala Dinner.
+Single-day access to sessions, keynotes, and exhibitions, plus conference swag. At checkout, you'll select Nov 6, Nov 7, or Nov 8; onsite, you'll receive a color-coded badge for that day. Valid for one calendar day only. Does not include the closing Gala Dinner.
 
-## Student Verification Required
+## Student Verification
 
-After registering, all student attendees must email the following to **2025@acadia.org**:
+To qualify for student pricing, email **2025@acadia.org** within 7 days of registration with:
 
-- Proof of enrollment for Fall 2025 (e.g., current class schedule or official enrollment letter)
-- A valid student ID
+- Proof of Spring or Fall 2025 enrollment (class schedule showing your name or an official enrollment letter)
+- Valid student ID (photo or scan)
 
-Student verification has to be received up to 3 days after the registration date. Failure to do so will result in ticket cancellation.
+If verification is not received within 7 days, the student ticket will be canceled.
 
-**Please note:** Students who currently hold a full-time teaching or Assistant Professor position are not eligible for student pricing.
+**Note:** Students in full-time teaching or Assistant Professor roles are not eligible for student pricing.
 
 ## ACADIA 2025 Workshops Registration: Nov 3-5
 
@@ -42,12 +44,11 @@ Information forthcoming
 
 ## Cancellation and Refund Policy
 
-- Refund requests will be accepted until October 30, 2025 at 11:59 PM EDT, which is seven days before the start of the conference.
-- To request a refund, email **2025@acadia.org** with your registration details.
-- No refunds will be issued after this deadline.
+- Refund requests will be accepted until October 30, 2025, at 11:59 PM EDT, which is seven days before the start of the conference.
+- To request a refund, email **2025@acadia.org** with your registration details. No refunds will be issued after this deadline.
 
 ---
 
 ## IMPORTANT NOTE
 
-By registering for the 2025 ACADIA conference, you agree to the terms of ACADIA's Code of Conduct. 
+By registering for the 2025 ACADIA conference, you agree to the terms of [ACADIA's Code of Conduct](http://old.acadia.org/content/organization#code_of%20conduct). 
