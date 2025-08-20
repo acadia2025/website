@@ -4,13 +4,13 @@
     <!-- Left-aligned title/logo -->
    
       {%- if site.logo -%}
-      <div class="logo-container" style="width: 33.33%; padding: 10px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
-      <a href="http://acadia.org" target="_blank" rel="noopener noreferrer">
+      <div class="{{logo-container}}" style="width: 33.33%; padding: 10px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
+      <a href="{{site.url}}" target="_blank" rel="noopener noreferrer">
         <img src="{{ site.2025logo | relative_url }}" alt="acadia" style="max-width: 100%; height: auto;">
       </a>
     </div>
       {%- else -%}
-        <a href="http://www.acadia.org">{{ site.title }}</a>
+        <a href="{{site.url}}">{{ site.title }}</a>
       {%- endif -%}
 
     

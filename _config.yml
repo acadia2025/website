@@ -6,7 +6,7 @@ logo: "/assets/images/acadia_logo.png"
 2025logo: "/assets/images/2025_logo.png"
 
 header_pages:
-  - index.md
+  #- index.md
   # - about.md
   - calls.md
   - hosts.md
