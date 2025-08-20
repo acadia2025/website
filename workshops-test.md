@@ -1,7 +1,7 @@
 ---
 title: /workshops
 layout: page
-permalink: /workshops
+permalink: /workshops-test
 ---
 {% include animation.html pattern="  workshops  " overlay_text=" WORKSHOPS " width=600 height=300 %}
 
