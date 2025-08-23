@@ -1,86 +1,195 @@
 <style>
-    .image-gallery {overflow: auto; margin-left: -2%!important;}
-    .image-gallery li {float: left; display: block; margin: 2% 0% 0% 2%;}
-    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery li a img {width: 100%; display: block; object-fit: cover; aspect-ratio: 1/1;}
+    .image-gallery {
+        overflow: auto; 
+        margin-left: -2%!important;
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        padding: 0;
+        --selection-background: transparent;
+    }
+    
+    .image-gallery li {
+        float: none;
+        display: block; 
+        margin: 2% 0% 0% 2%;
+        box-sizing: border-box;
+        --selection-background: transparent;
+    }
+    
+    .image-gallery li a {
+        text-align: center; 
+        text-decoration: none!important; 
+        color: #3b3b3b;
+        display: block;
+        height: 100%;
+        --base-color: #fafafa;
+    }
+    
+    .image-gallery li a:hover {
+        color: #3b3b3b;
+        --base-color: #ffffff;
+    }
+    
+    .image-gallery li a:focus {
+        color: #3b3b3b;
+        --base-color: #ffffff;
+    }
+    
+    .image-gallery li a span {
+        display: block; 
+        text-overflow: ellipsis; 
+        overflow: hidden; 
+        white-space: nowrap; 
+        padding: 3px 0;
+        color: #3b3b3b;
+        --base-color: #3b3b3b;
+    }
+    
+    .image-gallery li a:hover span {
+        color: #3b3b3b;
+        --base-color: #3b3b3b;
+    }
+    
+    .image-gallery li a:focus span {
+        color: #3b3b3b;
+        --base-color: #3b3b3b;
+    }
+    
+    .image-gallery li a img {
+        width: 100%; 
+        height: auto;
+        display: block; 
+        object-fit: contain;
+        background: #ffffff;
+        min-height: 120px;
+        border: 1px solid transparent;
+        transition: border-color 0.2s ease;
+    }
+    
+    /* Subtle corner line animation on hover for linked images */
+    .image-gallery li a[href]:not([href="#"]):not([href=""]):hover img {
+        border-color: #3b3b3b;
+    }
     
     /* Custom size support */
     .image-gallery--small img {
-      max-height: 100px;
+        max-height: 100px;
+        object-fit: contain;
+        background: #ffffff;
+        min-height: 80px;
+        --selection-background: transparent;
     }
     
     .image-gallery--medium img {
-      max-height: 150px;
+        max-height: 150px;
+        object-fit: contain;
+        background: #ffffff;
+        min-height: 120px;
+        --selection-background: transparent;
     }
     
     .image-gallery--large img {
-      max-height: 200px;
+        max-height: 200px;
+        object-fit: contain;
+        background: #ffffff;
+        min-height: 160px;
+        --selection-background: transparent;
     }
     
     .image-gallery--xlarge img {
-      max-height: 300px;
+        max-height: 300px;
+        object-fit: contain;
+        background: #ffffff;
+        min-height: 240px;
+        --selection-background: transparent;
     }
-  </style>
-  
-  {% comment %}
-    Enhanced image gallery with support for:
-    - folder: Directory to scan for images
-    - item_width: Width of each gallery item (default: 20%)
-    - image_size: Size class (small, medium, large, xlarge) or custom height
-    - show_caption: Display captions below images (default: true)
-    - detect_links: Check filenames for link patterns (default: false)
-  {% endcomment %}
-  
-  {% assign item_width = include.item_width | default: '20%' %}
-  {% assign image_size = include.image_size | default: '' %}
-  {% assign show_caption = include.show_caption | default: true %}
-  {% assign detect_links = include.detect_links | default: false %}
-  
-  <ul class="image-gallery {% if image_size %}image-gallery--{{ image_size }}{% endif %}">
-    {% for file in site.static_files %}
-      {% if file.path contains include.folder and (file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.JPG' or file.extname == '.JPEG' or file.extname == '.PNG' or file.extname == '.gif' or file.extname == '.GIF' or file.extname == '.jfif') %}
-        {% assign filenameparts = file.path | split: "/" %}
-        {% assign filename = filenameparts | last | replace: file.extname, "" %}
-        
-        {% comment %} Extract link from filename if detect_links is enabled {% endcomment %}
-        {% assign link_url = file.path | relative_url %}
-        {% assign is_external_link = false %}
-        {% if detect_links %}
-          {% comment %} Look for common link patterns in filename {% endcomment %}
-          {% if filename contains ' - ' %}
-            {% assign name_parts = filename | split: ' - ' %}
-            {% assign company_name = name_parts[0] %}
-            {% assign potential_link = name_parts[1] %}
-            
-            {% comment %} Check if the second part looks like a URL or domain {% endcomment %}
-            {% if potential_link contains '.' or potential_link contains 'www' or potential_link contains 'http' %}
-              {% assign is_external_link = true %}
-              {% if potential_link contains 'http://' or potential_link contains 'https://' %}
-                {% assign link_url = potential_link %}
-              {% else %}
-                {% assign link_url = 'https://' | append: potential_link %}
-              {% endif %}
+</style>
+
+{% comment %}
+  Enhanced image gallery with support for:
+  - folder: Directory to scan for images
+  - item_width: Width of each gallery item (default: 20%)
+  - image_size: Size class (small, medium, large, xlarge) or custom height
+  - show_caption: Display captions below images (default: true)
+  - detect_links: Check filenames for link patterns (default: false)
+  - page_links: Map specific images to page URLs (default: empty)
+{% endcomment %}
+
+{% assign item_width = include.item_width | default: '20%' %}
+{% assign image_size = include.image_size | default: '' %}
+{% assign show_caption = include.show_caption | default: true %}
+{% assign detect_links = include.detect_links | default: false %}
+{% assign page_links = include.page_links | default: '' %}
+
+{% comment %} Create a mapping for call images to their respective pages {% endcomment %}
+{% assign call_page_mapping = '' %}
+{% if include.folder contains 'calls' %}
+  {% assign call_page_mapping = 'Papers:/call-for-papers,Workshops:/callforworkshops,Book Forum:/book-forum' %}
+{% endif %}
+
+<ul class="image-gallery {% if image_size %}image-gallery--{{ image_size }}{% endif %}">
+  {% for file in site.static_files %}
+    {% if file.path contains include.folder and (file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.JPG' or file.extname == '.JPEG' or file.extname == '.PNG' or file.extname == '.gif' or file.extname == '.GIF' or file.extname == '.jfif') %}
+      {% assign filenameparts = file.path | split: "/" %}
+      {% assign filename = filenameparts | last | replace: file.extname, "" %}
+      {% assign full_filename = filenameparts | last %}
+      
+      {% comment %} Extract link from filename if detect_links is enabled {% endcomment %}
+      {% assign link_url = file.path | relative_url %}
+      {% assign is_external_link = false %}
+      {% assign is_page_link = false %}
+      
+      {% comment %} Check for page links first {% endcomment %}
+      {% if call_page_mapping != '' %}
+        {% assign mapping_parts = call_page_mapping | split: ',' %}
+        {% for mapping in mapping_parts %}
+          {% assign map_parts = mapping | split: ':' %}
+          {% comment %} Use contains for more flexible matching to handle spaces and special characters {% endcomment %}
+          {% if full_filename contains map_parts[0] %}
+            {% assign link_url = map_parts[1] %}
+            {% assign is_page_link = true %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      
+      {% comment %} Fall back to detect_links if no page link found {% endcomment %}
+      {% if detect_links and is_page_link == false %}
+        {% comment %} Look for common link patterns in filename {% endcomment %}
+        {% if filename contains ' - ' %}
+          {% assign name_parts = filename | split: ' - ' %}
+          {% assign company_name = name_parts[0] %}
+          {% assign potential_link = name_parts[1] %}
+          
+          {% comment %} Check if the second part looks like a URL or domain {% endcomment %}
+          {% if potential_link contains '.' or potential_link contains 'www' or potential_link contains 'http' %}
+            {% assign is_external_link = true %}
+            {% if potential_link contains 'http://' or potential_link contains 'https://' %}
+              {% assign link_url = potential_link %}
+            {% else %}
+              {% assign link_url = 'https://' | append: potential_link %}
             {% endif %}
           {% endif %}
         {% endif %}
-        
-        <li style="width: {{ item_width }};">
-          <a href="{{ link_url }}" title="{{ filename }}" {% if is_external_link %}target="_blank" rel="noopener"{% endif %}>
-            <img src="{{ site.url }}{{ file.path | relative_url }}" 
-                 alt="{{ filename }}" 
-                 title="{{ filename }}"
-                 {% if image_size and image_size contains 'px' %}style="max-height: {{ image_size }};"{% endif %} />
-            {% unless show_caption == false or show_caption == 'false' %}
-              {% if filename contains ' - ' %}
-                {% assign name_parts = filename | split: ' - ' %}
-                <span>{{ name_parts[0] }}</span>
-              {% else %}
-                <span>{{ filename }}</span>
-              {% endif %}
-            {% endunless %}
-          </a>
-        </li>
       {% endif %}
-    {% endfor %}
-  </ul>
+      
+      <li style="width: {{ item_width }};">
+        <a href="{{ link_url }}" title="{{ filename }}" {% if is_external_link %}target="_blank" rel="noopener"{% endif %}>
+          <img src="{{ site.url }}{{ file.path | relative_url }}" 
+               alt="{{ filename }}" 
+               title="{{ filename }}"
+               {% if image_size and image_size contains 'px' %}style="max-height: {{ image_size }};"{% endif %} />
+          {% unless show_caption == false or show_caption == 'false' %}
+            {% if filename contains ' - ' %}
+              {% assign name_parts = filename | split: ' - ' %}
+              <span>{{ name_parts[0] }}</span>
+            {% else %}
+              <span>{{ filename }}</span>
+            {% endif %}
+          {% endunless %}
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
