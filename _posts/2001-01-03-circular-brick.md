@@ -99,3 +99,7 @@ Participants will leave the workshop with:
 ### Audience
 - **Audience**: This workshop is open to architecture and civil engineering students of all academic levels, from any institution and language background
 - **Group Size**: Maximum of 10 participants
+
+## Workshop Gallery
+
+{% include image-gallery.html folder="assets/images/workshops/circular-brick" item_width="30%" show_caption="false" %}
