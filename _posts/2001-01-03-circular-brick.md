@@ -16,8 +16,8 @@ thumbnail: assets/images/workshops/acadia25-workshop_biomaterial.jpg
 
 ## Workshop Team
 **Dinorah Martínez Schulte**, MANUFACTURA + University of Florida  
-**Alex Schofield**, Co-workshop Leader  
-**Teri Watson**, Co-workshop Leader
+**Alex Schofield**, Co-workshop Leader, California College of the Arts (CCA)  
+**Teri Watson**, Co-workshop Leader, FIU Robotics and Digital Fabrication (RDF) Lab
 
 ## Workshop Description
 We tend to think of ceramics as an environmentally friendly industry, the reason to make it a popular hobby for many of us. But, is this claim real? Robert Harrison in his book Sustainable Ceramics mentions: "Ceramics with all its necessities for manufacturing, materials, firing, fuels and workspace is certainly not a clean/green environment." Gas emissions, waste management, transportation and energy consumption are just a few of the characteristics that turn this process into one that negatively impacts our environment.
