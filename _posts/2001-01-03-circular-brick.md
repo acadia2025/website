@@ -14,7 +14,7 @@ thumbnail: assets/images/workshops/acadia25-workshop_biomaterial.jpg
 
 # CIRCULAR BRICK: Performative Design for Robotic 3D-Printed Brick using Biomaterials
 
-# [Register Now](https://www.eventbrite.com/e/acadia-2025-workshops-tickets-1559581613589?aff=oddtdtcreator)
+# [Registration Link](https://www.eventbrite.com/e/acadia-2025-workshops-tickets-1559581613589?aff=oddtdtcreator)
 
 **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**
 
