@@ -14,9 +14,9 @@ thumbnail: assets/images/workshops/acadia25-workshop_cognitiverobotics.jpg
 
 # Cognitive Robotic Fabrication
 
-# [Register Now](https://www.eventbrite.com/e/acadia-2025-conference-tickets-1559581102059?aff=oddtdtcreator)
+# [Register Now](https://www.eventbrite.com/e/acadia-2025-workshops-tickets-1559581613589?aff=oddtdtcreator)
 
-**Workshop Registration is now open! Click the link above to secure your spot.**
+**Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**
 
 ## Workshop Team
 ---
