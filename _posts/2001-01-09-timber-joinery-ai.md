@@ -12,9 +12,15 @@ thumbnail: assets/images/workshops/acadia25-workshop_timber.jpg
 
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-# Registration Opening Soon
+# From Prompt to Production: Timber Joinery in the Age of AI
+
+# [Register Now](https://www.eventbrite.com/e/acadia-2025-conference-tickets-1559581102059?aff=oddtdtcreator)
+
+**Workshop Registration is now open! Click the link above to secure your spot.**
 
 ## Workshop Team
+---
+
 **Instructor**: **Amin Adelzadeh**  
 Doctoral Fellow, CITA - Royal Danish Academy, Denmark
 

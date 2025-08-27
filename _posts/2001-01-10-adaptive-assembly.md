@@ -12,9 +12,15 @@ thumbnail: assets/images/workshops/acadia25-workshop_adaptiveassembly.png
 
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-# Registration Opening Soon
+# Adaptive Assembly: AI-Driven Protective Infrastructure from Found and Fabricated Materials
+
+# [Register Now](https://www.eventbrite.com/e/acadia-2025-conference-tickets-1559581102059?aff=oddtdtcreator)
+
+**Workshop Registration is now open! Click the link above to secure your spot.**
 
 ## Workshop Team
+---
+
 **Jon Penvose** - University of Pennsylvania Weitzman School of Design, MSD Robotics and Autonomous Systems (MSD-RAS)  
 **Qian Gu** - Robotics Architect / Engineer | PATTERNS Designer
 

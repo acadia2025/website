@@ -12,9 +12,15 @@ thumbnail: assets/images/workshops/acadia25-workshop_cognitiverobotics.jpg
 
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-# Registration Opening Soon
+# Cognitive Robotic Fabrication
+
+# [Register Now](https://www.eventbrite.com/e/acadia-2025-conference-tickets-1559581102059?aff=oddtdtcreator)
+
+**Workshop Registration is now open! Click the link above to secure your spot.**
 
 ## Workshop Team
+---
+
 **Johannes Braumann**, Creative Robotics, Association for Robots in Architecture  
 **Karl Singline**, Creative Robotics  
 **Emanuel Gollob**, Creative Robotics

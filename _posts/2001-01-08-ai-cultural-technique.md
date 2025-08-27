@@ -12,9 +12,14 @@ thumbnail: assets/images/workshops/acadia25-workshop_culturalai.png
 
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-# Registration Opening Soon
+# AI as Cultural Technique: A Theory Workshop
 
-## Workshop Team
+# [Register Now](https://www.eventbrite.com/e/acadia-2025-conference-tickets-1559581102059?aff=oddtdtcreator)
+
+**Workshop Registration is now open! Click the link above to secure your spot.**
+
+## Workshop Team  
+---
 
 ### Matias del Campo
 **Affiliation**: Associate Professor, New York Institute of Technology  

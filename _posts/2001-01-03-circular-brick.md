@@ -12,9 +12,15 @@ thumbnail: assets/images/workshops/acadia25-workshop_biomaterial.jpg
 
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-# Registration Opening Soon
+# CIRCULAR BRICK: Performative Design for Robotic 3D-Printed Brick using Biomaterials
+
+# [Register Now](https://www.eventbrite.com/e/acadia-2025-conference-tickets-1559581102059?aff=oddtdtcreator)
+
+**Workshop Registration is now open! Click the link above to secure your spot.**
 
 ## Workshop Team
+---
+
 **Dinorah Martínez Schulte**, MANUFACTURA + University of Florida  
 **Alex Schofield**, Co-workshop Leader, California College of the Arts (CCA)  
 **Teri Watson**, Co-workshop Leader, FIU Robotics and Digital Fabrication (RDF) Lab

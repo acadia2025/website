@@ -12,9 +12,15 @@ thumbnail: assets/images/workshops/ACADIA_25_METAHUMAN.png
 
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-# Registration Opening Soon
+# MetaHuman Creator: AI-Powered Digital Avatars for Virtual Environments
+
+# [Register Now](https://www.eventbrite.com/e/acadia-2025-conference-tickets-1559581102059?aff=oddtdtcreator)
+
+**Workshop Registration is now open! Click the link above to secure your spot.**
 
 ## Workshop Team
+---
+
 **Rodolphe el-Khoury**, Dean, University of Miami School of Architecture  
 **Indrit Alushani**, Manager, RAD-LAb, University of Miami School of Architecture
 

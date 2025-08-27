@@ -12,9 +12,14 @@ thumbnail: assets/images/workshops/acadia25-workshop_neurodesign.jpg
 
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-# Registration Opening Soon
+# Neuroscience for Architecture: Agent-Based Modeling for Spatial Cognition
 
-## Workshop Team
+# [Register Now](https://www.eventbrite.com/e/acadia-2025-conference-tickets-1559581102059?aff=oddtdtcreator)
+
+**Workshop Registration is now open! Click the link above to secure your spot.**
+
+## Workshop Team  
+---
 **Dr. Kristine Mun**, Board of Directors, ANFA Academy of Neuroscience for Architecture  
 **Arkar Hein**, Neuroscience Researcher & Environmental Designer, Advisory Council, ANFA Academy of Neuroscience for Architecture
 

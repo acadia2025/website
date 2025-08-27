@@ -12,9 +12,15 @@ thumbnail: assets/images/workshops/acadia25-workshop_climaticintelligence.jpg
 
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-# Registration Opening Soon
+# Climatic Intelligence: Environmental Simulation and Adaptive Skin Design for Future Weather
+
+# [Register Now](https://www.eventbrite.com/e/acadia-2025-conference-tickets-1559581102059?aff=oddtdtcreator)
+
+**Workshop Registration is now open! Click the link above to secure your spot.**
 
 ## Workshop Team
+---
+
 **Mohammad Mahdi Mohammadi**  
 PhD Researcher in Architecture and Building Performance Simulation at Poznan University of Technology  
 Collaborator with Empa (Swiss Federal Laboratories for Materials Science and Technology) and AIT (Austrian Institute on Technology)

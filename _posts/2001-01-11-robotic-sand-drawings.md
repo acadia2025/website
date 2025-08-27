@@ -12,9 +12,15 @@ thumbnail: assets/images/workshops/acadia25-workshop_roboticsand.png
 
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-# Registration Opening Soon
+# Robotic Sand Drawings on Miami Beach
+
+# [Register Now](https://www.eventbrite.com/e/acadia-2025-conference-tickets-1559581102059?aff=oddtdtcreator)
+
+**Workshop Registration is now open! Click the link above to secure your spot.**
 
 ## Workshop Team
+---
+
 **Dr. Madeline Gannon** - Multidisciplinary Designer and Inventor  
 Also known as "The Robot Whisperer"
 
