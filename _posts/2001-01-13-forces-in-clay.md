@@ -24,13 +24,6 @@ thumbnail: assets/images/workshops/acadia25-workshop_forcesinclay.png
 **Ali Tabatabaie Ghomi**, Computational Designer at HKS | LINE, LEED Green Associate  
 **Yoana Taseva**, Senior Computational Designer at HKS | LINE
 
-## Instructor Bios
-
-### Ali Tabatabaie Ghomi
-Ali is a Computational Designer at HKS LINE with focus on computational geometry, design rationalization, digital fabrication and custom tool development. He's experienced in both AEC industry and academia and is actively working on bridging the two worlds. Prior, Ali was the lead computational designer at CetraRuddy Architecture and a researcher at Polyhedral Structures Laboratory at University of Pennsylvania as well as Advanced Building Construction Laboratory at City College of New York. His research is focused on design methodologies using 3d graphic statics and fabrication of complex spatial structures.
-
-### Yoana Taseva
-Yoana is a Senior Computational Designer at HKS LINE with a specialization in large scale 3D-printed construction. Her work bridges design and delivery, focusing on geometry-driven workflows, robotic fabrication, and emergent construction methods that bring innovative forms into the built world. Prior to LINE, Yoana was a Senior Design Technologist at ICON, a construction technologies company, which employs 3D-printing robotics, software and advanced materials to shift the paradigm of homebuilding. While there, Yoana co-developed ICON's concrete wall system, authored algorithmic rulesets for printed wall geometry, and prototyped novel printed features. Prior, Yoana was a Resident Fabricator at the Autodesk Technology Center, Boston and a Scientific Researcher at Digital Building Technologies, Zurich. Yoana holds a Bachelor of Architecture from Cornell University, and a Master of Advanced Studies ETH in Architecture and Digital Fabrication from the Swiss Federal Institute of Technology, Zurich (ETH Zurich).
 
 ## Workshop Description
 
@@ -71,12 +64,20 @@ In this workshop participants will be introduced to the principals of 3d Graphic
 - UR10 Robot + Wasp End effector
 
 ### Detailed List of Materials
-- ~50lbs of clay for 3d printing. Could be reused clay if material already exists in the lab, otherwise HKS can cover the cost for new clay.
+- Clay for 3D printing
 
 ### Needed Software
 - Rhino3d 8
 - Polyframe 2: https://www.food4rhino.com/en/app/polyframe-2
 - Basic knowledge of Grasshopper and parametric modeling is required.
+
+## Instructor Bios
+
+### Ali Tabatabaie Ghomi
+Ali is a Computational Designer at HKS LINE with focus on computational geometry, design rationalization, digital fabrication and custom tool development. He's experienced in both AEC industry and academia and is actively working on bridging the two worlds. Prior, Ali was the lead computational designer at CetraRuddy Architecture and a researcher at Polyhedral Structures Laboratory at University of Pennsylvania as well as Advanced Building Construction Laboratory at City College of New York. His research is focused on design methodologies using 3d graphic statics and fabrication of complex spatial structures.
+
+### Yoana Taseva
+Yoana is a Senior Computational Designer at HKS LINE with a specialization in large scale 3D-printed construction. Her work bridges design and delivery, focusing on geometry-driven workflows, robotic fabrication, and emergent construction methods that bring innovative forms into the built world. Prior to LINE, Yoana was a Senior Design Technologist at ICON, a construction technologies company, which employs 3D-printing robotics, software and advanced materials to shift the paradigm of homebuilding. While there, Yoana co-developed ICON's concrete wall system, authored algorithmic rulesets for printed wall geometry, and prototyped novel printed features. Prior, Yoana was a Resident Fabricator at the Autodesk Technology Center, Boston and a Scientific Researcher at Digital Building Technologies, Zurich. Yoana holds a Bachelor of Architecture from Cornell University, and a Master of Advanced Studies ETH in Architecture and Digital Fabrication from the Swiss Federal Institute of Technology, Zurich (ETH Zurich).
 
 ## Workshop Gallery
 
