@@ -21,15 +21,15 @@ thumbnail: assets/images/workshops/acadia25-workshop_adaptiveassembly.png
 ## Workshop Team
 ---
 
-**Jon Penvose** - University of Pennsylvania Weitzman School of Design, MSD Robotics and Autonomous Systems (MSD-RAS)  
-**Qian Gu** - Robotics Architect / Engineer | PATTERNS Designer
+**Jon Penvose** - OKIE5 (Co-Founder) & University of Pennsylvania, MSD Robotics and Autonomous Systems (MSD-RAS)  
+**Qian Gu** - OKIE5 (Co-Founder) Robotics Engineer & University of Pennsylvania, MSD Robotics and Autonomous Systems (MSD-RAS)
 
 ## Workshop Description
 In response to Miami's escalating vulnerability to climate-induced disasters, this workshop explores how real-time robotic sensing and AI-assisted planning can transform found materials (i.e., rubble, debris, and displaced objects) alongside pre-designed aggregates into protective infrastructure. Using NVIDIA Isaac Sim, participants will simulate the stacking and assembly of these elements into barricades, infill systems, and resilient barriers.
 
 Equipped with computer vision and stereo depth sensing, the robotic system catalogs its surroundings and makes physically informed decisions about placement, fit, and structural stability. By combining site-discovered fragments with purpose-made components that guide assembly and distribute force, the workshop proposes a flexible, deployable strategy for both post-disaster conditions and proactive planning in high-risk areas.
 
-Participants will configure and control a virtual robotic arm fitted with a ZED2 stereo depth camera to detect, classify, and simulate the autonomous assembly of materials. By learning to use Isaac Sim's physics engine and sensor emulation, attendees will prototype AI-augmented workflows for adapting to unstructured environments using automation, robotics, and computational design.
+Participants will configure and control a virtual robotic arm fitted with a RealSense stereo depth camera to detect, classify, and simulate the autonomous assembly of materials. By learning to use Isaac Sim's physics engine and sensor emulation, attendees will prototype AI-augmented workflows for adapting to unstructured environments using automation, robotics, and computational design.
 
 ## Key Learning Outcomes
 - **Gain practical experience using Isaac Sim** to simulate robotic manipulation tasks
@@ -37,7 +37,7 @@ Participants will configure and control a virtual robotic arm fitted with a ZED2
 - **Simulate grasping and sorting tasks** based on sensor input and rule-based logic
 - **Develop foundational skills in robotics for architecture** using digital twins and AI-powered workflows
 - **Build a functioning Isaac Sim environment** with a robot arm and object set
-- **Configure a simulated ZED2 camera** and interpret point cloud or depth-based data
+- **Configure a simulated RealSense camera** and interpret point cloud or depth-based data
 
 ## Workshop Schedule
 **Number of days**: 2  
@@ -53,8 +53,8 @@ Participants will configure and control a virtual robotic arm fitted with a ZED2
 - Use Isaac's asset libraries vs. importing your own .USD/.FBX/.STL scanned assets
 
 #### Session 2: Sensors and Scene Scanning (3 hrs)
-- Introduction to the ZED2 stereo depth camera
-- Add and calibrate a ZED2 sensor in simulation
+- Introduction to the RealSense stereo depth camera
+- Add and calibrate a RealSense sensor in simulation
 - Capture and visualize depth data and RGB imagery
 - Explore depth maps, segmentation, and point cloud exports
 - Begin integrating imported scanned objects (debris, architectural fragments)
@@ -78,16 +78,16 @@ Participants will configure and control a virtual robotic arm fitted with a ZED2
 
 ## Computer Requirements
 - **NVIDIA RTX-30 or 40 Series GPU**
+- **32-64 GB RAM**
 - Isaac Sim (latest version)
 - Visual Studio Code (Python script editing)
-- Docker Desktop
 - Git & Conda
 
 ## Materials Provided
 **We Will Provide**:
 - Pre-scanned modular object files (.USD or .FBX)
 - Robot arm model (from Isaac Sim library)
-- Virtual ZED2 - Virtual Depth Sensing Camera
+- Virtual RealSense - Virtual Depth Sensing Camera
 
 ## Prerequisites
 - Basic understanding of robotics and simulation concepts

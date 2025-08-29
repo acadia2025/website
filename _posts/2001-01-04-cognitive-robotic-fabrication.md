@@ -23,7 +23,8 @@ thumbnail: assets/images/workshops/acadia25-workshop_cognitiverobotics.jpg
 
 **Johannes Braumann**, Creative Robotics, Association for Robots in Architecture  
 **Karl Singline**, Creative Robotics  
-**Emanuel Gollob**, Creative Robotics
+**Emanuel Gollob**, Creative Robotics  
+**[MAiRA](https://neura-robotics.com/products/maira/)**, cognitive robot
 
 ## Workshop Description
 In this workshop, we will collaboratively prototype complex cognitive robotic systems that respond to real-time sensor input. Drawing from multiple data sources, participants will develop integrated workflows that directly inform physical fabrication processes.
