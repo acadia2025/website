@@ -6,7 +6,7 @@ caption: Forces in Clay Workshop
 permalink: /forces-in-clay
 project: true
 category: site-workshop
-thumbnail: assets/images/workshops/acadia25-workshop_forcesinclay.jpg
+thumbnail: assets/images/workshops/acadia25-workshop_forcesinclay.png
 
 ---
 
