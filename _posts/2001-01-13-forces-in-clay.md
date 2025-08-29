@@ -57,15 +57,6 @@ In this workshop participants will be introduced to the principals of 3d Graphic
 ### Day 3 (8-hours): Fabrication Day
 - 3D Printing and troubleshooting of the final designs.
 
-## Logistics & Requirements
-
-### List of Equipment and Tools
-- Potterbot
-- UR10 Robot + Wasp End effector
-
-### Detailed List of Materials
-- Clay for 3D printing
-
 ### Needed Software
 - Rhino3d 8
 - Polyframe 2: https://www.food4rhino.com/en/app/polyframe-2
