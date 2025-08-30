@@ -18,6 +18,8 @@ thumbnail: assets/images/workshops/ACADIA_25_METAHUMAN.png
 
 **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**
 
+### Location : UM
+
 ## Workshop Team
 ---
 
