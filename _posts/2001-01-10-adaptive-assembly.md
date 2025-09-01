@@ -18,8 +18,6 @@ thumbnail: assets/images/workshops/acadia25-workshop_adaptiveassembly.png
 
 **Workshop Registration opens September 8th, 2025! Click the link above to be notified when registration becomes available.**
 
-### Location : Online
-
 ## Workshop Team
 ---
 

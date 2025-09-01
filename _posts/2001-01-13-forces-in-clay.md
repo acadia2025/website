@@ -18,8 +18,6 @@ thumbnail: assets/images/workshops/acadia25-workshop_forcesinclay.png
 
 **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**
 
-### Location : FIU
-
 ## Workshop Team
 ---
 

@@ -18,8 +18,6 @@ thumbnail: assets/images/workshops/acadia25-workshop_neurodesign.jpg
 
 **Workshop Registration opens September 8th, 2025! Click the link above to be notified when registration becomes available.**
 
-### Location : Online
-
 ## Workshop Team  
 ---
 **Dr. Kristine Mun**, Board of Directors, ANFA Academy of Neuroscience for Architecture  

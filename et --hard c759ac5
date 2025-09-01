@@ -1,0 +1,158 @@
+[33mc759ac5[m location
+[1mdiff --git a/_posts/2001-01-02-print-scan-adapt.md b/_posts/2001-01-02-print-scan-adapt.md[m
+[1mindex 950325b..ee98b08 100644[m
+[1m--- a/_posts/2001-01-02-print-scan-adapt.md[m
+[1m+++ b/_posts/2001-01-02-print-scan-adapt.md[m
+[36m@@ -18,6 +18,8 @@[m [mthumbnail: assets/images/workshops/acadia25-workshop_printscanadapt.jpg[m
+ [m
+ **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**[m
+ [m
+[32m+[m[32m### Location : FIU[m
+[32m+[m
+ ## Workshop Team[m
+ ---[m
+ [m
+[1mdiff --git a/_posts/2001-01-03-circular-brick.md b/_posts/2001-01-03-circular-brick.md[m
+[1mindex 5162c7e..005415b 100644[m
+[1m--- a/_posts/2001-01-03-circular-brick.md[m
+[1m+++ b/_posts/2001-01-03-circular-brick.md[m
+[36m@@ -17,6 +17,7 @@[m [mthumbnail: assets/images/workshops/acadia25-workshop_biomaterial.jpg[m
+ # [Registration Link](https://www.eventbrite.com/e/acadia-2025-workshops-tickets-1559581613589?aff=oddtdtcreator)[m
+ [m
+ **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**[m
+[32m+[m[32m### Location : FIU[m
+ [m
+ ## Workshop Team[m
+ ---[m
+[1mdiff --git a/_posts/2001-01-04-cognitive-robotic-fabrication.md b/_posts/2001-01-04-cognitive-robotic-fabrication.md[m
+[1mindex da7134e..0267436 100644[m
+[1m--- a/_posts/2001-01-04-cognitive-robotic-fabrication.md[m
+[1m+++ b/_posts/2001-01-04-cognitive-robotic-fabrication.md[m
+[36m@@ -18,6 +18,8 @@[m [mthumbnail: assets/images/workshops/acadia25-workshop_cognitiverobotics.jpg[m
+ [m
+ **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**[m
+ [m
+[32m+[m[32m### Location : UM[m
+[32m+[m
+ ## Workshop Team[m
+ ---[m
+ [m
+[1mdiff --git a/_posts/2001-01-05-bod2-be-wild.md b/_posts/2001-01-05-bod2-be-wild.md[m
+[1mindex 8435b30..2189eb6 100644[m
+[1m--- a/_posts/2001-01-05-bod2-be-wild.md[m
+[1m+++ b/_posts/2001-01-05-bod2-be-wild.md[m
+[36m@@ -18,6 +18,8 @@[m [mthumbnail: assets/images/workshops/acadia25-workshop_cobod.jpg[m
+ [m
+ **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**[m
+ [m
+[32m+[m[32m### Location : UM[m
+[32m+[m
+ ## Workshop Team[m
+ ---[m
+ [m
+[1mdiff --git a/_posts/2001-01-06-neuroscience-architecture.md b/_posts/2001-01-06-neuroscience-architecture.md[m
+[1mindex bc7647e..ba85c96 100644[m
+[1m--- a/_posts/2001-01-06-neuroscience-architecture.md[m
+[1m+++ b/_posts/2001-01-06-neuroscience-architecture.md[m
+[36m@@ -18,6 +18,8 @@[m [mthumbnail: assets/images/workshops/acadia25-workshop_neurodesign.jpg[m
+ [m
+ **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**[m
+ [m
+[32m+[m[32m### Location : Online[m
+[32m+[m
+ ## Workshop Team  [m
+ ---[m
+ **Dr. Kristine Mun**, Board of Directors, ANFA Academy of Neuroscience for Architecture  [m
+[1mdiff --git a/_posts/2001-01-07-climatic-intelligence.md b/_posts/2001-01-07-climatic-intelligence.md[m
+[1mindex 814fa8e..cf7d15d 100644[m
+[1m--- a/_posts/2001-01-07-climatic-intelligence.md[m
+[1m+++ b/_posts/2001-01-07-climatic-intelligence.md[m
+[36m@@ -18,6 +18,8 @@[m [mthumbnail: assets/images/workshops/acadia25-workshop_climaticintelligence.jpg[m
+ [m
+ **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**[m
+ [m
+[32m+[m[32m### Location : Online[m
+[32m+[m
+ ## Workshop Team[m
+ ---[m
+ [m
+[1mdiff --git a/_posts/2001-01-08-ai-cultural-technique.md b/_posts/2001-01-08-ai-cultural-technique.md[m
+[1mindex 2c00548..4ba256a 100644[m
+[1m--- a/_posts/2001-01-08-ai-cultural-technique.md[m
+[1m+++ b/_posts/2001-01-08-ai-cultural-technique.md[m
+[36m@@ -18,6 +18,9 @@[m [mthumbnail: assets/images/workshops/acadia25-workshop_culturalai.png[m
+ [m
+ **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**[m
+ [m
+[32m+[m
+[32m+[m[32m### Location : Online[m
+[32m+[m
+ ## Workshop Team  [m
+ ---[m
+ [m
+[1mdiff --git a/_posts/2001-01-09-timber-joinery-ai.md b/_posts/2001-01-09-timber-joinery-ai.md[m
+[1mindex 4c2144e..4e99dd0 100644[m
+[1m--- a/_posts/2001-01-09-timber-joinery-ai.md[m
+[1m+++ b/_posts/2001-01-09-timber-joinery-ai.md[m
+[36m@@ -18,6 +18,9 @@[m [mthumbnail: assets/images/workshops/acadia25-workshop_timber.jpg[m
+ [m
+ **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**[m
+ [m
+[32m+[m
+[32m+[m[32m### Location : Online[m
+[32m+[m
+ ## Workshop Team[m
+ ---[m
+ [m
+[1mdiff --git a/_posts/2001-01-10-adaptive-assembly.md b/_posts/2001-01-10-adaptive-assembly.md[m
+[1mindex abdac21..dfbfe1d 100644[m
+[1m--- a/_posts/2001-01-10-adaptive-assembly.md[m
+[1m+++ b/_posts/2001-01-10-adaptive-assembly.md[m
+[36m@@ -18,6 +18,8 @@[m [mthumbnail: assets/images/workshops/acadia25-workshop_adaptiveassembly.png[m
+ [m
+ **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**[m
+ [m
+[32m+[m[32m### Location : Online[m
+[32m+[m
+ ## Workshop Team[m
+ ---[m
+ [m
+[1mdiff --git a/_posts/2001-01-11-robotic-sand-drawings.md b/_posts/2001-01-11-robotic-sand-drawings.md[m
+[1mindex 49a6d14..7126545 100644[m
+[1m--- a/_posts/2001-01-11-robotic-sand-drawings.md[m
+[1m+++ b/_posts/2001-01-11-robotic-sand-drawings.md[m
+[36m@@ -18,6 +18,8 @@[m [mthumbnail: assets/images/workshops/acadia25-workshop_roboticsand.png[m
+ [m
+ **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**[m
+ [m
+[32m+[m[32m### Location : Miami Beach[m
+[32m+[m
+ ## Workshop Team[m
+ ---[m
+ [m
+[1mdiff --git a/_posts/2001-01-12-metahuman-creator.md b/_posts/2001-01-12-metahuman-creator.md[m
+[1mindex 1f8e752..a425e43 100644[m
+[1m--- a/_posts/2001-01-12-metahuman-creator.md[m
+[1m+++ b/_posts/2001-01-12-metahuman-creator.md[m
+[36m@@ -18,6 +18,8 @@[m [mthumbnail: assets/images/workshops/ACADIA_25_METAHUMAN.png[m
+ [m
+ **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**[m
+ [m
+[32m+[m[32m### Location : UM[m
+[32m+[m
+ ## Workshop Team[m
+ ---[m
+ [m
+[1mdiff --git a/_posts/2001-01-13-forces-in-clay.md b/_posts/2001-01-13-forces-in-clay.md[m
+[1mindex f22e155..d769181 100644[m
+[1m--- a/_posts/2001-01-13-forces-in-clay.md[m
+[1m+++ b/_posts/2001-01-13-forces-in-clay.md[m
+[36m@@ -18,6 +18,8 @@[m [mthumbnail: assets/images/workshops/acadia25-workshop_forcesinclay.png[m
+ [m
+ **Workshop Registration opens September 1st, 2025! Click the link above to be notified when registration becomes available.**[m
+ [m
+[32m+[m[32m### Location : FIU[m
+[32m+[m
+ ## Workshop Team[m
+ ---[m
+ [m
