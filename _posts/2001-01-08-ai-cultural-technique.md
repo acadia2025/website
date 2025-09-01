@@ -24,6 +24,7 @@ thumbnail: assets/images/workshops/acadia25-workshop_culturalai.png
 ## Workshop Team
 
 ### Matias del Campo
+
 **Affiliation**: Associate Professor, New York Institute of Technology  
 **Bio**: Architect, theorist, and researcher, Matias del Campo explores AI-driven generative design and the intersection of architecture, computation, and cognition. His work examines the role of artificial intelligence as an epistemic shift in design thinking and authorship.  
 **Teaching Examples**: Courses and lectures on AI and architecture at leading institutions.

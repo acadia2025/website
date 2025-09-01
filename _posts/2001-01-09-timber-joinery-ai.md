@@ -83,7 +83,7 @@ To ensure everyone can hit the ground running, the following familiarity is pref
 
 Participants without prior experience in any of these areas will still be able to follow along and learn through guided instruction.
 
-## Workshop Schedule
+## Workshop Schedule 
 **Workshop Duration**: 2 Days  
 **Workshop Attendees**: 15–25 participants
 
