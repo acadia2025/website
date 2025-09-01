@@ -89,7 +89,7 @@ Participants without prior experience in any of these areas will still be able t
 
 ### Day 1: Foundations and Basic Joint Generation
 
-| Time (CET) | Session | Details |
+| Time  | Session | Details |
 |------|---------|---------|
 | 09:00 – 09:30 | Welcome, Introductions, Overview | Overview of the prompt → C# → Grasshopper workflow |
 | 09:30 – 11:00 | Prompt Engineering Fundamentals | Crafting clear prompts for timber joinery; defining inputs, outputs, success criteria |
@@ -102,7 +102,7 @@ Participants without prior experience in any of these areas will still be able t
 
 ### Day 2: Refinement and Structural Integration
 
-| Time (CET) | Session | Details |
+| Time | Session | Details |
 |------|---------|---------|
 | 09:00 – 09:15 | Recap & Q&A | Review of Day 1 |
 | 09:15 – 10:45 | Refining Generated Code | Adding UI inputs, defaults, validation; iterative testing |
