@@ -4,7 +4,10 @@
 
 @import "light";
 @import "base";
-@import "dark";
+
+@media (prefers-color-scheme: dark) {
+	@import "dark";
+}
 
 $font-family_1: 'helvetica', monospace;
 $background-color_1: white;

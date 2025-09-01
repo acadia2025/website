@@ -21,6 +21,7 @@ thumbnail: assets/images/workshops/ACADIA_25_METAHUMAN.png
 ### Location : UM
 
 ## Workshop Team
+---
 
 **Rodolphe el-Khoury**, Dean, University of Miami School of Architecture  
 **Indrit Alushani**, Manager, RAD-LAb, University of Miami School of Architecture

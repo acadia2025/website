@@ -21,6 +21,7 @@ thumbnail: assets/images/workshops/acadia25-workshop_roboticsand.png
 ### Location : Miami Beach
 
 ## Workshop Team
+---
 
 **Dr. Madeline Gannon** - Multidisciplinary Designer and Inventor  
 Also known as "The Robot Whisperer"

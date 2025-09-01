@@ -21,6 +21,7 @@ thumbnail: assets/images/workshops/acadia25-workshop_biomaterial.jpg
 ### Location : FIU
 
 ## Workshop Team
+---
 
 **Dinorah Martínez Schulte**, MANUFACTURA + University of Florida  
 **Alex Schofield**, Co-workshop Leader, California College of the Arts (CCA)  

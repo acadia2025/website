@@ -20,7 +20,8 @@ thumbnail: assets/images/workshops/acadia25-workshop_neurodesign.jpg
 
 ### Location : Online
 
-## Workshop Team
+## Workshop Team  
+---
 **Dr. Kristine Mun**, Board of Directors, ANFA Academy of Neuroscience for Architecture  
 **Arkar Hein**, Neuroscience Researcher & Environmental Designer, Advisory Council, ANFA Academy of Neuroscience for Architecture
 

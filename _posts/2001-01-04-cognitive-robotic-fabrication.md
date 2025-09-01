@@ -21,6 +21,7 @@ thumbnail: assets/images/workshops/acadia25-workshop_cognitiverobotics.jpg
 ### Location : UM
 
 ## Workshop Team
+---
 
 **Johannes Braumann**, Creative Robotics, Association for Robots in Architecture  
 **Karl Singline**, Creative Robotics  

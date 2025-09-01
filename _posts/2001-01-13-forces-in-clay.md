@@ -21,6 +21,7 @@ thumbnail: assets/images/workshops/acadia25-workshop_forcesinclay.png
 ### Location : FIU
 
 ## Workshop Team
+---
 
 **Ali Tabatabaie Ghomi**, Computational Designer at HKS | LINE, LEED Green Associate  
 **Yoana Taseva**, Senior Computational Designer at HKS | LINE
