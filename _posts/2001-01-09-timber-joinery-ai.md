@@ -84,47 +84,34 @@ To ensure everyone can hit the ground running, the following familiarity is pref
 Participants without prior experience in any of these areas will still be able to follow along and learn through guided instruction.
 
 ## Workshop Schedule
-**Workshop Duration**: 3 Days  
+**Workshop Duration**: 2 Days  
 **Workshop Attendees**: 15–25 participants
 
 ### Day 1: Foundations and Basic Joint Generation
 
-| Time | Session | Details |
+| Time (CET) | Session | Details |
 |------|---------|---------|
 | 09:00 – 09:30 | Welcome, Introductions, Overview | Overview of the prompt → C# → Grasshopper workflow |
-| 09:30 – 11:00 | Prompt Engineering Fundamentals | Crafting clear prompts for timber joinery systems; Defining inputs, outputs, and success criteria |
+| 09:30 – 11:00 | Prompt Engineering Fundamentals | Crafting clear prompts for timber joinery; defining inputs, outputs, success criteria |
 | 11:00 – 11:15 | Break | — |
-| 11:15 – 12:45 | ChatGPT for C# Code Generation | Configuring prompts; Generating a basic joint component template |
+| 11:15 – 12:45 | ChatGPT for C# Code Generation | Configuring prompts; generating a joint component template |
 | 12:45 – 13:45 | Lunch | — |
-| 13:45 – 15:15 | Mapping Prompts to Grasshopper C# Templates | Anatomy of a Grasshopper C# component; Reusable scaffolds for joint types |
+| 13:45 – 15:15 | Mapping Prompts to Grasshopper C# | Anatomy of a GH C# component; reusable scaffolds for joint types |
 | 15:15 – 15:30 | Break | — |
-| 15:30 – 17:00 | Hands-On: Generate & Test Basic Joint | Live demo; Importing, debugging, and running in Grasshopper |
+| 15:30 – 17:00 | Hands-On Lab: Generate & Test Joints | Live demo; importing, debugging, running in Grasshopper |
 
 ### Day 2: Refinement and Structural Integration
 
-| Time | Session | Details |
+| Time (CET) | Session | Details |
 |------|---------|---------|
 | 09:00 – 09:15 | Recap & Q&A | Review of Day 1 |
-| 09:15 – 10:45 | Refining Generated Code | Adding UI inputs, defaults, validation; Iterative testing |
+| 09:15 – 10:45 | Refining Generated Code | Adding UI inputs, defaults, validation; iterative testing |
 | 10:45 – 11:00 | Break | — |
-| 11:00 – 12:30 | Developing a Joint System | Designing a family of joints; Unified prompt framework |
+| 11:00 – 12:30 | Developing a Joint System | Designing a family of joints; unified prompt framework |
 | 12:30 – 13:30 | Lunch | — |
-| 13:30 – 15:00 | Implementing on a Structural Model | Frame/grid setup in Grasshopper; Integrating joint components |
+| 13:30 – 15:00 | Structural Model Integration | Frame/grid setup in Grasshopper; integrating joint components |
 | 15:00 – 15:15 | Break | — |
-| 15:15 – 17:00 | Hands-On Lab: Build & Populate a Frame | Generate C# for chosen joint family; Apply components in Grasshopper |
-
-### Day 3: Advanced Projects and Automation
-
-| Time | Session | Details |
-|------|---------|---------|
-| 09:00 – 09:15 | Recap & Goals | Summary of Days 1–2 and project goals |
-| 09:15 – 10:45 | Breakout Project Part I: Joint System Design | Team planning; Custom joint prompts; Initial C# script generation |
-| 10:45 – 11:00 | Break | — |
-| 11:00 – 12:30 | Breakout Project Part II: Structural Implementation | Test joint scripts on a structural model; Debug and refine |
-| 12:30 – 13:30 | Lunch | — |
-| 13:30 – 15:00 | Extension Module: Workflow Automation & Scaling | Automating prompt→code loops; Version control and library management |
-| 15:00 – 15:15 | Break | — |
-| 15:15 – 17:00 | Showcase & Critique | Team presentations; Feedback, lessons learned, and future directions |
+| 15:15 – 17:00 | Hands-On Project & Showcase | Build & populate a frame with chosen joints; final group demo & feedback |
 
 ## About the Instructor
 **Amin Adelzadeh** is a researcher and educator and currently a doctoral fellow at CITA – the Royal Danish Academy in Copenhagen, Denmark, as part of the EIC Pathfinder research project. He specializes in digital technologies for circular timber construction, with a strong focus on developing non-destructive assessment and optimization methods for the adaptive fabrication of resource-driven timber assemblies.
