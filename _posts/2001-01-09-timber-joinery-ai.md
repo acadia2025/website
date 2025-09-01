@@ -22,7 +22,6 @@ thumbnail: assets/images/workshops/acadia25-workshop_timber.jpg
 ### Location : Online
 
 ## Workshop Team
----
 
 **Instructor**: **Amin Adelzadeh**  
 Doctoral Fellow, CITA - Royal Danish Academy, Denmark
