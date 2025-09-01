@@ -21,8 +21,7 @@ thumbnail: assets/images/workshops/acadia25-workshop_culturalai.png
 
 ### Location : Online
 
-## Workshop Team  
----
+## Workshop Team
 
 ### Matias del Campo
 **Affiliation**: Associate Professor, New York Institute of Technology  

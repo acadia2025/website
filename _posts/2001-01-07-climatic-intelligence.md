@@ -21,7 +21,6 @@ thumbnail: assets/images/workshops/acadia25-workshop_climaticintelligence.jpg
 ### Location : Online
 
 ## Workshop Team
----
 
 **Mohammad Mahdi Mohammadi**  
 PhD Researcher in Architecture and Building Performance Simulation at Poznan University of Technology  

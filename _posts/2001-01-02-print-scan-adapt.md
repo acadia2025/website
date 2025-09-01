@@ -21,7 +21,6 @@ thumbnail: assets/images/workshops/acadia25-workshop_printscanadapt.jpg
 ### Location : FIU
 
 ## Workshop Team
----
 
 **Aldo Sollazzo**, LAMÁQUINA  
 **Hritik Thumar**, LAMÁQUINA

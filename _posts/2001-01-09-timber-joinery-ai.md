@@ -34,7 +34,7 @@ CITA - Royal Danish Academy, Denmark
 *The workshop will conclude with a session where participants' outcomes may be reviewed by CITA faculty critics, offering expert feedback and recommendations, subject to their availability.*
 
 ## Workshop Description
-This intensive three-day online workshop introduces participants to the future of timber design workflows, where conversational AI acts as a collaborator in crafting complex joinery systems. By exploring a fully automated design-to-fabrication pipeline, attendees will learn how to translate natural-language prompts into production-ready C# code, directly executable within Rhino's Grasshopper environment.
+This intensive two-day online workshop introduces participants to the future of timber design workflows, where conversational AI acts as a collaborator in crafting complex joinery systems. By exploring a fully automated design-to-fabrication pipeline, attendees will learn how to translate natural-language prompts into production-ready C# code, directly executable within Rhino's Grasshopper environment.
 
 The focus is on generating comprehensive digital outputs—custom parametric components, joint typologies, and fabrication-ready datasets—establishing a seamless prompt-to-code and code-to-geometry workflow. Participants will leave with a library of diverse joinery solutions and tools for integrating AI-driven design into their own timber projects.
 
@@ -89,7 +89,7 @@ Participants without prior experience in any of these areas will still be able t
 
 ### Day 1: Foundations and Basic Joint Generation
 
-| Time  | Session | Details |
+| Time | Session | Details |
 |------|---------|---------|
 | 09:00 – 09:30 | Welcome, Introductions, Overview | Overview of the prompt → C# → Grasshopper workflow |
 | 09:30 – 11:00 | Prompt Engineering Fundamentals | Crafting clear prompts for timber joinery; defining inputs, outputs, success criteria |

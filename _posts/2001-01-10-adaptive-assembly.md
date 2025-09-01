@@ -21,7 +21,6 @@ thumbnail: assets/images/workshops/acadia25-workshop_adaptiveassembly.png
 ### Location : Online
 
 ## Workshop Team
----
 
 **Jon Penvose** - OKIE5 (Co-Founder) & University of Pennsylvania, MSD Robotics and Autonomous Systems (MSD-RAS)  
 **Qian Gu** - OKIE5 (Co-Founder) Robotics Engineer & University of Pennsylvania, MSD Robotics and Autonomous Systems (MSD-RAS)
