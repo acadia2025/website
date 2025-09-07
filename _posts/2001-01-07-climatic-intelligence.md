@@ -6,7 +6,7 @@ caption: Climatic Intelligence Workshop
 permalink: /climatic-intelligence
 project: true
 category: online-workshop
-thumbnail: assets/images/workshops/acadia25-workshop_climaticintelligence.jpg
+thumbnail: assets/images/workshops/acadia25-workshop_env.png
 
 ---
 

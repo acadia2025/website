@@ -27,6 +27,6 @@ thumbnail: assets/images/workshops/ACADIA_25_METAHUMAN.png
 **Indrit Alushani**, Manager, RAD-LAb, University of Miami School of Architecture
 
 ## Workshop Description
-This workshop introduces participants to the use of Epic Games’ MetaHuman Creator and advanced AI tools in developing highly realistic digital avatars. Participants will explore how MetaHumans can act as human-like companions in virtual environments, guiding users through spatial experiences.
+This one day workshop introduces participants to the use of Epic Games’ MetaHuman Creator and advanced AI tools in developing highly realistic digital avatars. Participants will explore how MetaHumans can act as human-like companions in virtual environments, guiding users through spatial experiences.
 
 
