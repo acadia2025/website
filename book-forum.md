@@ -10,10 +10,10 @@ permalink: /book-forum
 ---
 
 **Event date:** November 6, 2025  
-**Submission Due Deadline:** September 16, 2025  
-**Notification of Decisions:** September 22, 2025
+**Submission Due Deadline:** September 23, 2025 (11:59  EST)
+**Notification of Decisions:** September 26, 2025
 
-We invite authors of books published between 2022 and 2025 to take part in the ACADIA Book Forum: PechaKucha Spotlights. This curated program showcases recent contributions across computational design, digital fabrication, robotics, spatial computing, and other applied fields advancing emerging technologies in the built environment.
+We invite authors of books published between 2020 and 2025 to take part in the ACADIA Book Forum: PechaKucha Spotlights. This curated program showcases recent contributions across computational design, digital fabrication, robotics, spatial computing, and other applied fields advancing emerging technologies in the built environment.
 
 Selected authors will deliver a PechaKucha‑style 5‑minute presentation introducing their book's key themes, contributions, and impact. Selected books will also be featured in our collective exhibit space, and the book abstract will be included in the post‑conference proceedings.
 
