@@ -14,10 +14,10 @@ permalink: /registration/
 
 Includes ACADIA 2026 membership, full access to all conference events, the Gala Dinner, and conference swag.
 
-- **Early Full Conference:** $755.00 (ends Sept 26)
-- **Early Student Full Conference:** $355.00 (ends Sept 26)
-- **Regular Full Conference:** $825.00 (Sept 27–Oct 31)
-- **Student Full Conference:** $410.00 (Sept 27–Oct 31)
+- **Early Full Conference:** $755.00 (ends Oct 3)
+- **Early Student Full Conference:** $355.00 (ends Oct 3)
+- **Regular Full Conference:** $825.00 (Oct 4–Oct 31)
+- **Student Full Conference:** $410.00 (Oct 4–Oct 31)
 - **Late Full Conference:** (Nov 1–Nov 8)
 - **Late Student Full Conference:** (Nov 1–Nov 8)
 
