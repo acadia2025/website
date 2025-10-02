@@ -46,7 +46,13 @@ The academic hosts for ACADIA 2025 are **Florida International University** and 
 
 ## Doral  
 - **[DoubleTree by Hilton Miami Airport & Convention Center](https://www.hilton.com/en/hotels/miamadt-doubletree-miami-airport-and-convention-center/)**  
-  711 NW 72nd Ave, Miami, FL 33126  
+  711 NW 72nd Ave, Miami, FL 33126
+
+- **[Aloft Miami Doral](https://urldefense.com/v3/__https://www.marriott.com/event-reservations/reservation-link.mi?id=1759329848502&key=GRP&app=resvlink__;!!FjuHKAHQs5udqho!IN0YNGiBO0dXj8W9aMbDpDVv_r7gHTbjQK-Y7dZw8BsyhXdw5d8vJ10ZoJBpummpBXfmCi-MgOMZ5seyY_E$)** (discounted price valid till Oct.17)  
+  [Book Your Stay at Aloft Doral](https://urldefense.com/v3/__https://www.marriott.com/event-reservations/reservation-link.mi?id=1759329848502&key=GRP&app=resvlink__;!!FjuHKAHQs5udqho!IN0YNGiBO0dXj8W9aMbDpDVv_r7gHTbjQK-Y7dZw8BsyhXdw5d8vJ10ZoJBpummpBXfmCi-MgOMZ5seyY_E$)
+
+- **[Provident Doral at The Blue Miami](https://urldefense.com/v3/__https:/be.synxis.com/?adult=1&arrive=2025-11-03&chain=10494&child=0&currency=USD&depart=2025-11-09&group=GRPFSA&hotel=62100&level=hotel&locale=en-US&productcurrency=USD&rooms=1__;!!FjuHKAHQs5udqho!KVPUE209IOCudKB4n3BxWfMv5EA9bckLUnuzZXAXhb_UPwC_fhu3r_2svrkTBslza2TjrTSRe1D4cgHhVDBQjZhK$)** (valid until Oct. 20)  
+  [Book Your Stay at Provident Doral](https://urldefense.com/v3/__https:/be.synxis.com/?adult=1&arrive=2025-11-03&chain=10494&child=0&currency=USD&depart=2025-11-09&group=GRPFSA&hotel=62100&level=hotel&locale=en-US&productcurrency=USD&rooms=1__;!!FjuHKAHQs5udqho!KVPUE209IOCudKB4n3BxWfMv5EA9bckLUnuzZXAXhb_UPwC_fhu3r_2svrkTBslza2TjrTSRe1D4cgHhVDBQjZhK$)  
 
 ---
 

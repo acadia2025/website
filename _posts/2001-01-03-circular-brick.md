@@ -26,6 +26,8 @@ thumbnail: assets/images/workshops/acadia25-workshop_biomaterial.jpg
 **Alex Schofield**, Co-workshop Leader, California College of the Arts (CCA)  
 **Teri Watson**, Co-workshop Leader, FIU Robotics and Digital Fabrication (RDF) Lab
 
+Thank you to [Mujeres De Islas](https://www.mujeresdeislas.org/) for material processing and donation. 
+
 ## Workshop Description
 We tend to think of ceramics as an environmentally friendly industry, the reason to make it a popular hobby for many of us. But, is this claim real? Robert Harrison in his book Sustainable Ceramics mentions: "Ceramics with all its necessities for manufacturing, materials, firing, fuels and workspace is certainly not a clean/green environment." Gas emissions, waste management, transportation and energy consumption are just a few of the characteristics that turn this process into one that negatively impacts our environment.
 
@@ -40,7 +42,7 @@ While sargassum floating at sea supports biodiversity, its arrival on shore has 
 
 The dual identity of sargassum, as both a vital marine habitat and a human hazard, illustrates the complex ecological disruptions of climate change. What was once a natural inhabitant of ocean ecosystems has become, through human-driven environmental shifts, a recurring crisis along the shores reaching the Florida coastline.
 
-This workshop seeks to transform our preconceptions of this material not as a nuisance or waste, but as an opportunity for manufacture. Sargassum, in combination with ceramic compositions, can instead open up a new possibility to create our living in an environmentally responsible way. Application through this process is based on 3D printing with a KUKA KR-150 robotic arm and an extruder, which allows us to shape blocks with different geometries and project them into different architectural applications.
+This workshop seeks to transform our preconceptions of this material not as a nuisance or waste, but as an opportunity for manufacture. Sargassum, in combination with ceramic compositions, can instead open up a new possibility to create our living in an environmentally responsible way. Application through this process is based on 3D printing with a KUKA KR-150 robotic arm and an extruder, which allows us to shape blocks with different geometries and project them into different architectural applications. Sargassum material has been pre-processed, by drying and pulverizing, and provided through donation by Mujeres De Islas.
 
 ## Workshop Process
 The workshop will begin with an introductory talk, followed by hands-on sessions focused on material preparation and the 3D printing of a scaled prototype brick, designed using Rhino Vault software. Participants will also engage in an introductory exercise on computational design methods to generate the desired forms. The workshop will conclude with an open discussion on findings, insights, and perspectives.
@@ -90,6 +92,7 @@ In CIRCULAR BRICK: Robotic 3D-Printed Bricks Using Biomaterials, participants wi
 
 ## Required Software and Level
 - **Software**: Rhinoceros 3D and Grasshopper
+*Those without software knowledge may still sign up for sargassum biomaterial and fabrication experience. Please reach out to 2025@acadia.org for further questions.
 - **Material**: Eggshell donation, limestone and water
 - **Fabrication Methods**: Robotic Arm with clay extruder
 
