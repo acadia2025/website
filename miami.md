@@ -16,19 +16,32 @@ The academic hosts for ACADIA 2025 are **Florida International University** and 
 
 # Suggested Accommodations  
 
-## Special Conference Rate
+## Special Conference Rates for ACADIA 2025 Attendees:
 
-**These hotels have special discounted rates for ACADIA 2025 attendees:**
 
-- **[Aloft Miami Doral](https://urldefense.com/v3/__https://www.marriott.com/event-reservations/reservation-link.mi?id=1759329848502&key=GRP&app=resvlink__;!!FjuHKAHQs5udqho!IN0YNGiBO0dXj8W9aMbDpDVv_r7gHTbjQK-Y7dZw8BsyhXdw5d8vJ10ZoJBpummpBXfmCi-MgOMZ5seyY_E$)** (discounted price valid till Oct.17)  
-
-- **[Provident Doral at The Blue Miami](https://urldefense.com/v3/__https:/be.synxis.com/?adult=1&arrive=2025-11-03&chain=10494&child=0&currency=USD&depart=2025-11-09&group=GRPFSA&hotel=62100&level=hotel&locale=en-US&productcurrency=USD&rooms=1__;!!FjuHKAHQs5udqho!KVPUE209IOCudKB4n3BxWfMv5EA9bckLUnuzZXAXhb_UPwC_fhu3r_2svrkTBslza2TjrTSRe1D4cgHhVDBQjZhK$)** (FIU discounted price valid until Oct. 20)
-
-{% include image-gallery.html 
-   folder="/assets/images/hotels" 
-   item_width="45%" 
-   image_size="medium" 
-   detect_links="true" %}  
+<div style="display: flex; gap: 20px; margin: 20px 0; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1759329848502&key=GRP&app=resvlink" target="_blank" rel="noopener">
+      <img src="/assets/images/hotels/Aloft Miami Doral - booking-aloft.jpg" 
+           alt="Aloft Miami Doral" 
+           style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; transition: border-color 0.2s ease;"
+           onmouseover="this.style.borderColor='#3b3b3b'"
+           onmouseout="this.style.borderColor='#ddd'">
+    </a>
+    <p style="text-align: center; margin-top: 10px; font-weight: bold;">Aloft Miami Doral (discounted price valid till Oct. 16)</p>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px;">
+    <a href="https://be.synxis.com/?adult=1&arrive=2025-11-03&chain=10494&child=0&currency=USD&depart=2025-11-09&group=GRPFSA&hotel=62100&level=hotel&locale=en-US&productcurrency=USD&rooms=1" target="_blank" rel="noopener">
+      <img src="/assets/images/hotels/Provident Doral at The Blue Miami - booking-provident.jpg" 
+           alt="Provident Doral at The Blue Miami" 
+           style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px; transition: border-color 0.2s ease;"
+           onmouseover="this.style.borderColor='#3b3b3b'"
+           onmouseout="this.style.borderColor='#ddd'">
+    </a>
+    <p style="text-align: center; margin-top: 10px; font-weight: bold;">Provident Doral at The Blue Miami (discounted price valid until Oct. 20)</p>
+  </div>
+</div>  
 ---
 # Other Accommodations  
 ## Miami Beach  
