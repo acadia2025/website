@@ -128,9 +128,15 @@
   {% assign call_page_mapping = 'Papers:/call-for-papers,Workshops:/callforworkshops,Book Forum:/book-forum' %}
 {% endif %}
 
+{% comment %} Create a mapping for hotel booking links {% endcomment %}
+{% assign hotel_booking_mapping = '' %}
+{% if include.folder contains 'hotels' %}
+  {% assign hotel_booking_mapping = 'booking-aloft:https://www.marriott.com/event-reservations/reservation-link.mi?id=1759329848502&key=GRP&app=resvlink,booking-provident:https://be.synxis.com/?adult=1&arrive=2025-11-03&chain=10494&child=0&currency=USD&depart=2025-11-09&group=GRPFSA&hotel=62100&level=hotel&locale=en-US&productcurrency=USD&rooms=1' %}
+{% endif %}
+
 <ul class="image-gallery {% if image_size %}image-gallery--{{ image_size }}{% endif %}">
   {% for file in site.static_files %}
-    {% if file.path contains include.folder and (file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.JPG' or file.extname == '.JPEG' or file.extname == '.PNG' or file.extname == '.gif' or file.extname == '.GIF' or file.extname == '.jfif') %}
+    {% if file.path contains include.folder and (file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.JPG' or file.extname == '.JPEG' or file.extname == '.PNG' or file.extname == '.gif' or file.extname == '.GIF' or file.extname == '.jfif' or file.extname == '.webp' or file.extname == '.WEBP') %}
       {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname, "" %}
       {% assign full_filename = filenameparts | last %}
@@ -148,6 +154,21 @@
           {% comment %} Use contains for more flexible matching to handle spaces and special characters {% endcomment %}
           {% if full_filename contains map_parts[0] %}
             {% assign link_url = map_parts[1] %}
+            {% assign is_page_link = true %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      
+      {% comment %} Check for hotel booking links {% endcomment %}
+      {% if hotel_booking_mapping != '' and is_page_link == false %}
+        {% assign mapping_parts = hotel_booking_mapping | split: ',' %}
+        {% for mapping in mapping_parts %}
+          {% assign map_parts = mapping | split: ':' %}
+          {% comment %} Use contains for more flexible matching to handle spaces and special characters {% endcomment %}
+          {% if full_filename contains map_parts[0] %}
+            {% assign link_url = map_parts[1] %}
+            {% assign is_external_link = true %}
             {% assign is_page_link = true %}
             {% break %}
           {% endif %}

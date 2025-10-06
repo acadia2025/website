@@ -3,31 +3,34 @@ title: /miami
 layout: page
 permalink: /miami
 ---
-{% include animation.html pattern="  MIAMI 2025  " overlay_text="Miami" width=600 height=300 %}
 
 # Conference City: Miami  
 
 The 2025 ACADIA conference will take place in **Miami, Florida**. Miami is a vibrant, diverse, and rapidly growing city, often referred to as the "Gateway to the Americas." Known for its iconic Art Deco architecture, stunning beaches, and thriving arts and cultural scene, Miami is also a hub for innovation in technology and design. The conference will highlight Miami's unique position as a crossroads of cultures and a center for cutting-edge architectural research and practice.  
-![Miami](/assets/images/miami/Photo-16.png)
 
 The academic hosts for ACADIA 2025 are **Florida International University** and the **University of Miami**. Both institutions provide an inspiring environment for innovation and collaboration in the fields of architecture, design, and technology.
 
 ---
 
+![Miami](/assets/images/miami/Photo-16.png) 
+
 # Suggested Accommodations  
 
-## Special Conference Rates ⭐
+## Special Conference Rate
 
 **These hotels have special discounted rates for ACADIA 2025 attendees:**
 
 - **[Aloft Miami Doral](https://urldefense.com/v3/__https://www.marriott.com/event-reservations/reservation-link.mi?id=1759329848502&key=GRP&app=resvlink__;!!FjuHKAHQs5udqho!IN0YNGiBO0dXj8W9aMbDpDVv_r7gHTbjQK-Y7dZw8BsyhXdw5d8vJ10ZoJBpummpBXfmCi-MgOMZ5seyY_E$)** (discounted price valid till Oct.17)  
-  [Book Your Stay at Aloft Doral](https://urldefense.com/v3/__https://www.marriott.com/event-reservations/reservation-link.mi?id=1759329848502&key=GRP&app=resvlink__;!!FjuHKAHQs5udqho!IN0YNGiBO0dXj8W9aMbDpDVv_r7gHTbjQK-Y7dZw8BsyhXdw5d8vJ10ZoJBpummpBXfmCi-MgOMZ5seyY_E$)
 
-- **[Provident Doral at The Blue Miami](https://urldefense.com/v3/__https:/be.synxis.com/?adult=1&arrive=2025-11-03&chain=10494&child=0&currency=USD&depart=2025-11-09&group=GRPFSA&hotel=62100&level=hotel&locale=en-US&productcurrency=USD&rooms=1__;!!FjuHKAHQs5udqho!KVPUE209IOCudKB4n3BxWfMv5EA9bckLUnuzZXAXhb_UPwC_fhu3r_2svrkTBslza2TjrTSRe1D4cgHhVDBQjZhK$)** (FIU discounted price valid until Oct. 20)  
-  [Book Your Stay at Provident Doral](https://urldefense.com/v3/__https:/be.synxis.com/?adult=1&arrive=2025-11-03&chain=10494&child=0&currency=USD&depart=2025-11-09&group=GRPFSA&hotel=62100&level=hotel&locale=en-US&productcurrency=USD&rooms=1__;!!FjuHKAHQs5udqho!KVPUE209IOCudKB4n3BxWfMv5EA9bckLUnuzZXAXhb_UPwC_fhu3r_2svrkTBslza2TjrTSRe1D4cgHhVDBQjZhK$)
+- **[Provident Doral at The Blue Miami](https://urldefense.com/v3/__https:/be.synxis.com/?adult=1&arrive=2025-11-03&chain=10494&child=0&currency=USD&depart=2025-11-09&group=GRPFSA&hotel=62100&level=hotel&locale=en-US&productcurrency=USD&rooms=1__;!!FjuHKAHQs5udqho!KVPUE209IOCudKB4n3BxWfMv5EA9bckLUnuzZXAXhb_UPwC_fhu3r_2svrkTBslza2TjrTSRe1D4cgHhVDBQjZhK$)** (FIU discounted price valid until Oct. 20)
 
+{% include image-gallery.html 
+   folder="/assets/images/hotels" 
+   item_width="45%" 
+   image_size="medium" 
+   detect_links="true" %}  
 ---
-
+# Other Accommodations  
 ## Miami Beach  
 
 - **[The Betsy Hotel](https://www.thebetsyhotel.com/)**
