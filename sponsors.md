@@ -35,7 +35,7 @@ permalink: /sponsors
 **Conference Sponsors**  
 {% include image-gallery.html 
    folder="/assets/images/sponsors/conference" 
-   item_width="25%" 
+   item_width="20%" 
    image_size="small" 
    show_caption="false" 
    detect_links="true" %}  
