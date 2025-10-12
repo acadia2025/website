@@ -6,7 +6,7 @@ permalink: /awards
 
 {% include animation.html pattern="  AWARDS  " overlay_text="AWARDS" width=600 height=300 %}
 
-## CADIA Awards of Excellence
+## ACADIA Awards of Excellence
 
 Established in 1998, the ACADIA Awards of Excellence honor outstanding contributions to architectural computing. Originally focused on Teaching, Service, and Research, the program has expanded over time to include Digital Practice, Society, and, more recently, the Impact Award, which recognizes innovative educational and community initiatives. Each year, select individuals or programs are recognized for exceptional and innovative achievements that advance the field of digital design.
 
@@ -53,9 +53,7 @@ This award recognizes innovative teaching in the field of digital design in arch
 ### Kristy Balliet
 [Design Faculty and Undergraduate Programs Chair, SCI-Arc; Partner, BairBalliet](https://www.sciarc.edu/people/faculty/kristy-balliet)
 
-Kristy Balliet is Design Faculty and Undergraduate Programs Chair at SCI-Arc. She is a partner at BairBalliet, a design venture based in Chicago and Los Angeles invested in architecture in the form of both speculative and built projects. BairBalliet's design work has been exhibited and published extensively, including the Venice Architecture Biennale, the Frac, and MoMA. Balliet has published articles on topics related to volume and co-edited several books; Massive Attack: Selected Friends and Enemies, Visual Catalog: Greg Lynn's Studio, and with the co-founders of the Possible Mediums Project published the Possible Mediums book (Actar, 2018).
-
-Balliet holds a Bachelor of Architecture from Philadelphia University and a Master's degree from the UCLA Department of Architecture and Urban Design. Balliet was an Associate Professor at the Knowlton School of Architecture at Ohio State and Assistant Professor in Studio Greg Lynn at the University of Applied Arts, Vienna.
+Kristy Balliet is Design Faculty and Undergraduate Programs Chair at SCI-Arc. She is a partner at BairBalliet, a design venture based in Chicago and Los Angeles invested in architecture in the form of both speculative and built projects. BairBalliet's design work has been exhibited and published extensively, including the Venice Architecture Biennale, the Frac, and MoMA. Balliet has published articles on topics related to volume and co-edited several books; Massive Attack: Selected Friends and Enemies, Visual Catalog: Greg Lynn's Studio, and with the co-founders of the Possible Mediums Project published the Possible Mediums book (Actar, 2018). Balliet holds a Bachelor of Architecture from Philadelphia University and a Master's degree from the UCLA Department of Architecture and Urban Design. Balliet was an Associate Professor at the Knowlton School of Architecture at Ohio State and Assistant Professor in Studio Greg Lynn at the University of Applied Arts, Vienna.
 
 ---
 

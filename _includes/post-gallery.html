@@ -81,24 +81,26 @@
       style="--gallery-item-width: {{ gallery_item_width }};">
     {% assign sorted_posts = site.posts | sort: "date" %}
     {% for post in sorted_posts %}
-      {% if include.category %}
-        {% if post.categories contains include.category %}
-                   {% include post-gallery-item.html 
-            post=post 
-            auto_naming=auto_naming 
-            image_path=image_path 
-            aspect_ratio=aspect_ratio 
-            image_size=image_size 
-            show_caption=show_caption %}
+      {% if post.published != false %}
+        {% if include.category %}
+          {% if post.categories contains include.category %}
+                     {% include post-gallery-item.html 
+              post=post 
+              auto_naming=auto_naming 
+              image_path=image_path 
+              aspect_ratio=aspect_ratio 
+              image_size=image_size 
+              show_caption=show_caption %}
+          {% endif %}
+        {% else %}
+          {% include post-gallery-item.html 
+             post=post 
+             auto_naming=auto_naming 
+             image_path=image_path 
+             aspect_ratio=aspect_ratio 
+             image_size=image_size 
+             show_caption=show_caption %}
         {% endif %}
-      {% else %}
-        {% include post-gallery-item.html 
-           post=post 
-           auto_naming=auto_naming 
-           image_path=image_path 
-           aspect_ratio=aspect_ratio 
-           image_size=image_size 
-           show_caption=show_caption %}
       {% endif %}
     {% endfor %}
   </ul>

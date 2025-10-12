@@ -7,6 +7,7 @@ permalink: /metahuman-creator
 project: true
 category: site-workshop
 thumbnail: assets/images/workshops/ACADIA_25_METAHUMAN.png
+published: false
 
 ---
 
