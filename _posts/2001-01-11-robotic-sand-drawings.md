@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Robotic Sand Drawings on Miami Beach"
+title:  "Robotic Sand Drawings"
 date:   2014-06-10
 caption: Robotic Sand Drawings Workshop
 permalink: /robotic-sand-drawings
@@ -12,13 +12,13 @@ thumbnail: assets/images/workshops/acadia25-workshop_roboticsand.png
 
 ![{{ page.title }}]({{ page.thumbnail }}){: class="post-thumbnail" }
 
-# Robotic Sand Drawings on Miami Beach
+# Robotic Sand Drawings 
 
 # [Registration Link](https://www.eventbrite.com/e/acadia-2025-workshops-tickets-1559581613589?aff=oddtdtcreator)
 
 **Workshop Registration opens September 8th, 2025! Click the link above to be notified when registration becomes available.**
 
-### Location : Miami Beach
+### Location : FIU Courtyard
 
 ## Workshop Team
 ---
@@ -27,16 +27,16 @@ thumbnail: assets/images/workshops/acadia25-workshop_roboticsand.png
 Also known as "The Robot Whisperer"
 
 ## Workshop Description
-This hands-on workshop teaches how to create large-scale sand drawings using cable-driven robots on Miami Beach. Participants will learn about hardware setup, calibration techniques, and develop custom control software to create their own sand drawings that will then be documented through aerial photography.
+This hands-on workshop teaches how to create large-scale sand drawings using cable-driven robots at the FIU courtyard. Participants will learn about hardware setup, calibration techniques, and develop custom control software to create their own sand drawings that will then be documented through aerial photography.
 
 Learning objectives include: how to deploy and manage robotic systems in outdoor environments; reimagining drawing machines for large-scale contexts; creating interactive software for expressive drawing.
 
 The workshop is built around a new iteration of a lightweight cable-robot system that previously debuted at [ROB&#124;ARCH 2024](https://robarch2024.org/Choreographing-Cable-Robots). The system uses four poles with pulley anchor points, four robotic winches called [Koriobots](https://github.com/madelinegannon/koriobots), a central control server and custom electronics, and a custom end effector for sand manipulation. We will provide shade, power, wifi, and cold drinks.
 
-Participants will gain practical skills deploying robots in outdoor environments, experience writing interactive software for creative applications, and collaborate in a relaxed beach setting. The workshop balances technical learning with a one-of-a-kind experience of Miami. Expect sandy toes, creative experimentation, and more than likely a tan. Documentation will capture both the technical achievements and the laid-back collaborative atmosphere that emerges when computational design meets beachfront computing.
+Participants will gain practical skills deploying robots in outdoor environments, experience writing interactive software for creative applications, and collaborate in a relaxed courtyard setting. The workshop balances technical learning with a one-of-a-kind experience at FIU. Expect creative experimentation and collaborative learning. Documentation will capture both the technical achievements and the collaborative atmosphere that emerges when computational design meets outdoor computing.
 
 ## Keywords
-interactive, robot, drawing, drawing machine, beach, party
+interactive, robot, drawing, drawing machine, courtyard, collaboration
 
 ## Workshop Schedule
 **This is a 1 Day, 8 Hour Workshop**
@@ -70,13 +70,13 @@ interactive, robot, drawing, drawing machine, beach, party
 - Open to Public
 
 ## Location
-**Near 35th Street Lifeguard Tower**  
-Public Parking & Restrooms: 3501 Collins Ave, Miami Beach, FL 33140, United States
+**FIU SOA Courtyard**  
+Florida International University, Miami, FL
 
 ## Prerequisites
 - Interest in robotics and outdoor computing
 - Basic understanding of software development helpful but not required
-- Willingness to work in outdoor beach environment
+- Willingness to work in outdoor courtyard environment
 - Comfort with collaborative, experimental learning
 
 ## Workshop Outcomes
