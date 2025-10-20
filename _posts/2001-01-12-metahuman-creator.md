@@ -19,6 +19,10 @@ published: false
 
 **Workshop Registration opens September 8th, 2025! Click the link above to be notified when registration becomes available.**
 
+## Refund and Change Policy
+
+**Important:** Refund and change requests will not be accepted beyond Monday, October 20th.
+
 ### Location : UM
 
 ## Workshop Team
