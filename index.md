@@ -12,6 +12,8 @@ permalink: /
 
 ### [Florida International University](/fiu) and [University of Miami](/um)  
 
+### [Calls for Submissions](/calls)
+
 ### Conference Theme
 
 The ACADIA 2025 theme, **COMPUTING for RESILIENCE: Expanding Community Knowledge & Impact**, explores building resilience in an increasingly uncertain world, a challenge particularly relevant to Miami. As a city confronting significant physical, economic, and climatic challenges, Miami represents a microcosm of global issues, requiring innovative responses. Here, these challenges are not abstract; they are vividly apparent, making Miami both a hotspot for crisis and a hub of innovation. The city grapples with a unique convergence of issues—from restrictive educational policies and historical erasures to the constant threat of rising sea levels—each adding complexity to its future. However, this intense environment also positions Miami as a precedent-setting city for resilience and adaptation.
