@@ -40,6 +40,14 @@ permalink: /sponsors
    show_caption="false" 
    detect_links="true" %}  
 
+**Academic and Institutional Support**  
+{% include image-gallery.html 
+   folder="/assets/images/sponsors/academic" 
+   item_width="30%" 
+   image_size="medium" 
+   show_caption="false" 
+   detect_links="true" %}  
+
 <!-- **Media Sponsors**  
 {% include image-gallery.html folder="/assets/images/miami/media" %}  
 
