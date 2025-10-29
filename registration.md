@@ -46,6 +46,7 @@ Information forthcoming
 
 - Refund requests will be accepted until October 30, 2025, at 11:59 PM EDT, which is seven days before the start of the conference.
 - To request a refund, email **2025@acadia.org** with your registration details. No refunds will be issued after this deadline.
+- **Important:** Refund and change requests will not be accepted beyond Monday, October 20th.
 
 ---
 

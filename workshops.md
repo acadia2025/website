@@ -14,3 +14,7 @@ permalink: /workshops
 {% include post-gallery.html category="online-workshop" gallery_item_width="44%" %}
 
 ### [Call For Workshops](/callforworkshops) (closed)
+
+## Refund and Change Policy
+
+**Important:** Refund and change requests will not be accepted beyond Monday, October 20th.

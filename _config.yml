@@ -6,17 +6,16 @@ logo: "/assets/images/acadia_logo.png"
 2025logo: "/assets/images/logo-l.png"
 
 header_pages:
-  #- index.md
+  - index.md
   # - about.md
-  - calls.md
-  - workshops.md
-  - keynotes.md
+  - registration.md
   - schedule.md
+  - workshops.md
   - awards.md
   - sponsors.md
-  - registration.md
-  - hosts.md
   - miami.md
+  - hosts.md
+  #- calls.md
 
 style: light
 

@@ -17,6 +17,11 @@ thumbnail: assets/images/workshops/acadia25-workshop_biomaterial.jpg
 # [Registration Link](https://www.eventbrite.com/e/acadia-2025-workshops-tickets-1559581613589?aff=oddtdtcreator)
 
 **Workshop Registration opens September 8th, 2025! Click the link above to be notified when registration becomes available.**
+
+## Refund and Change Policy
+
+**Important:** Refund and change requests will not be accepted beyond Monday, October 20th.
+
 ### Location : FIU
 
 ## Workshop Team
