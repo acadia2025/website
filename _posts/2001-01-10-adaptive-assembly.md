@@ -42,34 +42,39 @@ Participants will configure and control a virtual robotic arm fitted with a Real
 - **Configure a simulated RealSense camera** and interpret point cloud or depth-based data
 
 ## Workshop Schedule
-**Number of days**: 2  
-**Daily hours**: 6 hours per day
+**Day 1 – Tuesday, Nov. 4 (9:00 am - 5:30 pm)  
+Day 2 – Wednesday, Nov. 5 (9:00 am - 5:00 pm)**
 
-### Day 1: Simulation Setup & Sensor Integration
+### Day 1 – Tuesday, Nov. 4: Simulation Setup & Sensor Integration
 
-#### Session 1: Installation, Navigation, and Scene Fundamentals (3 hrs)
+#### Session 1: Installation, Navigation, and Scene Fundamentals (9:00 am - 12:30 pm, with break)
 - Guided installation and setup of Isaac Sim with overview
 - Overview of Isaac Lab & Sim for building scenes and training
 - Create and configure a new simulation environment (ground plane, lighting, physics)
 - Place and modify basic objects with physics-based properties (collision, mass, friction)
 - Use Isaac's asset libraries vs. importing your own .USD/.FBX/.STL scanned assets
 
-#### Session 2: Sensors and Scene Scanning (3 hrs)
+**Lunch: 12:30-1:30 pm**
+
+#### Session 2: Sensors and Scene Scanning (1:30 pm - 5:30 pm)
 - Introduction to the RealSense stereo depth camera
 - Add and calibrate a RealSense sensor in simulation
 - Capture and visualize depth data and RGB imagery
 - Explore depth maps, segmentation, and point cloud exports
 - Begin integrating imported scanned objects (debris, architectural fragments)
 
-### Day 2: Robotic Manipulation and Task Logic
+### Day 2 – Wednesday, Nov. 5: Robotic Manipulation and Task Logic
 
-#### Session 3: Robot Integration and Training Manipulation Setup (3 hrs)
+#### Session 3: Robot Integration and Training Manipulation Setup (9:00 am - 12:30 pm, with break)
 - Import and configure a robot arm in Isaac Sim
 - Review kinematics, joints, and gripper setup
 - Introduce basic object detection logic using spatial coordinates and bounding volumes
 - Plan and simulate grasping of one scanned object using hard-coded rules
 
-#### Session 4: Classification + Adaptive Assembly Task (3 hrs)
+**Lunch: 12:30-1:30 pm**
+
+#### Session 4: Classification + Adaptive Assembly Task (1:30 pm - 5:00 pm)
+- 5:00 pm: Workshop outcomes presentation
 - Use perception data to classify object types or sizes
 - Create rule-based logic for part sorting (e.g., place large debris here, small here)
 - Simulate adaptive stacking: simple placement strategies that respond to object location or category

@@ -44,8 +44,9 @@ Through structured demonstrations and hands-on exercises, participants will exam
 **Online Workshop** - One Day, 6 Hours Total
 
 ## Workshop Schedule
+**Day 3 – Wednesday, November 5 (9:00 am - 5:00 pm)**
 
-### Part 1: Foundations of Neuroscience for Architecture (2 hours)
+### Part 1: Foundations of Neuroscience for Architecture (Morning Session)
 
 #### Module 1: Introduction and Framing (45 minutes)
 - What is Neuroscience for Architecture (NfA)?
@@ -58,18 +59,21 @@ Through structured demonstrations and hands-on exercises, participants will exam
 
 **Break (15 minutes)**
 
-### Part 2: ABM Methodology and Application (4 hours)
+### Part 2: ABM Methodology and Application (Afternoon Session)
 
-#### Module 3: ABM Demonstration and Guided Exercise (2 hours)
+**Lunch: 12:30-1:30 pm**
+
+#### Module 3: ABM Demonstration and Guided Exercise
 - Pre-coded model in Rhino + Grasshopper
 - Adjusting parameters: memory decay, decision noise, landmark reliance, avoidance zones
 - Simulating behaviors reflecting ADHD, Alzheimer's, and Autism Spectrum traits
 
-#### Module 4: Applied Testing and Scenario Exploration (1.5 hours)
+#### Module 4: Applied Testing and Scenario Exploration
 - Experimenting with corridor widths, spatial sequences, and landmark placement
 - Observing effects on agent navigation and heatmap generation
 
-#### Module 5: Diagram Preparation and Group Reflection (30 minutes)
+#### Module 5: Diagram Preparation and Group Reflection
+- 5:00 pm: Workshop outcomes presentation
 
 ## Equipment and Tools Provided
 - Pre-coded Rhino + Grasshopper ABM scripts

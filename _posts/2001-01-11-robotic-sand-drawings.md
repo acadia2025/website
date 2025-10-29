@@ -39,35 +39,33 @@ Participants will gain practical skills deploying robots in outdoor environments
 interactive, robot, drawing, drawing machine, courtyard, collaboration
 
 ## Workshop Schedule
-**This is a 1 Day, 8 Hour Workshop**
+**Day 3 – Wednesday, November 5 (One Day Workshop)**
 
 ### Pre-Workshop (optional attendance): 2.5 hours
-**6AM – 8:30AM**
+**6:00 AM – 8:30 AM**
 - Set up camp
 - Install anchor poles
 - Route cables & install end-effector
 - Calibration
 
-### Introduction: 1 hour
-**9AM – 10:30AM**
+### Introduction (9:00 AM – 10:30 AM)
 - Welcome
 - System Walkthrough
 - Calibration Process
 - Software Overview
 - Demonstrations
 
-### Software Development: 2 hours
-**11AM – 1PM**
+### Software Development (11:00 AM – 1:00 PM)
 - API Overview
 - Templates: Grasshopper, Processing, Blender, Python
 - Examples: parametric patterns, text, camera input
 
-### Lunch: 1 hour
-**1PM – 2PM**
+### Lunch (1:00 PM – 2:00 PM)
 
-### Production, Documentation & Hang: 2PM to Sunset
+### Production, Documentation & Hang (2:00 PM to 5:00 PM)
 - Drawing and documenting together
 - Open to Public
+- 5:00 pm: Workshop outcomes presentation
 
 ## Location
 **FIU SOA Courtyard**  

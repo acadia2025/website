@@ -84,10 +84,10 @@ To ensure everyone can hit the ground running, the following familiarity is pref
 Participants without prior experience in any of these areas will still be able to follow along and learn through guided instruction.
 
 ## Workshop Schedule
-**Workshop Duration**: 2 Days  
+**Workshop Duration**: 2 Days (Tuesday, Nov. 4 - Wednesday, Nov. 5)  
 **Workshop Attendees**: 15–25 participants
 
-### Day 1: Foundations and Basic Joint Generation
+### Day 1 – Tuesday, November 4: Foundations and Basic Joint Generation
 
 | Time | Session | Details |
 |------|---------|---------|
@@ -98,9 +98,9 @@ Participants without prior experience in any of these areas will still be able t
 | 12:45 – 13:45 | Lunch | — |
 | 13:45 – 15:15 | Mapping Prompts to Grasshopper C# | Anatomy of a GH C# component; reusable scaffolds for joint types |
 | 15:15 – 15:30 | Break | — |
-| 15:30 – 17:00 | Hands-On Lab: Generate & Test Joints | Live demo; importing, debugging, running in Grasshopper |
+| 15:30 - 17:00 | Hands-On Lab: Generate & Test Joints | Live demo; importing, debugging, running in Grasshopper |
 
-### Day 2: Refinement and Structural Integration
+### Day 2 – Wednesday, November 5: Refinement and Structural Integration
 
 | Time | Session | Details |
 |------|---------|---------|

@@ -47,9 +47,10 @@ This is a data-grounded, forward-looking workshop that bridges simulation and de
 - **Strategize facade adaptation mechanisms** based on simulation feedback
 
 ## Workshop Schedule
-The workshop is designed as a **1-day intensive session (6–7 hours total)**, ideal for deep immersion and focused learning in an online setting. Alternatively, it can be delivered as a **2-day split format (3–3.5 hours per day)** to better accommodate different time zones and reduce screen fatigue.
+**Day 3 – Wednesday, November 5 (9:00 am - 5:00 pm)**
+This is a 1-day intensive session, ideal for deep immersion and focused learning in an online setting.
 
-### One-Day Schedule (EST)
+### Wednesday, November 5 Schedule
 
 | Time | Session Title | Description |
 |------|---------------|-------------|
@@ -61,7 +62,8 @@ The workshop is designed as a **1-day intensive session (6–7 hours total)**, i
 | 1:00–2:15 | Thermal Comfort Analysis with Honeybee | Use Honeybee to simulate PMV/UTCI in interior zones under future climate conditions; test facade impacts |
 | 2:15–3:30 | Multi-Objective Optimization | Define objectives (e.g., radiation < threshold, UTCI in target range); optimize facade geometry using Galapagos |
 | 3:30–4:15 | Design Response Strategies | Explore how simulated data drives adaptation logic; prototype design responses (folding panels, vents, density shifts) |
-| 4:15–5:00 | Discussion + Showcase | Present selected results, discuss challenges, future potential, and extensions for physical prototyping |
+| 4:15–5:00 | Discussion + Showcase | Present selected results, discuss challenges, future potential, and extensions for physical prototyping
+- 5:00 pm: Workshop outcomes presentation |
 
 ## Workshop Format
 **One-Day Online Workshop (6–7 hours including breaks)** or **Two Days Part time**

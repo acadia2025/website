@@ -53,12 +53,13 @@ Participants will leave with a critical vocabulary and reflective toolkit for in
 - **Cultivate architectural literacy to integrate AI as an epistemic infrastructure** shaping design agency and practice
 
 ## Workshop Schedule
-**Number of days**: 3  
-**Daily hours**: 6 (3 Morning + 3 Afternoon)
+**Day 1 – Monday, Nov. 3 (9:00 am - 5:30 pm)  
+Day 2 – Tuesday, Nov. 4 (9:00 am - 5:30 pm)  
+Day 3 – Wednesday, Nov. 5 (9:00 am - 5:00 pm)**
 
-### Day 1: AI, History, and the Structuring of Architectural Knowledge
+### Day 1 – Monday, Nov. 3: AI, History, and the Structuring of Architectural Knowledge
 
-**Morning (3h)**
+**Morning (9:00 am - 12:30 pm)**
 - Lecture: From Cybernetics to AI: Computation and Architectural Thought
 - Reading Discussion: Introduction into Pedro Domingo's "Master Algorithm"
 - Case Study: Taxonomies, Precedents, and Latent Space
@@ -67,9 +68,14 @@ Participants will leave with a critical vocabulary and reflective toolkit for in
 - Seminar: AI and the Reconfiguration of Architectural Authorship
 - Roundtable: Memory, Bias, and Training Data Politics
 
-### Day 2: Theories of AI, Ontology, and Representation
+**Lunch Break (12:30-1:30 pm)**
 
-**Morning (3h)**
+**Afternoon (1:30 pm - 5:30 pm)**
+- Continuation of Day 1 afternoon sessions
+
+### Day 2 – Tuesday, Nov. 4: Theories of AI, Ontology, and Representation
+
+**Morning (9:00 am - 12:30 pm)**
 - Lecture: Ontology and AI – Image, Model, Object
 - Reading Discussion: Everything can be an Author? AI and Creative Agency
 - Case Study: Diffusion Models and Architectural Form
@@ -78,9 +84,14 @@ Participants will leave with a critical vocabulary and reflective toolkit for in
 - Seminar: The Aesthetics of AI – Estrangement, Computation, Originality and Architectural Fiction
 - Roundtable: From Blueprint to Dataset – Ontological Shifts
 
-### Day 3: AI, Ethics, and the Resilience of Architectural Thought
+**Lunch Break (12:30-1:30 pm)**
 
-**Morning (3h)**
+**Afternoon (1:30 pm - 5:30 pm)**
+- Continuation of Day 2 afternoon sessions
+
+### Day 3 – Wednesday, Nov. 5: AI, Ethics, and the Resilience of Architectural Thought
+
+**Morning (9:00 am - 12:30 pm)**
 - Lecture: Computational Extraction and Environmental Costs
 - Reading Discussion: Between The Stack and Atlas of AI, Planetary Intelligence and Ecological Responsibility
 - Case Study: Algorithmic Bias and Inclusion Politics
@@ -88,6 +99,12 @@ Participants will leave with a critical vocabulary and reflective toolkit for in
 **Afternoon (3h)**
 - Panel Discussion: AI and Architectural Futures: Automation, Labor, and Creative Practice
 - Final Reflections: Where Do We Go From Here? Rethinking Computation, Resilience, and Architectural Knowledge
+
+**Lunch Break (12:30-1:30 pm)**
+
+**Afternoon (1:30 pm - 5:00 pm)**
+- Continuation and final discussion
+- 5:00 pm: Workshop outcomes presentation
 
 ## Workshop Format
 **Online Workshop** - 3 Days, 6 Hours per Day

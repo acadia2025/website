@@ -46,18 +46,23 @@ In this workshop participants will be introduced to the principals of 3d Graphic
 **Duration**: 3 days  
 **Number of Participants**: 15 (will work in groups of 3)
 
-### Day 1 (8-hours): 3D Graphic Statics Form Finding
-- Introduction to 3D Graphic Statics and reciprocal form and force diagrams
-- Introduction to PolyFrame 2 and Shellular structures
-- Design a shellular structure module.
+### Day 1 – Monday, Nov. 3 (9:00 am - 5:30 pm): 3D Graphic Statics Form Finding
+- 9:00 am: Introduction to 3D Graphic Statics and reciprocal form and force diagrams
+- Morning: Introduction to PolyFrame 2 and Shellular structures
+- Afternoon: Design a shellular structure module.
+- Lunch: 12:30-1:30 pm
 
-### Day 2 (8-hours): Geometry Optimization for 3D printing
-- Introduction to geometry overhang analysis, mesh optimization for 3d printing
-- Generating print path with grasshopper and texture application for coral plug integration.
+### Day 2 – Tuesday, Nov. 4 (9:00 am - 5:30 pm): Geometry Optimization for 3D printing
+- Morning: Introduction to geometry overhang analysis, mesh optimization for 3d printing
+- Lunch: 12:30-1:30 pm
+- Afternoon: Generating print path with grasshopper and texture application for coral plug integration.
 - Exporting G-Code for clay 3d printing and preparation of test prints
 
-### Day 3 (8-hours): Fabrication Day
-- 3D Printing and troubleshooting of the final designs.
+### Day 3 – Wednesday, Nov. 5 (9:00 am - 5:00 pm): Fabrication Day
+- Morning: 3D Printing and troubleshooting of the final designs.
+- Lunch: 12:30-1:30 pm
+- Afternoon: Final printing and documentation
+- 5:00 pm: Workshop outcomes presentation
 
 ### Needed Software
 - Rhino3d 8

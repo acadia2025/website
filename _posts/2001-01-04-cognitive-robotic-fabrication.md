@@ -49,46 +49,49 @@ The workshop targets participants with basic programming experience, ideally in 
 - **Collaboration within interdisciplinary teams**
 
 ## Workshop Schedule
-**3 Days, 6 hours per day** – exact times will be adjusted to logistics, final hardware specifications and participant capabilities.
+**Day 1 – Monday, Nov. 3 (9:00 am - 5:30 pm)  
+Day 2 – Tuesday, Nov. 4 (9:00 am - 5:30 pm)  
+Day 3 – Wednesday, Nov. 5 (9:00 am - 5:00 pm)**
 
-### Day 1: Foundations and First Steps
-**Morning Session**:
+### Day 1 – Monday, Nov. 3: Foundations and First Steps
+**Morning Session** (9:00 am - 12:30 pm):
 - Introduction, orientation and foundations
 - Hardware walk-through
 - Installing / launching required software
 - First robot program
 
-**Afternoon Session**:
+**Afternoon Session** (1:30 pm - 5:30 pm):
 - Principles of 3D vision and model sensing
 - Hands-on calibration
 - Streaming data into Grasshopper
 - Simple closed-loop demo
 
-### Day 2: Data-Driven Development
-**Morning Session**:
+### Day 2 – Tuesday, Nov. 4: Data-Driven Development
+**Morning Session** (9:00 am - 12:30 pm):
 - Data-driven tool paths
 - Generating complex, sensor-based trajectories in Grasshopper
 - PRC simulation deep-dive
 - Develop workshop team goal
 
-**Afternoon Session**:
+**Afternoon Session** (1:30 pm - 5:30 pm):
 - Defined Fabrication concept
 - Develop cross-platform pipelines
 - Integrate data streams
 - Iterative testing
 
-### Day 3: Fabrication and Finalization
-**Morning Session**:
+### Day 3 – Wednesday, Nov. 5: Fabrication and Finalization
+**Morning Session** (9:00 am - 12:30 pm):
 - Troubleshooting and tuning
 - Material adjustments
 - Digital fabrication workflow testing
 - Real-time adaptation to material deviation
 
-**Afternoon Session**:
+**Afternoon Session** (1:30 pm - 5:00 pm):
 - Final fabrication runs
 - Documentation
 - Team presentation of workflows and outcomes
 - Critique and discussion of future research
+- 5:00 pm: Workshop outcomes presentation
 
 ## Prerequisites
 - Basic programming experience, ideally in Grasshopper, C# and/or Python (not essential)
