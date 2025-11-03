@@ -1,5 +1,5 @@
 ---
-title: /sponsors
+title: Sponsors
 layout: page
 permalink: /sponsors
 ---
