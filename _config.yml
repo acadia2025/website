@@ -7,7 +7,7 @@ logo: "/assets/images/acadia_logo.png"
 
 header_pages:
   # - index.md
-  # - about.md
+  - workshops.md
   - registration.md
   - schedule.md
   - calls.md
