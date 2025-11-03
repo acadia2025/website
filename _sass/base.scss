@@ -133,7 +133,8 @@ footer { margin-bottom: 20px; }
     }
 
     .dropdown:hover .dropdown-menu,
-    .dropdown:focus-within .dropdown-menu {
+    .dropdown:focus-within .dropdown-menu,
+    .dropdown.active .dropdown-menu {
       display: flex;
     }
 
