@@ -10,18 +10,20 @@ header_pages:
   - title: Attend
     children:
       - registration.md
-      - schedule.md
-      - miami.md
   - title: Submit
     children:
-      - calls.md
+      - workshops-call.md
+      - call for papers.md
+      - book-forum.md
   - title: Program
     children:
+      - schedule.md
       - workshops.md
       - awards.md
       - gallery.md
   - title: About
     children:
+      - miami.md
       - hosts.md
       - sponsors.md
 
