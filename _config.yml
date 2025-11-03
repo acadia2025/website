@@ -7,15 +7,23 @@ logo: "/assets/images/acadia_logo.png"
 
 header_pages:
   # - index.md
-  - workshops.md
-  - registration.md
-  - schedule.md
-  - calls.md
-  - awards.md
-  - sponsors.md
-  - miami.md
-  - hosts.md
-  - gallery.md
+  - title: Attend
+    children:
+      - registration.md
+      - schedule.md
+      - miami.md
+  - title: Submit
+    children:
+      - calls.md
+  - title: Program
+    children:
+      - workshops.md
+      - awards.md
+      - gallery.md
+  - title: About
+    children:
+      - hosts.md
+      - sponsors.md
 
 style: light
 
