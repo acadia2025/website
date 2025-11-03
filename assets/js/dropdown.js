@@ -1,5 +1,5 @@
 // Dropdown menu functionality
-// Keeps dropdown open when clicked, not just on hover
+// Opens dropdown only on click, closes other open dropdowns
 
 document.addEventListener('DOMContentLoaded', function() {
   const dropdowns = document.querySelectorAll('.dropdown');
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
       e.preventDefault();
       e.stopPropagation();
       
-      // Close all other dropdowns
+      // Close all other dropdowns first
       dropdowns.forEach(function(otherDropdown) {
         if (otherDropdown !== dropdown) {
           otherDropdown.classList.remove('active');
@@ -24,11 +24,6 @@ document.addEventListener('DOMContentLoaded', function() {
       
       // Toggle current dropdown
       dropdown.classList.toggle('active');
-    });
-    
-    // Keep dropdown open when hovering over it
-    dropdown.addEventListener('mouseenter', function() {
-      dropdown.classList.add('active');
     });
     
     // Keep dropdown open when clicking inside it

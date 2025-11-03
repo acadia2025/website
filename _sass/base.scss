@@ -132,8 +132,6 @@ footer { margin-bottom: 20px; }
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     }
 
-    .dropdown:hover .dropdown-menu,
-    .dropdown:focus-within .dropdown-menu,
     .dropdown.active .dropdown-menu {
       display: flex;
     }
