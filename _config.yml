@@ -35,4 +35,5 @@ footer: 'follow us on <a href="https://www.instagram.com/acadiaorg/">Instagram</
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
