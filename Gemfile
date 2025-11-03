@@ -2,7 +2,12 @@
 
 source "https://rubygems.org"
 
-# Pin to Jekyll 3.9.x to avoid sass-embedded compatibility issues
-gem "jekyll", "~> 3.9.0"
+# CSV gem required for Ruby 3.4+ (not needed for Ruby < 3.4, but harmless)
+gem "csv"
+
+# Use github-pages gem which bundles compatible Jekyll and dependencies
+gem "github-pages", group: :jekyll_plugins
+
+# Additional plugins (github-pages may include these, but explicit is safer)
 gem "jekyll-remote-theme"
 gem "jekyll-seo-tag"
