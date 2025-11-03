@@ -18,7 +18,6 @@ header_pages:
       - book-forum.md
   - title: Program
     children:
-      - schedule.md
       - workshops.md
       - awards.md
       - gallery.md
@@ -26,7 +25,6 @@ header_pages:
     children:
       - miami.md
       - hosts.md
-      - sponsors.md
   - sponsors.md
 
 style: light
