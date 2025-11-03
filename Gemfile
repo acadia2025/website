@@ -2,6 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll", ">= 3.5", "< 5.0"
-gem "jekyll-remote-theme", "~> 0.4"
-gem "jekyll-seo-tag", "~> 2.8"
+# Pin to Jekyll 3.9.x to avoid sass-embedded compatibility issues
+gem "jekyll", "~> 3.9.0"
+gem "jekyll-remote-theme"
+gem "jekyll-seo-tag"
