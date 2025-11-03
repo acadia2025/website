@@ -10,12 +10,12 @@ header_pages:
   # - about.md
   - registration.md
   - schedule.md
-  - workshops.md
+  - calls.md
   - awards.md
   - sponsors.md
   - miami.md
   - hosts.md
-  #- calls.md
+  - gallery.md
 
 style: light
 
